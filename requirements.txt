@@ -1,0 +1,62 @@
+streamlit>=1.31.0
+pandas>=2.1.0
+geopandas>=0.14.0
+folium>=0.15.0
+streamlit-folium>=0.17.0
+spacy>=3.7.0
+nltk>=3.8.1
+rpy2>=3.5.14
+matplotlib>=3.8.0
+
+# Ecosystem for Qualitative Research
+# Equivalent to NVivo / Atlas.ti | Environmental Observatories Colombia
+
+# Word clouds and frequency analysis
+wordcloud>=1.9.3
+Pillow>=10.0.0
+
+# Topic Modeling / Assisted thematic coding
+bertopic>=0.16.0
+gensim>=4.3.2
+top2vec>=1.0.27
+scikit-learn>=1.4.0
+umap-learn>=0.5.6
+hdbscan>=0.8.33
+sentence-transformers>=2.7.0
+
+# Sentiment analysis
+transformers>=4.40.0
+torch>=2.2.0
+textblob>=0.18.0
+vaderSentiment>=3.3.2
+
+# Co-occurrence networks
+networkx>=3.3
+pyvis>=0.3.2
+plotly>=5.20.0
+
+# KWIC concordance
+regex>=2024.4.16
+
+# Matrices and mixed methods
+numpy>=1.26.0
+seaborn>=0.13.0
+statsmodels>=0.14.2
+scipy>=1.13.0
+openpyxl>=3.1.2
+xlsxwriter>=3.2.0
+tabulate>=0.9.0
+
+# Automatic transcription (Whisper)
+openai-whisper
+ffmpeg-python>=0.2.0
+
+# Additional tools
+jupyter>=1.0.0
+ipykernel>=6.29.0
+ipywidgets>=8.1.0
+tqdm>=4.66.0
+python-docx>=1.1.0
+PyMuPDF>=1.24.0
+chardet>=5.2.0
+langdetect>=1.0.9
