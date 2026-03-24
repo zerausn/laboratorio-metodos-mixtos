@@ -1,0 +1,271 @@
+SANTIAGO DE CALI
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2026
+ADMINISTRACION CENTRAL
+CENTRO
+FONDO
+GESTOR
+NOMBRE FONDO
+CONCEPTO
+4131 1:2.1.0.00
+Ingresos corrientes de Libre Dastinación
+1:1.02:03:001.11.01.03.04
+12:34.02
+ICED LEY 99 Destina Ambiental
+11.02.03:001:11:01:03:04
+4131
+1.2.10:00
+Ingresos comentes de Libre Destinación
+11.02.03.001 11:01:03:05
+POSICIÓN
+PRESUPUESTALASER
+MODIFICADO A RECAUDO TOTAL EJEC
+Sanciones Tributarias Impuesto Retelca sobre 990.000 990.000
+actividades de servicios Vigencia Antenor
+Sanciones Tributanes Impuesto Relelca sobre
+actividades de servicios Vigencia Anterior
+Sanciones Regimen Simple de Tributación actividades
+servicios Vigancia Actual
+10:00010.000170.9317 -1:703.9
+PRESUPUESTO
+INICIAL
+PRESUPUESTO
+16:868:927 -1.703.9
+990000-
+000:066
+4131
+1.2.3.4:02:
+ICLD LEY 99- Destino Ambiental
+1.1.02.03.001.11.01.03.05
+Sanciones Regimen Simple de Tributación-actividades.
+10,000
+10.000
+servicios Vigencia Actual
+4131
+1.2.1.0,00
+Ingresos corrientes de Libre Desținecióri
+1.1,02,03.001.11.01.03.06
+Sanciones Regimen Simple de Tributación-actividades
+990,000
+10
+990,000
+3.344.220 - 337,8
+servicios vigencia Anterior
+4.
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambiental
+1.1.02.03.001.11.01.03.06
+Sanciones Regimen Simple de Tributación-actividades
+10:000
+10.000
+33.780
+337,8
+servicios vigencia Anterior
+4131
+1.2.1.0.00.
+Ingrasos comentas de Libre Destinación
+1.1.02.03.001.11.02
+Sanciones Tibutarias Extemporaneidad impuesto de
+990.000
+990.000
+41.562.180 4.198,2
+Espectáculos Públicos Municipal
+4131
+1.2.3.4.02
+ICLD LEY 99 Dastino Ambiental
+1.1.02.03.001.11.02
+Sanciones Tributarias Extemporaneidad Impuesto de
+10.000
+10.000
+419.820 4.198,2
+Espactáculos Públicos Municipal
+4131
+1.2.3.1.12
+Impuesto de espectáculos públicos nacional con destino 1.1.02.03.001.11.02
+Sanciones Tributarías Extemporaneidad Impuesto de
+26.030.000
+al deporte--
+Espectáculos Públicos Municipal
+4131
+1.2.3.2.06
+Contribución sobra Contratos de Obra Pública
+1.1.02.03.001.11.03
+Sanciones tributarías Contribución Especial Sobre
+Contratos de Obras Públicas
+1.1.02.03.001.11.04
+Sanciones Tributarias Estampilla Pro Cultura
+31.939.051
+4131
+1.2.3.1.19.01
+Estampilia procuilura
+1.1.02.03.001.11.04
+Sanciones Tributarias Estampilla Pro Cultura
+14.372.574
+4131
+1.2.3.1.19.02
+Estampilla Procultura Fonpet 20%
+1.1.02.03.001.11.04
+Sanciones Tributarias Estampilla Pro Cultura
+6.387.811
+4131
+1.2.3.1.19.03
+Estampilla procultura tey 397/97 (seguridad sociai de 1.1.02.03.001.11.04
+Sanciones Tributarias Estamplita Pro Cuitura
+3.193.904
+los gastores culturales 10%)
+4131
+1.2.3.1.19.04
+Estampiita procultura ley 1379/2010 (Red Nacional de 1.1.02.03.001.11.04
+Sanciones Tributarias Estampilla Pro Cultura
+3.193.904
+bibliotecas 10%)
+4131
+1.2.3.1.19.05
+Estampilia procuitura acuerdo 232 (conservacion
+1.1.02.03.001.11.04
+Sanciones Tributarias Estampilla Pro Cultura
+1.596.951
+patrimonio cultural 5%)
+4131
+1.2.3.1.19.07
+Estampitia Procultura Finan. Inst. Univ. IPC
+1.1.02.03.001.11.04
+Sanciones Tributarias Estampilla Pro Cultura
+3.193.907
+4145
+1.2.3.2.25.04
+Muitas y sanciones Sanitarias Secretaría de Salud
+1.1.02.03.001.13
+Sanciones senitarias
+190.659.225
+1.1.02.03.001.20
+Multas código nacionai de Seguridad y Convivencia
+3.170.747.222
+3.170.747.222
+2.371.000.891
+74,8
+Ciudadana
+1.1.02.03.001.20.01
+Muitas Código Nacional de Seguridad y Convivencia
+3.170.717.222
+3.170.717.222
+2.371.000.891
+74,8
+Cludadana - Multas Genorajos
+4131
+1.2.3.2.24.04
+CNSCC 30% Ley 2197/22
+1.1.02.03.001.20.01.01
+Multas Código Nacionai de Seguridad y Convivencia
+570.729.100
+570.729.100
+456.548.809
+80,0
+Ciudadana - Muitas Generales Vigencia Actual
+4131
+1.2.3.2.24.05
+CNSCC Transferencia Policia Medidas Correctivas 15% 1.1.02.03.001.20.01.01
+Mullas Código Nacionai de Seguridad y Convivencia
+285.364.550
+285.364.550
+190.046.425
+66,6
+Ley 2197/22
+Ciudadana - Multas Generales Vigencie Actual
+4131
+1.2.3.2.24.06
+CNSCC Transferencia Policia Vigilancia 15% Ley
+1.1.02.03.001.20.01.01
+Multes Código Nacional de Seguridad y Convivencia
+285,364.550
+285.364.550
+189.869.446
+66,5
+2197/22
+Ciudadana - Muitas Generales Vigencia Actuel
+4131
+1.2.3.2.24.07
+CNSCC 25% tey 2197/22
+1.1.02.03.001.20.01.01
+Muitas Código Nacional de Seguridad y Convivencia
+475.607.584
+475.607.584
+367.773.630
+77,3
+Ciudadana - Multas Generaies Vigancia Actual
+4131
+1.2.3.2.24.08
+CNSCC Transferencia Ministerio 15% Ley 2197/22
+1.1.02.03.001.20.01.01
+Multas Código Nacional de Seguridad y Convivencia
+285.364.550
+285.364.550
+189.869.446
+66,5
+Ciudadana - Multas Generales Vigencia Actual
+4131
+1.2.3.2.24.04
+CNSCC 30% t.ey 2197/22
+1.1.02.03.001.20.01.02
+Multas Código Nacional da Segurided y Convivencia
+Ciudadana-Multas Generales-Vigencie Anterior
+380.486.067
+380.486.067
+273.151.441
+71.8
+4131
+1.2.3.2.24.05
+CNSCC Transferència Polícia Médidas Correctivas 15% 1.1.02.03.001.20.01.02
+Muitas Código Nacional da Segurided y Convivencia
+190.243.033
+190.243.033
+150.801.807
+79,3
+Ley 2197/22
+Ciudadana Muitas Generates Vigencia Anterior
+4131
+1.2.3.2.24.06
+CNSCC Transferancia Policia Vigilancia 15% Ley
+1.1.02.03.001.20.01.02
+2197/22
+4131
+1.2.3.2.24.07
+CNSCC 25% Ley 2197/22
+1.1.02.03.001.20.01.02
+Muitas Código Nacional de Segurided y Convivencia
+Ciudedana Multas Generales Vigencia Anterior
+Müllas Código Nacional de Seguridad y Convivencia
+Ciudedana - Multas Generales Vigancia Anterior
+190.243.033
+190.243.033
+150.801.779
+79,3
+317.071.722
+317.071.722
+251.336.317
+79,3
+4131
+1.2.3.2.24.08
+CNSCC Transferencia Ministerio 1.5% Ley 2197/22
+1.1.02.03.001.20.01.02
+1.1:02:03:001-20,02
+...
+1.1.02.03.001.20.02.01
+Mulles Código Naçionel de Seguridad y Convivencia
+Ciudadana Muitas Generales Vigencia Anterior
+Multás Código Nacional de Segürldad y Convivencia
+Cludadana - Muitas Espociales
+Multas Código Nacional de Seguridad y Convivència
+Cludadana - Muitas Especiales Agiomeración Público
+190.243.033
+190.243.033
+150.801.791
+79,3
+30:000
+30.000
+10,000
+10:000
+Página 10 de 32

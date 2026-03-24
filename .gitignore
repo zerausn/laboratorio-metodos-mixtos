@@ -41,3 +41,4 @@ desktop.ini
 *.log
 *.pdf
 # (Opcional) Si no quieres subir los PDFs que se procesan
+!reconstruccion_documental/**/*.pdf

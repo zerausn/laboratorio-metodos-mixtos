@@ -1,0 +1,300 @@
+SANTIAGO DE CALI
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO, MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2025
+ADMINISTRACION CENTRAL
+CENTRO
+FONDOS
+CESTOR
+NOMBRE FONDO
+POSICIÓN
+PRESUPUESTAL
+CONCEPTO
+INCIAL
+BX PRESUPUESTO PRESUPUESTO
+MODIFICADORECAUDO TOTAL
+%EJEC
+4131 1.3.3.2.00.01
+R.B. Servicios de expedición de permisos, conceptos 1.2:10.02
+ambientales
+Superavit fiscal
+488.475.862
+3488,475,862
+100.0
+4131 1.3.3.2.00.04
+R.B. Conceptos técnicos.aprovechamiento de las äguas
+subterráneas y superficiales
+1.2.10.02.
+Superávit fiscal
+580.636.673
+580,636:673100,0
+41311.3.3.2.00.17
+R.B. Sobretasa Gasol malla Vial
+1.2.10.02
+Superávit fiscal
+4131
+1:3.3.2.00.06
+R.B.Seguimiento pian de saneamiento y manejo de
+1.2.10.02
+Superavit fiscal
+8.407.578:099
+197:082.453
+8.407.578.099
+100,0
+197,082-453
+7100:0
+vertimlentos
+4131
+1.3.3.2.00.08
+R.B. Aportes urbanísticos por mayor edificabilidad
+1.2.10.02
+Superávit fiscal
+7.869.204.309
+7.869.204.309
+100,0
+4131
+1.3.3.2.00.10
+R.B. Fondo de Promoción de la Movilidad Sostenibie
+1.2.10.02
+Superávit fiscai
+4131
+1.3.3.0.00.17
+R.B. Sobretasa Gasoi maila vial..
+1.2.10.02
+Superávit fiscal
+4131
+1.3.3.2.00.18
+R.B. Sobretasa Gasolina 97% (15%) S.Ι.Τ.Μ.
+1.2.10.02
+Superávit fiscai
+4131
+1.3.3.2.00.21
+R.B Convenio 077-21 CVC-DAGMA
+1.2.10.02
+Superávit fiscai
+4131
+1.3.3.2.00.23
+R.B. Fondo Contingencias-Fiducia
+1.2.10.02
+Superávit fiscai
+4131
+1.3.3.2.00.25
+R.B. Contribución fondo especiai de intervenidas
+1.2.10.02
+Superávit fiscal
+4131
+1.3.3.2.00.26
+R.B. C.M. Fondo GRED (Cuentas Maestras Fondo
+1.2.10.02
+Superávit fiscal
+1.352.991.943
+1.352.991.943
+100,0
+GRED)
+4131
+1.3.3.2.00.29
+R.B. Sobretasa Gasolina S.I.T.M. MIO
+1.2.10.02
+Superávit fiscal
+2.241.337.740
+2.241.337.740
+100,0
+4131
+1.3.3.3.01
+R.B. Sobretasa / participación amblentai -
+1.2.10.02
+Superávit fiscal
+2.307.014.373
+2.307.014.373
+100,0
+Corporaciones Autónomas Regionales
+4131
+1.3.3.3.03.01
+R.B. impuesto de Circulación y Tránsito Sobre
+1.2.10.02
+Superávit fiscal
+3.138.690.939
+3.138.690.939
+100,0
+Vehiculos de Servicio Público - S.I.T.MIO
+4131
+1.3.3.3.03.02
+R.B. impuesto de Circulación y Tránsito Sobre
+1.2.10.02
+Superávit fiscai
+568.575.587
+568.575.587
+100.0
+Vehiculos de Servicio Público - Tradicional
+4131
+1.3.3.3.12
+R.8. Impuesto de espectáculos públicos nacional con
+destino al deporte
+1.2.10.02
+Superávit fiscal
+697.396.649
+697.396.649
+100,0
+4131
+1.3.3.3.14.02
+R.B. Impuesto de Alumbrado Público EMCALİ y Otros
+1.2.10.02
+Superávit fiscal
+Comercializadores
+4131
+1.3.3.3.14.03
+R.B. Aiumb Acdo 357 (10% navideño)
+1.2.10.02
+Superávit fiscal
+3.078.516.413
+3.078.516.413
+100,0
+4131
+1.3.3.3.14.04
+R.B. impuesto de Alumbrado Público Liquidación
+1.2.10.02
+Superávit fiscal
+Directa
+4131
+1.3.3.3.15
+R.B. Sobrelasa bomberi!
+1.2.10.02
+Superávit fiscai
+2.451.886.727
+2.451.866.727
+100,0
+4131
+1.3.3.3.18
+R.B. Sobretasa de solidaridad servicios públicos
+1.2.10.02
+Superávit fiscai
+3.951.509.432
+3.951.509.432
+100,0
+acueducto, aseo y alcantarijiado
+4131
+1.3.3.3.19.01
+R.8 Tasa Prodeporte 10% Alimentacion y transporte
+1.2.10.02
+Superávit fiscai
+5.231.023.998
+5.231.023.998
+100,0
+4131
+1.3.3.3.19.02
+R.B. Tasa Prodeporte 90% Manifestaciones deportivas 1.2.10.02
+Superávit fiscai
+16.784.656.359
+16.784.656.359
+100,0
+y recreativas
+4131
+1.3.3.3.20.01
+R.B. Estampilla Procuitura
+1.2.10.02
+Superávit fiscal
+2.929.889.339
+2.929.889.339
+100,0
+4131
+1.3.3.3.20.02
+R.B. Estamp Pro-Cuitura Fonpet
+1.2.10.02
+Superávit fiscal
+2.701.119.720
+2.701.119.720
+100,0
+4131
+1.3.3.3.20.03
+R.B. Estampilla Procultura Ley 397/97 (seguridad social 1.2.10.02
+Superávit fiscai
+1.349.145.759
+1.349.145.759
+100,0
+de ios gestores cuiturales 10%)
+4131
+1.3.3.3.20.04
+R.B. estampilla Procuitura Ley 1379/2010 (Red Nacional 1.2.10.02
+Superávit fiscal
+1.759.960.656
+1.759.960.656
+100,0
+de bibliotecas 10%)
+4131
+1.3.3.3.20.05
+R.B. Estampilla Procuitura Acuerdo 232 (conservacion 1.2.10.02
+Superávit fiscal
+2.335.190.681
+2.335.190.681
+100,0
+petrimonio cultural 5%)
+4131
+1.3.3.3.20.06
+R.B. Estempilla Procultura Acuerdo 0313 (fin inst
+1.2.10.02
+Superávit fiscai
+1.346.177.174
+1.346.177.174
+popular de cuitura 7% dei 60%)
+4131
+1.3.3.3.20.21
+R.B. Estampilla para el bienestar del Aduito Mayor,
+1.2.10.02
+Superávit fiscai
+20.937.785.328
+20.937.785.328)
+100,0
+Vigencia Actuel
+4131
+1.3.3.3.20.22
+R.B. Estampilia para el bienestar del Adulto Mayor
+1.2.10.02
+Superávit fiscal
+2.630.540.767
+2.630.540.767
+100,0
+(FONPET-20%)
+4131
+1.3.3.3.20,41
+R.B. Estampillas Prodesarroilo Fonpet 20%
+1.2.10.02
+Superávit fiscal
+6.681.524.780
+6.681.524.780
+100,0
+4131
+1.3.3.3.20.42
+R.B. Estampilla Prodesarrollo Urbeno (20% primera
+1.2.10.02
+Superávit fiscal
+8.442.498.242
+8.442.498.242
+100,0
+infancia)
+4131
+1.3.3.3.20.43
+R.B. Estampiila Prodesarrollo Urbano (10% bilinguismo 1.2.10.02
+Superávit fiscai
+11.920.755.752
+11.920.755.752
+100,0
+Acuerdo 469/2019)
+4131
+1.3.3.3.20.44
+R.B. Estampilia Prodesarrollo Urbano (10% Equidad de 1.2.10.02
+Superávit fiscal
+9.969.458.705
+9.969.458.705
+100,0
+Genero)
+4131
+1.3.3.3.20.45
+R.B. Estampilia Prodesarrollo Urbano (10% Afro)
+1.2.10.02
+Superávit fiscal
+7.545.566.294
+7.545.566.294
+100.0
+Página 26 de 32
+..

@@ -1,0 +1,212 @@
+Fondo
+Nombre
+PPTO
+MODIFICADO
+SALDO COP
+SALDO RPC
+SALDO
+OBLIGACIONES
+PAGOS
+EJECUCION
+% DE EJECUCION
+123117
+Sobretasa de solidaridad servicios públicos acueducto, aseo
+3.893.324.288
+y alcantariliado
+378.827.098
+0
+0
+1.815.970.912
+1.815.970.912
+46,64
+12311801
+Tasa Prodeporte 10% Alimentación y transporte
+3.131.120.544
+14.926.016
+1.905.073.984
+0
+0
+1.905.073.984
+60,84
+12311802
+Tasa Prodeporte 90% Manifestaciones deportivas y
+recreativas
+28.180.084.898
+840.406.546 10.558.191.574
+39.501.000 11.682.433.420 22.280.125.994
+79,06
+12311901
+Estampilia procultura
+22.501.441.307
+963.013.819 8.360.427.556
+196.110.500 12.120.556.501 20.677.094.557
+91,89
+12311903
+Estampiiia procultura Ley 397/97 (seguridad social de los
+5.000.320.290
+271.388.010
+gestores cuituraies 10%)
+0
+0
+1.731.774.997
+1.731.774.997
+34,63
+12311904
+Estampiila procuitura ley 1379/2010 (Red Nacional de
+bibliotecas 10%)
+5.000.320.290
+218.175.376 1.481.639.216
+22.056.000
+3.214.840.534
+4.718.535.750
+94,36
+12311905
+Estampilia procultura acuerdo 232 (conservacion patrimonio
+cuiturai 5%)
+2.500.160.145
+572.394.295
+1.136.704.961
+0
+738.513.738
+1.875.218.699
+75,00
+12311907
+Estampiiia Procultura Finan. Inst. Univ.IPC
+5.000.320.290
+0
+0
+0
+1.573.905.000
+1.573.905.000
+31,48
+12311921
+Estampiila para ei bienestar del Adulto mayor
+28.139.124.642
+15.035.800
+10.756.842.451
+0
+16.997.940.817 27.754.783.268
+98,63
+12311930
+Estampilia para la justicia familiar
+11.172.108.232
+1.626.893.870
+1.699.323.357
+0
+150.000.000
+1.849.323.357
+16,55
+12311942
+Estampiiia Prodesarrolio Urbano (20% primera infancia)
+24.364.303.385
+593.347.912
+2.374.625.341
+0 21.092.004.988 23.466.630.329
+96,32
+12311944
+Estampilla Prodesarroilo Urbano (10% Equidad de Género)
+12.182.151.692
+2.110.711.095
+3.226.429.418
+95.870.500
+6.092.838.641
+9.415.138.559
+77,29
+12311945 Estampilla Prodesarrolio Urbano (10% Afro)
+12.182.151.692
+2.142.674.512
+5.243.026.962
+52.792.000
+2.425.395.056
+7.721.214.018
+63,38
+12311946 Estampiiia Prodesarrollo 10% Victimas de Conflicto Armado
+12.182.151.692
+1.099.371.322
+4.144.158.454
+9.012.000
+6.816.555.595 10.969.726.049
+90,05
+12311947
+Estampiila Prodesarroilo Urbano (5% Alimentación escolar)
+6.091.075.846
+789.287.619
+4.039.262.616
+18.975.000
+1.243.550.611
+5.301.788.227
+87,04
+12311949
+Estampilia Prodesarrollo Urbano (5% Discapacidad y
+enfermedades huérfanas)
+6.091.075.846
+1.232.644.041
+1.495.783.255
+146.167.692
+2.077.661.405
+3.719.612.352
+61,07
+12311950
+Estampiiia Prodesarroilo Urbano (5% Capital semilla)
+6.091.075.846
+0
+2.954.036.594
+0
+0
+2.954.036.594
+48,50
+12311957
+Estampilla Prodesarroilo Urbano-Bilinguismo
+6.091.075.846
+1.723.434.800
+2.606.442.266
+0
+1.557.600.000
+4.164.042.266
+68,36
+12311958
+Estampilia Prodesarrolio Finan. inst. Univ. IPC
+12.182.151.692
+0
+3.000.000.000
+0
+0
+3.000.000.000
+24,63
+123206
+Contribución sobre Contratos de Obra Pública
+28.800.725.608
+5.961.783.295
+20.031.079.659
+0
+2.559.066.320
+22.590.145.979
+78,44
+123207
+Contribución Sector Eléctrico
+42.000.000
+0
+0
+0
+0
+0
+0,00
+123210
+Tasas retributivas
+4.266.131.451
+1.002.469.453
+493.385.052
+316.500
+2.146.295.559
+2.639.997.111
+61,88
+123215
+Tasa por utilización de aguas subterránea y superficiales
+236.100.000
+이
+38.612.100
+1.160.000
+103.566.500
+143.338.600
+60,71
+2 de 16

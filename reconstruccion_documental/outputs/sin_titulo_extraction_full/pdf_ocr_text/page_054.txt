@@ -1,0 +1,221 @@
+Fondo
+PPTO.
+Nombre
+SALDO CDP
+SALDO RPC
+MODIFICADO
+SALDO
+OBLIGACIONES
+PAGOS
+EJECUCION % DE EJECUCION
+132206
+R.F. SGP-Salud-Salud pública
+818.489.864
+261.455.064
+293.725.200
+9.240.000
+0
+302.965.200
+37,02
+13220801
+R.F. S.G.P. Propósito General-Otros Sectores
+1.673.553.219
+377.807.705
+1.139.668.541
+0
+0
+1.139.668.541
+68,10
+13220802
+R.F. S.G.P. Propósito General-Deporte
+426.163.497
+426.163.497
+0
+0
+0
+0
+0,00
+13220803
+R..F. S.G.P. Propósito General-Cultura
+182.122.622
+8.492.952
+132.243.060
+0
+0
+132.243.060
+72,61
+132209
+R.F. SGP-Asignación Especial-Programas de alimentación
+escolar
+73.926.934
+0
+73.926.934
+0
+0
+73.926.934
+100,00
+132213
+R.F. SGP-Agua potable y saneamiento básico
+2.846.386.045
+1.807.123.981
+0
+0
+0
+0
+0,00
+13230101
+R.F. ICLD
+37.838.752.737
+4.048.698.990 16.208.454.614
+3.771.574.604 10.099.952.569
+30.079.981.787
+79,50
+13230103
+R.F. C.M.O. Gastos Salud e Inv.
+735.878.433
+339.902.837
+0
+0
+0
+0
+0,00
+13230104
+R.F. Impuesto de Alumbrado Público EMCALI y Otros
+Comercializadores
+10.023.681.402
+5.000.000.000
+0
+0
+3.716.919.998
+3.716.919.998
+37,08
+13230105
+R.F. Alumb EMCALI (10% navideño)
+694.157.025
+560.000.000
+0
+0
+0
+0
+0,00
+13230107
+R.F. Aportes urbanísticos por mayor edificabilidad
+338.100.906
+0
+0
+0
+0
+0
+0,00
+13230108
+R.F. C.M. Fondo GRED
+384.698.888
+0
+101.755.000
+6.765.000
+13230109
+R.F. Impuesto de Alumbrado Público Liquidación Directa
+779.221.604
+0
+0
+138.275.000
+246.795.000
+0
+648.865.371
+648.865.371
+64,15
+83,27
+13230110
+R.F. Fondo de Promoción de la Movilidad Sostenible
+5.502.910
+5.502.910
+0
+0
+0
+0
+0,00
+132301105 R.F. Estampilla Prodesarrollo Urbano (20% Primera infancia)
+1.267.294.882
+126.032.500
+417.093.879
+0
+724.168.503
+132301107
+R.F. Estampilía Prodesarrollo Urbano (10% Equidad de
+Género)
+633.647.441
+38.155.000
+45.978.000
+1.141.262.382
+0
+541.603.000
+90,05
+587.581.000
+132301108 R.F. Estampilla Prodesarrollo Urbano (10% Afro)
+633.647.441
+0
+0
+0
+0
+132301109
+R.F. Estampilla Prodesarrollo 10% Víctimas de Conflicto
+Armado
+633.647.441
+30.945.258
+371.659.991
+0
+231.042.192
+602.702.183
+92,73
+0
+0,00
+95,12
+132301110
+R.F. Estampilla Prodesarrollo Urbano (5% Alimentación
+escolar)
+316.823.720
+0
+246.484.859
+0
+0
+246.484.859
+77,80
+132301112
+R.F. Estampilla Prodesarrollo Urbano (5% Discapacidad y
+enfermedades huérfanas)
+316.823.720
+53.786.000
+93.291.000
+0
+114.281.000
+207.572.000
+65,52
+132301113 R.F. Estampilla Prodesarrollo Urbano (5% Capital semilla)
+316.823.720
+0
+259.122.480
+0
+132301115
+R.F. Estampilla Procultura Ley 397/97 (seguridad social de
+210.082.269
+los gestores culturales 10%)
+0
+0
+0
+33.672.849
+0
+259.122.480
+81,79
+33.672.849
+16,03
+132301116
+R.F. Estampilla Procultura ley 1379/2010 (Red Nacional de
+bibliotecas 10%)
+210.082.269
+40.000.000
+70.082.269
+0
+0
+70.082.269
+33,36
+6 de 16

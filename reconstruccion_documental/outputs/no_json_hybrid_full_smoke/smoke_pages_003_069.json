@@ -1,0 +1,3210 @@
+{
+  "pipeline": "reconstruct_without_json_hybrid",
+  "pages": [
+    {
+      "absolute_page": 3,
+      "rotation": 90,
+      "mode": "table_grid",
+      "header_lines": [
+        "SANTIAGO DE CALI",
+        "DEPARTAMENTO ADMINISTRATIVO DE HACIENDA",
+        "SUBDIRECCION DE FINANZAS PUBLICAS",
+        "SUBPROCESO DE SEGUIMIENTO, ANALISIS Y CONTROL PRESUPUESTAL",
+        "PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2025",
+        "ADMINISTRACION CENTRAL"
+      ],
+      "row_boundaries": [
+        10,
+        99,
+        131,
+        162,
+        194,
+        224,
+        265,
+        298,
+        358,
+        412,
+        447,
+        506,
+        569,
+        606,
+        643,
+        705,
+        761,
+        816,
+        881,
+        916,
+        972,
+        1029,
+        1090,
+        1152,
+        1196,
+        1229,
+        1265,
+        1298,
+        1334,
+        1378,
+        1420,
+        1477,
+        1527,
+        1533,
+        1588,
+        1644,
+        1701,
+        1756,
+        1812
+      ],
+      "col_boundaries": [
+        6,
+        128,
+        316,
+        875,
+        1176,
+        1738,
+        2010,
+        2274,
+        2544,
+        2674
+      ],
+      "cells": [
+        {
+          "row_index": 0,
+          "col_index": 0,
+          "pdf_text": "w YJ, \"(5\"0. ALI . 1",
+          "ocr_text": "e",
+          "final_text": "501",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 0,
+          "col_index": 1,
+          "pdf_text": "- f 1 u 1",
+          "ocr_text": "",
+          "final_text": "- f 1 u 1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 0,
+          "col_index": 2,
+          "pdf_text": "1 ; ' 9 g 1 . 1 Tl. .",
+          "ocr_text": "ARE NDA AECA EL 2 DE AN A | ad a Mga ge ne BR EOND a y oa S iy EA A vibe q . A 99 ! o ~ - - a - a oon oot, Een Mei TA tame, 8 abe oe y ae oes et Ares 1 » DEE TAO * aed : .. + - e he ree'; ra ad + Tie ee m1 L 20 Sy U De Re ashes a 3 TAN '. A ATI",
+          "final_text": "ARE NDA AECA EL 2 DE AN A ad a Mga ge ne BR EOND a y oa S iy EA A vibe q . A 99 ! o ~ - - a - a oon oot, Een Mei TA tame, 8 abe oe y ae oes et Ares 1 » DEE TAO * aed : .. + - e he ree'; ra ad + Tie ee m1 L 20 Sy U De Re ashes a 3 TAN '. A ATI",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 0,
+          "col_index": 3,
+          "pdf_text": "O F. 11",
+          "ocr_text": "",
+          "final_text": "O F. 11",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 0,
+          "col_index": 4,
+          "pdf_text": "1 v I ' 1- 11 1",
+          "ocr_text": "¡ie R ,E.. ~ \" _ & e& 7. - E Co E WS SEE re mu CONC ENO: E ar a + r y * => a. = - > bl Y --- , + _ . « A e tal vs © PPS! 54 Ronikee Te a ot DO de eat AE AE wv . yar awe > $ dela , ic vers ai be rear A . h MAD td > 4 a - 8 OL dl E ea AI Ter years 1) Que aa A",
+          "final_text": "¡ie R ,E.. ~ \" _ & e& 7. - E Co E WS SEE re mu CONC ENO: E ar a + r y * => a. = - > bl Y --- , + _ . « A e tal vs © PPS! 54 Ronikee Te a ot DO de eat AE AE wv . yar awe > $ dela , ic vers ai be rear A . h MAD td > 4 a - 8 OL dl E ea AI Ter years 1) Que aa A",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 0,
+          "col_index": 5,
+          "pdf_text": "Al A U.",
+          "ocr_text": "",
+          "final_text": ".",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 0,
+          "col_index": 6,
+          "pdf_text": "1' ~yy IL Q z 1 g W',.:2 CQU =,s2'0,0",
+          "ocr_text": "",
+          "final_text": "1 1 ,.2 ,20,0",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 0,
+          "col_index": 7,
+          "pdf_text": "rier:4, -",
+          "ocr_text": "",
+          "final_text": "4, -",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 0,
+          "col_index": 8,
+          "pdf_text": "Utt-",
+          "ocr_text": "",
+          "final_text": "-",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 1,
+          "col_index": 0,
+          "pdf_text": ".v t",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 1,
+          "col_index": 1,
+          "pdf_text": "\"tf: ',K 1/ 'I.",
+          "ocr_text": "",
+          "final_text": "tf .K 1 I.",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 1,
+          "col_index": 2,
+          "pdf_text": "' ,",
+          "ocr_text": "e E Y - Y ree .. Za PEA AD - Y YY CEA ~",
+          "final_text": "e E Y - Y ree .. Za PEA AD - Y YY CEA ~",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 1,
+          "col_index": 3,
+          "pdf_text": "411 44",
+          "ocr_text": "",
+          "final_text": "411 44",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 1,
+          "col_index": 4,
+          "pdf_text": "1 1 7 12 O W 1 ,",
+          "ocr_text": "¡INGRESOS AE ETE A ieee",
+          "final_text": "¡INGRESOS AE ETE A ieee",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 1,
+          "col_index": 5,
+          "pdf_text": "47: o p,. 02 ,ri g: N r. ..",
+          "ocr_text": "455887-09571472723",
+          "final_text": "455887-09571472723",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 1,
+          "col_index": 6,
+          "pdf_text": "- O <, ro IR 0 n.. 01 5 :;:-,.iJ",
+          "ocr_text": "74887039078048",
+          "final_text": "74887039078048",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 1,
+          "col_index": 7,
+          "pdf_text": ":7'4\":11.51'653:97617.63:098",
+          "ocr_text": "56529761762100",
+          "final_text": "7411.5165397617.63098",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 1,
+          "col_index": 8,
+          "pdf_text": "'0 :41,':.",
+          "ocr_text": "",
+          "final_text": "0 41,.",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 2,
+          "col_index": 0,
+          "pdf_text": "i",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 2,
+          "col_index": 1,
+          "pdf_text": "i. 111 '",
+          "ocr_text": "",
+          "final_text": "i. 111",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 2,
+          "col_index": 2,
+          "pdf_text": "1 , to til a o",
+          "ocr_text": "pr at AN NN A E A ASIN IEA",
+          "final_text": "pr at AN NN A E A ASIN IEA",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 2,
+          "col_index": 3,
+          "pdf_text": "- 7, ' p fit l'at if 11 1 ,",
+          "ocr_text": "",
+          "final_text": "- 7. p fit lat if 11 1 .",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 2,
+          "col_index": 4,
+          "pdf_text": ",,INGRESOSCORRIENTESZ.:C.;17.'.\"7-- .7-o",
+          "ocr_text": "INGRESOS CORRIENTES Ea e",
+          "final_text": "INGRESOS CORRIENTES Ea e",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 2,
+          "col_index": 5,
+          "pdf_text": "Ir; ¿rf ro 0) ',2 1- 11 -os 1..j .n. CII",
+          "ocr_text": "32-56199680933319",
+          "final_text": "32-56199680933319",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 2,
+          "col_index": 6,
+          "pdf_text": "1807:981793:752i o",
+          "ocr_text": "325807-988-793789",
+          "final_text": "325807-988-793789",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 2,
+          "col_index": 7,
+          "pdf_text": "798:6-39:227. 7-L.'%\"4.816",
+          "ocr_text": "7008620959",
+          "final_text": "7986-39227. 7-.%4.816",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 2,
+          "col_index": 8,
+          "pdf_text": "Ñ ,,,, .P1",
+          "ocr_text": "",
+          "final_text": ",,,, .1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 3,
+          "col_index": 0,
+          "pdf_text": "1 I",
+          "ocr_text": "",
+          "final_text": "1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 3,
+          "col_index": 1,
+          "pdf_text": "li ' 1",
+          "ocr_text": "",
+          "final_text": "li 1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 3,
+          "col_index": 2,
+          "pdf_text": "1 p. 1.1, k lb, 11: 111 2",
+          "ocr_text": "- e y il lla > «ya a Ly\" yo wen aye A4upÁ. e ur iv cane Y Bur aras E Y my Y ¡* > OS DD rió Agr + -\"Y » MS \"O EA DOE E ¿pla y y * > won went be :. L-..o - 1 wh rem - mf 7 a A > e a ¿ . de te ais ==\" , - - - ..0:7 q e oe re . - =D 4e tems 1 wad gta q ae \"a .. a 8",
+          "final_text": "e y il lla > «ya a Ly\" yo wen aye A4upÁ. e ur iv cane Y Bur aras E Y my Y ¡* > OS DD rió Agr + -\"Y » MS \"O EA DOE E ¿pla y y * > won went be :. L-..o - 1 wh rem - mf 7 a A > e a ¿ . de te ais ==\" , - - - ..0:7 q e oe re . - =D 4e tems 1 wad gta q ae \"a .. a 8",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 3,
+          "col_index": 3,
+          "pdf_text": ".. .V., ro I 4 °` hi",
+          "ocr_text": "",
+          "final_text": ".. .V.. ro I 4 hi",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 3,
+          "col_index": 4,
+          "pdf_text": "",
+          "ocr_text": "\"INGRESOS TRIBUTARIOS: === See",
+          "final_text": "\"INGRESOS TRIBUTARIOS: === See",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 3,
+          "col_index": 5,
+          "pdf_text": "o fu. O O ,'\" /14 ill Cl 9 0 4 .",
+          "ocr_text": "",
+          "final_text": ". , 14 9 0 4 .",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 3,
+          "col_index": 6,
+          "pdf_text": "15t,-21/148361316601",
+          "ocr_text": "573483643660",
+          "final_text": "15,-21148361316601",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 3,
+          "col_index": 7,
+          "pdf_text": "^r.t&7-72:289.4691803187.4",
+          "ocr_text": "2-280469803-874",
+          "final_text": ".7-72289.4691803187.4",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 3,
+          "col_index": 8,
+          "pdf_text": "VI S' j",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 4,
+          "col_index": 0,
+          "pdf_text": "..1",
+          "ocr_text": "",
+          "final_text": "1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 4,
+          "col_index": 1,
+          "pdf_text": "', r,",
+          "ocr_text": "",
+          "final_text": ". r.",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 4,
+          "col_index": 2,
+          "pdf_text": ",. 11 ,.. , '",
+          "ocr_text": ".. 4 \"MN, e AA O \"E i. PL . ... Pr P\" FEDER PA TDI EN SL Gee a. e ve LEI a - bd o we- Oe: (7 CO Due. LEE A eb hes aig EA",
+          "final_text": ".. 4 \"MN, e AA O \"E i. PL . ... Pr P\" FEDER PA TDI EN SL Gee a. e ve LEI a - bd o we- Oe: (7 CO Due. LEE A eb hes aig EA",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 4,
+          "col_index": 3,
+          "pdf_text": "-r'T 9 R fr.:",
+          "ocr_text": "110108560",
+          "final_text": "110108560",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 4,
+          "col_index": 4,
+          "pdf_text": "IMPUESIOS",
+          "ocr_text": "IMPUESTOS DIRECTOS: aia ge oe",
+          "final_text": "IMPUESTOS DIRECTOS: aia ge oe",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 4,
+          "col_index": 5,
+          "pdf_text": "é hl 1\"-; N I\", 8. 0 N 55. -",
+          "ocr_text": "42013537.870372",
+          "final_text": "42013537.870372",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 4,
+          "col_index": 6,
+          "pdf_text": "1113137:8701372 .1 74",
+          "ocr_text": "4013537870372",
+          "final_text": "11131378701372 .1 74",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 4,
+          "col_index": 7,
+          "pdf_text": ", N o o :f> „, ei oo 4, --- ..N",
+          "ocr_text": "000777280162",
+          "final_text": "000777280162",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 4,
+          "col_index": 8,
+          "pdf_text": "o t` 0 .111 .b",
+          "ocr_text": "12197",
+          "final_text": "0 .111 .",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 5,
+          "col_index": 0,
+          "pdf_text": "1,.",
+          "ocr_text": "",
+          "final_text": "1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 5,
+          "col_index": 1,
+          "pdf_text": "Ir : 1",
+          "ocr_text": "",
+          "final_text": "Ir 1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 5,
+          "col_index": 2,
+          "pdf_text": "l- p 1",
+          "ocr_text": "- - \" & «Mai - LE > ~~. - . , o Co 10 . o ° _ = mew er e q 9 . be] EF LS TARA EE LA. arses ee A",
+          "final_text": "\" & «Mai - LE > ~~. - . , o Co 10 . o ° _ = mew er e q 9 . be] EF LS TARA EE LA. arses ee A",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 5,
+          "col_index": 3,
+          "pdf_text": "--- r,! ,_. 91 1",
+          "ocr_text": "",
+          "final_text": "--- r. .. 91 1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 5,
+          "col_index": 4,
+          "pdf_text": "Sobreta\"Arnblentat 7. .",
+          "ocr_text": "Sobretasa Ambiental. .-.-: <-: 0.0\" - ea Y 2] TN MAP TN Ye",
+          "final_text": "Sobretasa Ambiental. .-.-: <-: 0.0\" - ea Y 2] TN MAP TN Ye",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 5,
+          "col_index": 5,
+          "pdf_text": "05 .3 '- \".1' rt.... l'rs of. éll .;., y..1 31'! _",
+          "ocr_text": "",
+          "final_text": "05 .3 - .1 .... . .., ..1 31",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 5,
+          "col_index": 6,
+          "pdf_text": "",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 5,
+          "col_index": 7,
+          "pdf_text": "..7. 3 o 101. ,.t., of Oi ex: oi",
+          "ocr_text": "",
+          "final_text": "..7. 3 101. ,..,",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 5,
+          "col_index": 8,
+          "pdf_text": ". O oí 41 4 .1 '1",
+          "ocr_text": "",
+          "final_text": ". 41 4 .1 1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 6,
+          "col_index": 0,
+          "pdf_text": "",
+          "ocr_text": "es",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 6,
+          "col_index": 1,
+          "pdf_text": "",
+          "ocr_text": "ome",
+          "final_text": "ome",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 6,
+          "col_index": 2,
+          "pdf_text": "",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 6,
+          "col_index": 3,
+          "pdf_text": "1.1.01.01.014.01",
+          "ocr_text": "1.1.01.01.014.04",
+          "final_text": "1.1.01.01.014.01",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 6,
+          "col_index": 4,
+          "pdf_text": "Sobretasa Ambiental - Urbano",
+          "ocr_text": "Sobretasa Ambientai - Urbano",
+          "final_text": "Sobretasa Ambiental - Urbano",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 6,
+          "col_index": 5,
+          "pdf_text": "103.806.731.018,",
+          "ocr_text": "403.806.731.018",
+          "final_text": "103.806.731.018,",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 6,
+          "col_index": 6,
+          "pdf_text": "103.806.731.018",
+          "ocr_text": "- 103.806.731.018",
+          "final_text": "103.806.731.018",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 6,
+          "col_index": 7,
+          "pdf_text": "114.506,250.503,",
+          "ocr_text": "114,506.250.503",
+          "final_text": "114.506,250.503,",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 6,
+          "col_index": 8,
+          "pdf_text": "--- ''' o \".",
+          "ocr_text": "4409",
+          "final_text": "4409",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 7,
+          "col_index": 0,
+          "pdf_text": "TI' 1",
+          "ocr_text": "",
+          "final_text": "1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 7,
+          "col_index": 1,
+          "pdf_text": "E O ..j -",
+          "ocr_text": "l -",
+          "final_text": "E O ..j -",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 7,
+          "col_index": 2,
+          "pdf_text": "Sobrelasa / participación ambiental - Corporaciones Autónomas Regionales",
+          "ocr_text": ": SoDretasa / participación ambiental - Corporaciones Autónomas Regionaies A",
+          "final_text": "Sobrelasa / participación ambiental - Corporaciones Autónomas Regionales",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 7,
+          "col_index": 3,
+          "pdf_text": "1.1.01.01.014.01.01",
+          "ocr_text": "1.1.01.01 va",
+          "final_text": "1.1.01.01.014.01.01",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 7,
+          "col_index": 4,
+          "pdf_text": "Sobrelasa Ambiental - Urbano Vigencia Actual",
+          "ocr_text": "Sobretasa Ambiental - Urbano Vigencia Actual",
+          "final_text": "Sobrelasa Ambiental - Urbano Vigencia Actual",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 7,
+          "col_index": 5,
+          "pdf_text": "95.195.063.600",
+          "ocr_text": "",
+          "final_text": "95.195.063.600",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 7,
+          "col_index": 6,
+          "pdf_text": "95.195.063.600",
+          "ocr_text": "95.195.063.600",
+          "final_text": "95.195.063.600",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 7,
+          "col_index": 7,
+          "pdf_text": "96.626.694.4951",
+          "ocr_text": "96.626.604.405",
+          "final_text": "96.626.694.4951",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 7,
+          "col_index": 8,
+          "pdf_text": "O '\" .- °",
+          "ocr_text": "1045",
+          "final_text": "1045",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 8,
+          "col_index": 0,
+          "pdf_text": ".-e 1;",
+          "ocr_text": "",
+          "final_text": "1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 8,
+          "col_index": 1,
+          "pdf_text": "o E ei. 'j",
+          "ocr_text": "A",
+          "final_text": "o E ei. j",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 8,
+          "col_index": 2,
+          "pdf_text": "Sobrelasa! participación ambiental - Corporaciones Autónomas Regionales --",
+          "ocr_text": "Sobretasa s participación ambiental - Corporaciones Autónomas Regionales __-- - E",
+          "final_text": "Sobretasa s participación ambiental - Corporaciones Autónomas Regionales __-- - E",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 8,
+          "col_index": 3,
+          "pdf_text": ",4 ..-.. S 9,J O ó N o ,j ,",
+          "ocr_text": "1101010140102 -",
+          "final_text": "1101010140102 -",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 8,
+          "col_index": 4,
+          "pdf_text": "Sobretasa Ambiental - Urbano Vigencia Anterior",
+          "ocr_text": "Sobretasa Ambiental - Urbano Vigencia Anterior",
+          "final_text": "Sobretasa Ambiental - Urbano Vigencia Anterior",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 8,
+          "col_index": 5,
+          "pdf_text": ". 17: o 0 .",
+          "ocr_text": "301100744",
+          "final_text": "301100744",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 8,
+          "col_index": 6,
+          "pdf_text": "0 0 1- tel 1: g 0 j",
+          "ocr_text": "8.611.667.418",
+          "final_text": "8.611.667.418",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 8,
+          "col_index": 7,
+          "pdf_text": "o o: o O o 0:1 „ ca.; .",
+          "ocr_text": "- 17.879.556.008",
+          "final_text": "- 17.879.556.008",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 8,
+          "col_index": 8,
+          "pdf_text": "O rs. N °.",
+          "ocr_text": "- 207.6",
+          "final_text": "- 207.6",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 9,
+          "col_index": 0,
+          "pdf_text": "",
+          "ocr_text": "a -",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 9,
+          "col_index": 1,
+          "pdf_text": "",
+          "ocr_text": "-..",
+          "final_text": "-..",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 9,
+          "col_index": 2,
+          "pdf_text": "",
+          "ocr_text": "LL : - feet Tl\" -",
+          "final_text": "LL : - feet Tl\"",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 9,
+          "col_index": 3,
+          "pdf_text": "I ,..: ,-: 611 .r. EE co",
+          "ocr_text": "11.01.01.014.02",
+          "final_text": "11.01.01.014.02",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 9,
+          "col_index": 4,
+          "pdf_text": "Sobretasa Ambiental - Rural",
+          "ocr_text": "| Sobretasa Ambiental - Rura!",
+          "final_text": "Sobretasa Ambiental - Rural",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 9,
+          "col_index": 5,
+          "pdf_text": "10.266.599.771",
+          "ocr_text": "10.266,599,771",
+          "final_text": "10.266.599.771",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 9,
+          "col_index": 6,
+          "pdf_text": "10.266.599.771",
+          "ocr_text": "10.266.599.771",
+          "final_text": "10.266.599.771",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 9,
+          "col_index": 7,
+          "pdf_text": "124.005.012",
+          "ocr_text": "124,005,012",
+          "final_text": "124.005.012",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 9,
+          "col_index": 8,
+          "pdf_text": "..- \".",
+          "ocr_text": "4.2",
+          "final_text": "..- .",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 10,
+          "col_index": 0,
+          "pdf_text": "/ e",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 10,
+          "col_index": 1,
+          "pdf_text": ".-- .-: o ni g",
+          "ocr_text": "",
+          "final_text": ".-- .- o ni g",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 10,
+          "col_index": 2,
+          "pdf_text": "Sobretasa / participación ambiental - Corporaciones Autónomas Regionales",
+          "ocr_text": "Sopbretasa / participación ambientat - Corporaciones Autónomas Regionales '",
+          "final_text": "Sobretasa / participación ambiental - Corporaciones Autónomas Regionales",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 10,
+          "col_index": 3,
+          "pdf_text": ".4 E ,.: C11 .- .. 1 ! ,",
+          "ocr_text": "1.1.01 DA",
+          "final_text": ".4 E .. C11 .- .. 1 .",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 10,
+          "col_index": 4,
+          "pdf_text": "' Sobretasa Ambiental - Rural Vigencia Actual",
+          "ocr_text": "Sobratase Ambiental - Rural Vigencia Actual",
+          "final_text": "Sobratase Ambiental - Rural Vigencia Actual",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 10,
+          "col_index": 5,
+          "pdf_text": "9.414.896.400",
+          "ocr_text": "",
+          "final_text": "9.414.896.400",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 10,
+          "col_index": 6,
+          "pdf_text": "9.414.896.400",
+          "ocr_text": "9.414.896.400",
+          "final_text": "9.414.896.400",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 10,
+          "col_index": 7,
+          "pdf_text": "22.376,110",
+          "ocr_text": "22.376.110",
+          "final_text": "22.376,110",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 10,
+          "col_index": 8,
+          "pdf_text": "o N.",
+          "ocr_text": "0,2",
+          "final_text": "0,2",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 11,
+          "col_index": 0,
+          "pdf_text": "i; ,7.",
+          "ocr_text": "l",
+          "final_text": "7",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 11,
+          "col_index": 1,
+          "pdf_text": "Cl O g .I",
+          "ocr_text": "- - - V1",
+          "final_text": "- - - V1",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 11,
+          "col_index": 2,
+          "pdf_text": "participación Sobretasa / ambiental - Corporaciones Autónomas Regionales",
+          "ocr_text": "oobretasa / participación embientai - Corporaciones Autónomas Regionaies _",
+          "final_text": "participación Sobretasa / ambiental - Corporaciones Autónomas Regionales",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 11,
+          "col_index": 3,
+          "pdf_text": "li ..J O 4 5 5 .- g „",
+          "ocr_text": "1.1.01.01.014.02.02",
+          "final_text": "1.1.01.01.014.02.02",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 11,
+          "col_index": 4,
+          "pdf_text": "' Sobretasa Ambiental- Rural Vigencia Anterior",
+          "ocr_text": "Sobretasa Ambiental - Rurat Vigencia Anterior",
+          "final_text": "Sobretasa Ambiental - Rurat Vigencia Anterior",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 11,
+          "col_index": 5,
+          "pdf_text": "ni .: 1-- P. o o o",
+          "ocr_text": "851 708.371",
+          "final_text": "851 708.371",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 11,
+          "col_index": 6,
+          "pdf_text": "O o o es C'i r.. e,",
+          "ocr_text": "851.703.371",
+          "final_text": "851.703.371",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 11,
+          "col_index": 7,
+          "pdf_text": "ro ,- c5 o N 0 01 . ,",
+          "ocr_text": "- 101 628.902",
+          "final_text": "- 101 628.902",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 11,
+          "col_index": 8,
+          "pdf_text": ".1- O. ,",
+          "ocr_text": "- 4 19",
+          "final_text": ".1- . ,",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 12,
+          "col_index": 0,
+          "pdf_text": "",
+          "ocr_text": "- .e",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 12,
+          "col_index": 1,
+          "pdf_text": "",
+          "ocr_text": "e",
+          "final_text": "e",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 12,
+          "col_index": 2,
+          "pdf_text": "",
+          "ocr_text": "4 \" . wr . . . Ne . -s - -. _ ---",
+          "final_text": "4 \" . wr . . . Ne . -s - -. _",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 12,
+          "col_index": 3,
+          "pdf_text": ",2 E O S N 4, ,",
+          "ocr_text": "1.4.01.01.200",
+          "final_text": "1.4.01.01.200",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 12,
+          "col_index": 4,
+          "pdf_text": "o .° 2,' E E o 11 E, 1 '''",
+          "ocr_text": "\"impuesto Prediai Unificado",
+          "final_text": "\"impuesto Prediai Unificado",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 12,
+          "col_index": 5,
+          "pdf_text": "1399711471 :13",
+          "ocr_text": "899.464,539.583",
+          "final_text": "899.464,539.583",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 12,
+          "col_index": 6,
+          "pdf_text": "899.464.539.5831",
+          "ocr_text": "899.464.539,583",
+          "final_text": "899.464.539.5831",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 12,
+          "col_index": 7,
+          "pdf_text": "' 866.142.124.6471",
+          "ocr_text": "886.442.424.647",
+          "final_text": "866.142.124.6471",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 12,
+          "col_index": 8,
+          "pdf_text": "O o o.",
+          "ocr_text": "985",
+          "final_text": "985",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 13,
+          "col_index": 0,
+          "pdf_text": "",
+          "ocr_text": "l-a-",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 13,
+          "col_index": 1,
+          "pdf_text": "",
+          "ocr_text": "o",
+          "final_text": "o",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 13,
+          "col_index": 2,
+          "pdf_text": "",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 13,
+          "col_index": 3,
+          "pdf_text": "'1.1.01.01.200.01",
+          "ocr_text": "1.1.01.01.200.01 -",
+          "final_text": "1.1.01.01.200.01",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 13,
+          "col_index": 4,
+          "pdf_text": "13 7, % n E g 2 E ° 1 1",
+          "ocr_text": "Impuesto Predial Unificado - Ubano -",
+          "final_text": "Impuesto Predial Unificado - Ubano",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 13,
+          "col_index": 5,
+          "pdf_text": "o o ..: N .- o g d I",
+          "ocr_text": "825.528.011.021",
+          "final_text": "825.528.011.021",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 13,
+          "col_index": 6,
+          "pdf_text": "1 r, 2 0 O 2 ei E,",
+          "ocr_text": "825.528.011.021",
+          "final_text": "825.528.011.021",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 13,
+          "col_index": 7,
+          "pdf_text": "8115.155.586.1711",
+          "ocr_text": "885.155.586.171",
+          "final_text": "8115.155.586.1711",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 13,
+          "col_index": 8,
+          "pdf_text": "O r.. et ,",
+          "ocr_text": "1107,2",
+          "final_text": "1107,2",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 14,
+          "col_index": 0,
+          "pdf_text": "/ I;",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 14,
+          "col_index": 1,
+          "pdf_text": "..j ni o 0 o",
+          "ocr_text": "",
+          "final_text": "..j ni o 0 o",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 14,
+          "col_index": 2,
+          "pdf_text": "Destinación Ingresos corrientes de Ubre",
+          "ocr_text": "ingresos comentes de Libre Destinación",
+          "final_text": "Destinación Ingresos corrientes de Ubre",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 14,
+          "col_index": 3,
+          "pdf_text": "a E O o N d „ ,j . 5",
+          "ocr_text": "mm .01.200.01.01",
+          "final_text": "mm .01.200.01.01",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 14,
+          "col_index": 4,
+          "pdf_text": "Impuesto Predial Unificado - Urbano Vigencia Actual",
+          "ocr_text": "Impuasto Predial Unificado - Urbano Vigencia Actual -",
+          "final_text": "Impuesto Predial Unificado - Urbano Vigencia Actual",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 14,
+          "col_index": 5,
+          "pdf_text": "731.892.150.0001",
+          "ocr_text": "731.892.150.000",
+          "final_text": "731.892.150.0001",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 14,
+          "col_index": 6,
+          "pdf_text": "-- 8 2 2 O Ci ni o",
+          "ocr_text": "-731.892.150.000",
+          "final_text": "-731.892.150.000",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 14,
+          "col_index": 7,
+          "pdf_text": "E 1. o o N 0 0 ci d .",
+          "ocr_text": "760.916.805.028",
+          "final_text": "760.916.805.028",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 14,
+          "col_index": 8,
+          "pdf_text": "O a- -- o.",
+          "ocr_text": "104,0",
+          "final_text": "104,0",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 15,
+          "col_index": 0,
+          "pdf_text": "(7) e",
+          "ocr_text": "",
+          "final_text": "7",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 15,
+          "col_index": 1,
+          "pdf_text": "..-: O e N o N",
+          "ocr_text": "",
+          "final_text": "..- O e N o N",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 15,
+          "col_index": 2,
+          "pdf_text": "ICLD LEY 99 - Destino Ambiental",
+          "ocr_text": "(LLU LEY 33 - Vestine Ambiental",
+          "final_text": "ICLD LEY 99 - Destino Ambiental",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 15,
+          "col_index": 3,
+          "pdf_text": "1.1.01.01.200.01.01",
+          "ocr_text": "1.1.01.01 me",
+          "final_text": "1.1.01.01.200.01.01",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 15,
+          "col_index": 4,
+          "pdf_text": "Impuesto Predial Unificado - Urbano Vigencia Actual",
+          "ocr_text": "impuesto Predial Unificado = Urbano Vigencia Actual",
+          "final_text": "Impuesto Predial Unificado - Urbano Vigencia Actual",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 15,
+          "col_index": 5,
+          "pdf_text": "o Ch O 21 'n ni r., o ci",
+          "ocr_text": "7.992.850.0000",
+          "final_text": "7.992.850.0000",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 15,
+          "col_index": 6,
+          "pdf_text": "o 3 O ni 8 0 ° niti",
+          "ocr_text": "-7.392.850.000",
+          "final_text": "-7.392.850.000",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 15,
+          "col_index": 7,
+          "pdf_text": "to n: o g o N N ..1 .",
+          "ocr_text": "- 7.686.028.334",
+          "final_text": "- 7.686.028.334",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 15,
+          "col_index": 8,
+          "pdf_text": "--- 0 o. ,r",
+          "ocr_text": "104,0",
+          "final_text": "104,0",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 16,
+          "col_index": 0,
+          "pdf_text": "e 1",
+          "ocr_text": "",
+          "final_text": "1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 16,
+          "col_index": 1,
+          "pdf_text": "O .- o d",
+          "ocr_text": "",
+          "final_text": "O .- o d",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 16,
+          "col_index": 2,
+          "pdf_text": "Ingresos corrientes de Libre Destinación",
+          "ocr_text": "ingreses comentes de Libre Destinación",
+          "final_text": "Ingresos corrientes de Libre Destinación",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 16,
+          "col_index": 3,
+          "pdf_text": "1.1.01.01.200.01.02",
+          "ocr_text": "1.1.01 EA",
+          "final_text": "1.1.01.01.200.01.02",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 16,
+          "col_index": 4,
+          "pdf_text": "Impuesto Predial Unificado - Urbano - Vigencia Anterior",
+          "ocr_text": "Impuesto Predial Unificado - Urbano - Vigancia Anterior",
+          "final_text": "Impuesto Predial Unificado - Urbano - Vigencia Anterior",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 16,
+          "col_index": 5,
+          "pdf_text": "85.380.580.9121",
+          "ocr_text": "85.380.580.912",
+          "final_text": "85.380.580.9121",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 16,
+          "col_index": 6,
+          "pdf_text": "O co en 8 8 á o °",
+          "ocr_text": "85.380.580.912",
+          "final_text": "85.380.580.912",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 16,
+          "col_index": 7,
+          "pdf_text": "115.387.225.2821",
+          "ocr_text": "415.387.225.282",
+          "final_text": "115.387.225.2821",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 16,
+          "col_index": 8,
+          "pdf_text": "-- 0 o -",
+          "ocr_text": "135,1",
+          "final_text": "135,1",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 17,
+          "col_index": 0,
+          "pdf_text": "/ e",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 17,
+          "col_index": 1,
+          "pdf_text": "..az. o N o .-",
+          "ocr_text": "",
+          "final_text": "..az. o N o .-",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 17,
+          "col_index": 2,
+          "pdf_text": "ICLD LEY 99 - Destino Ambiental",
+          "ocr_text": "GLI LEY 33 - Destino Ambiental",
+          "final_text": "ICLD LEY 99 - Destino Ambiental",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 17,
+          "col_index": 3,
+          "pdf_text": "Ci a 5 g N N o ° ;",
+          "ocr_text": "",
+          "final_text": "Ci a 5 g N N o",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 17,
+          "col_index": 4,
+          "pdf_text": "Impuesto Predial Unificado - Urbano - Vigencia Anterior",
+          "ocr_text": "Impuesto Predial Unificado - Urbano - Vigencia Anterior",
+          "final_text": "Impuesto Predial Unificado - Urbano - Vigencia Anterior",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 17,
+          "col_index": 5,
+          "pdf_text": "1601'0£4'299",
+          "ocr_text": "862.430.109",
+          "final_text": "160104299",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 17,
+          "col_index": 6,
+          "pdf_text": "--- 8 e 0 el o Ci",
+          "ocr_text": "862.430,109",
+          "final_text": "862.430,109",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 17,
+          "col_index": 7,
+          "pdf_text": "N r.: q N. -- o o N . .",
+          "ocr_text": "1.165.527.527",
+          "final_text": "1.165.527.527",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 17,
+          "col_index": 8,
+          "pdf_text": "'0 T- el -",
+          "ocr_text": "41351",
+          "final_text": "41351",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 18,
+          "col_index": 0,
+          "pdf_text": "",
+          "ocr_text": "or",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 18,
+          "col_index": 1,
+          "pdf_text": "",
+          "ocr_text": "-",
+          "final_text": "-",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 18,
+          "col_index": 2,
+          "pdf_text": "",
+          "ocr_text": "a - - * . . mpm i SCC See im.",
+          "final_text": "a - - * . . mpm i SCC See im.",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 18,
+          "col_index": 3,
+          "pdf_text": "1.1.01.01.200.02",
+          "ocr_text": "1.1.01.01.200.02",
+          "final_text": "1.1.01.01.200.02",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 18,
+          "col_index": 4,
+          "pdf_text": "Impuesto Predial Unificado - Rural",
+          "ocr_text": "Impuesto Prediai Unificado - Rural",
+          "final_text": "Impuesto Predial Unificado - Rural",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 18,
+          "col_index": 5,
+          "pdf_text": "73.936.528.5621",
+          "ocr_text": "773.936.528.562",
+          "final_text": "73.936.528.5621",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 18,
+          "col_index": 6,
+          "pdf_text": "tO 2 2 N u; d. ° ;:i.",
+          "ocr_text": "73.936.528.562",
+          "final_text": "73.936.528.562",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 18,
+          "col_index": 7,
+          "pdf_text": "9 1, 8 o N o 0 \".",
+          "ocr_text": "-986.538.476",
+          "final_text": "-986.538.476",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 18,
+          "col_index": 8,
+          "pdf_text": ".- o.",
+          "ocr_text": "",
+          "final_text": ".- .",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 19,
+          "col_index": 0,
+          "pdf_text": "r, /",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 19,
+          "col_index": 1,
+          "pdf_text": "O .- o ni 9",
+          "ocr_text": "",
+          "final_text": "O .- o ni 9",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 19,
+          "col_index": 2,
+          "pdf_text": "Ingresos corrientes de Ubre Destinación",
+          "ocr_text": "Ingresos comentes de Libre Vastinación",
+          "final_text": "Ingresos corrientes de Ubre Destinación",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 19,
+          "col_index": 3,
+          "pdf_text": "1.1.01.01.200.02.01",
+          "ocr_text": "1.1.01.01 on",
+          "final_text": "1.1.01.01.200.02.01",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 19,
+          "col_index": 4,
+          "pdf_text": "Impuesto Predial Unificado - Rural Vigencia Actual",
+          "ocr_text": "Impuesto Predial Unificado - Rural Vigencia Actual",
+          "final_text": "Impuesto Predial Unificado - Rural Vigencia Actual",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 19,
+          "col_index": 5,
+          "pdf_text": "64.752.930.0001",
+          "ocr_text": "64.752.930.000",
+          "final_text": "64.752.930.0001",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 19,
+          "col_index": 6,
+          "pdf_text": "3 g nt O N 3 C1 ci",
+          "ocr_text": "64.752.930.000",
+          "final_text": "64.752.930.000",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 19,
+          "col_index": 7,
+          "pdf_text": "102.551.5921",
+          "ocr_text": "102.551.592",
+          "final_text": "102.551.5921",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 19,
+          "col_index": 8,
+          "pdf_text": "o \".",
+          "ocr_text": "0,2",
+          "final_text": "0,2",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 20,
+          "col_index": 0,
+          "pdf_text": "zi: O",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 20,
+          "col_index": 1,
+          "pdf_text": ",.. e N ni ei 9",
+          "ocr_text": "1.C.0.Q.V2",
+          "final_text": "1.C.0.Q.V2",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 20,
+          "col_index": 2,
+          "pdf_text": "ICLD LEY 99 - Destino Ambiental",
+          "ocr_text": "ILLU LEY 33 - Destino Ambiental",
+          "final_text": "ICLD LEY 99 - Destino Ambiental",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 20,
+          "col_index": 3,
+          "pdf_text": ",....i ...: o E g e, g d",
+          "ocr_text": "1.1 me .200.02.01 l",
+          "final_text": "1.1 me .200.02.01 l",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 20,
+          "col_index": 4,
+          "pdf_text": "Impuesto Predial Unificado - Rural Vigencia Actual",
+          "ocr_text": "impuesto Predial Unificado - Rural Vigencia Actual",
+          "final_text": "Impuesto Predial Unificado - Rural Vigencia Actual",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 20,
+          "col_index": 5,
+          "pdf_text": "12 Ó O O o o o 'a,",
+          "ocr_text": "654.070.000",
+          "final_text": "654.070.000",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 20,
+          "col_index": 6,
+          "pdf_text": "N. O 8 2 9 d º",
+          "ocr_text": "654.070.000",
+          "final_text": "654.070.000",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 20,
+          "col_index": 7,
+          "pdf_text": "1.035.8751",
+          "ocr_text": "1.035.875",
+          "final_text": "1.035.8751",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 20,
+          "col_index": 8,
+          "pdf_text": "o N",
+          "ocr_text": "07",
+          "final_text": "07",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 21,
+          "col_index": 0,
+          "pdf_text": "e 1",
+          "ocr_text": "",
+          "final_text": "1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 21,
+          "col_index": 1,
+          "pdf_text": "..-; N O 9 .- 9",
+          "ocr_text": "E.",
+          "final_text": "..- N O 9 .- 9",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 21,
+          "col_index": 2,
+          "pdf_text": "Ingresos corrientes de Ubre Destinación",
+          "ocr_text": "ingresos comentes de Libre Destinacion",
+          "final_text": "Ingresos corrientes de Ubre Destinación",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 21,
+          "col_index": 3,
+          "pdf_text": ",, .-: o e, g g d 8 i",
+          "ocr_text": "NA",
+          "final_text": ".. .- o e. g g d 8 i",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 21,
+          "col_index": 4,
+          "pdf_text": "Impuesto Predial Unificado- Rural Vigencia Anterior",
+          "ocr_text": "impuesto Predial Unificado - Rura! Vigencia Anterior",
+          "final_text": "Impuesto Predial Unificado- Rural Vigencia Anterior",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 21,
+          "col_index": 5,
+          "pdf_text": "8.444.233.276",
+          "ocr_text": "8.444.233.276",
+          "final_text": "8.444.233.276",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 21,
+          "col_index": 6,
+          "pdf_text": "o ni 3 rd «1 2 ni e,",
+          "ocr_text": "-8.444.233.276",
+          "final_text": "-8.444.233.276",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 21,
+          "col_index": 7,
+          "pdf_text": ".ra N h. 0/ 0 - ,j '1\"",
+          "ocr_text": "874.121.498",
+          "final_text": "874.121.498",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 21,
+          "col_index": 8,
+          "pdf_text": "e- o \".",
+          "ocr_text": "40,4",
+          "final_text": "40,4",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 22,
+          "col_index": 0,
+          "pdf_text": "1; 7.",
+          "ocr_text": "",
+          "final_text": "17",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 22,
+          "col_index": 1,
+          "pdf_text": "na O '''' o .- N",
+          "ocr_text": "",
+          "final_text": "na O o .- N",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 22,
+          "col_index": 2,
+          "pdf_text": "ICLD LEY 99 - Destino Ambiental",
+          "ocr_text": "(LLY LEY 33 - Vestino Ambiental",
+          "final_text": "ICLD LEY 99 - Destino Ambiental",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 22,
+          "col_index": 3,
+          "pdf_text": "1.1.01.01.200.02.02",
+          "ocr_text": "1.1.01 .200.02.02",
+          "final_text": "1.1.01.01.200.02.02",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 22,
+          "col_index": 4,
+          "pdf_text": "Impuesto Predial Unificado - Rural Vigencia Anterior",
+          "ocr_text": "impuesto Prediai Unificado - Rural Vigencia Anterior",
+          "final_text": "Impuesto Predial Unificado - Rural Vigencia Anterior",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 22,
+          "col_index": 5,
+          "pdf_text": "85.295.286",
+          "ocr_text": "85.295.286",
+          "final_text": "85.295.286",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 22,
+          "col_index": 6,
+          "pdf_text": "85.295.286",
+          "ocr_text": "85.295.286",
+          "final_text": "85.295.286",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 22,
+          "col_index": 7,
+          "pdf_text": "O <14 --- o o d -",
+          "ocr_text": "8.8295",
+          "final_text": "8.8295",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 22,
+          "col_index": 8,
+          "pdf_text": ".,.- o 'e.",
+          "ocr_text": "",
+          "final_text": ".,.- .",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 23,
+          "col_index": 0,
+          "pdf_text": "",
+          "ocr_text": "o a",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 23,
+          "col_index": 1,
+          "pdf_text": "",
+          "ocr_text": "- l E",
+          "final_text": "- l E",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 23,
+          "col_index": 2,
+          "pdf_text": "",
+          "ocr_text": "ha _ .. -. uv OC id awe . .. » « Po, e . > \"e e \"aq if. - ee © . a YO,. Y. - . \"ot e - . an! Pa... Se a+ Eee ... > . . *. @ e . . 7 a . . o. \"- . y Vo. a. er hd . rn)",
+          "final_text": "ha _ .. -. uv OC id awe . .. » « Po, e . > \"e e \"aq if. - ee © . a YO,. Y. - . \"ot e - . an! Pa... Se a+ Eee ... > . . *. @ e . . 7 a . . o. \"- . y Vo. a. er hd . rn)",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 23,
+          "col_index": 3,
+          "pdf_text": "9 N - 1,1",
+          "ocr_text": "",
+          "final_text": "9 N - 1.1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 23,
+          "col_index": 4,
+          "pdf_text": ": : ' E o a Ea o",
+          "ocr_text": "Impuestos indirectos \"rr $7 0 NU +",
+          "final_text": "Impuestos indirectos \"rr $7 0 NU +",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 23,
+          "col_index": 5,
+          "pdf_text": "945 ,',1.659",
+          "ocr_text": "",
+          "final_text": "945 ,,1.659",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 23,
+          "col_index": 6,
+          "pdf_text": "1.559.945.743.288",
+          "ocr_text": "-4.559.945.743.288",
+          "final_text": "1.559.945.743.288",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 23,
+          "col_index": 7,
+          "pdf_text": "''.1.281607.423:7121 '.",
+          "ocr_text": "",
+          "final_text": ".1.281607.4237121 .",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 23,
+          "col_index": 8,
+          "pdf_text": "' 0 .N, °SI .",
+          "ocr_text": "",
+          "final_text": "0 ., .",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 24,
+          "col_index": 0,
+          "pdf_text": "",
+          "ocr_text": ".",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 24,
+          "col_index": 1,
+          "pdf_text": "",
+          "ocr_text": ".- -",
+          "final_text": ".- -",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 24,
+          "col_index": 2,
+          "pdf_text": "",
+          "ocr_text": "-T yy as . es . ==. - -",
+          "final_text": "T yy as . es . ==.",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 24,
+          "col_index": 3,
+          "pdf_text": ",.: o O N 9. 01 .",
+          "ocr_text": "1.1.01.02.109",
+          "final_text": "1.1.01.02.109",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 24,
+          "col_index": 4,
+          "pdf_text": "Sobretasa a la Gasolina",
+          "ocr_text": "Sobretasa a la Gasolina 2",
+          "final_text": "Sobretasa a la Gasolina",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 24,
+          "col_index": 5,
+          "pdf_text": "124.574.108.100",
+          "ocr_text": "124.574.108.100",
+          "final_text": "124.574.108.100",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 24,
+          "col_index": 6,
+          "pdf_text": "124.574.108.100",
+          "ocr_text": "124.574.108,100",
+          "final_text": "124.574.108.100",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 24,
+          "col_index": 7,
+          "pdf_text": ". 95.030,046.0001",
+          "ocr_text": ".95,030,046.000",
+          "final_text": ". 95.030,046.0001",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 24,
+          "col_index": 8,
+          "pdf_text": "N V> <1",
+          "ocr_text": "- 76.3",
+          "final_text": "- 76.3",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 25,
+          "col_index": 0,
+          "pdf_text": "",
+          "ocr_text": "e",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 25,
+          "col_index": 1,
+          "pdf_text": "",
+          "ocr_text": "- 28.",
+          "final_text": "- 28.",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 25,
+          "col_index": 2,
+          "pdf_text": "",
+          "ocr_text": ". o ------------L[-]É] lí LÑ DD TL UT T OE TT ... a",
+          "final_text": ". o ------------L[-]É] lí LÑ DD TL UT T OE TT ... a",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 25,
+          "col_index": 3,
+          "pdf_text": "1. N ,J O z 0; o .",
+          "ocr_text": "1.1.01.02.109.01",
+          "final_text": "1.1.01.02.109.01",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 25,
+          "col_index": 4,
+          "pdf_text": "la Sobretasa a Gasolina - Malla Vial",
+          "ocr_text": "Sobretasa a la Gasolina - Malla Vial",
+          "final_text": "la Sobretasa a Gasolina - Malla Vial",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 25,
+          "col_index": 5,
+          "pdf_text": "26.658.859.133",
+          "ocr_text": "26.658.859.133",
+          "final_text": "26.658.859.133",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 25,
+          "col_index": 6,
+          "pdf_text": "26.658.859.133",
+          "ocr_text": "26.658.859,133",
+          "final_text": "26.658.859.133",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 25,
+          "col_index": 7,
+          "pdf_text": "20.336.429.844",
+          "ocr_text": "20.336.429.844",
+          "final_text": "20.336.429.844",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 25,
+          "col_index": 8,
+          "pdf_text": "U> N 13..",
+          "ocr_text": "76,3",
+          "final_text": "13..",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 26,
+          "col_index": 0,
+          "pdf_text": "v `72",
+          "ocr_text": "Mi",
+          "final_text": "72",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 26,
+          "col_index": 1,
+          "pdf_text": "ni 1- N ni ni o ci d",
+          "ocr_text": "",
+          "final_text": "ni 1- N ni ni o ci d",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 26,
+          "col_index": 2,
+          "pdf_text": "Sobretasa Gasol malla vial",
+          "ocr_text": "wooretasa Sasol Matta vial",
+          "final_text": "Sobretasa Gasol malla vial",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 26,
+          "col_index": 3,
+          "pdf_text": "1.1.01.02.109.01.01",
+          "ocr_text": "1.1.01.02.109.01.01",
+          "final_text": "1.1.01.02.109.01.01",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 26,
+          "col_index": 4,
+          "pdf_text": "Sobretasa a la Gasolina - Vigencia Actual",
+          "ocr_text": "Sobretasa a ta Gasolina - Vigencia Actual |",
+          "final_text": "Sobretasa a la Gasolina - Vigencia Actual",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 26,
+          "col_index": 5,
+          "pdf_text": "26.658.859.133",
+          "ocr_text": "26.658.859.133",
+          "final_text": "26.658.859.133",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 26,
+          "col_index": 6,
+          "pdf_text": "26.658.859.133",
+          "ocr_text": "268.658.859.133",
+          "final_text": "26.658.859.133",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 26,
+          "col_index": 7,
+          "pdf_text": "20.336.429.8441",
+          "ocr_text": "- 20.336.429.844",
+          "final_text": "20.336.429.8441",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 26,
+          "col_index": 8,
+          "pdf_text": "N 0 11",
+          "ocr_text": "76,3",
+          "final_text": "0 11",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 27,
+          "col_index": 0,
+          "pdf_text": "",
+          "ocr_text": "o2Bea l",
+          "final_text": "2",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 27,
+          "col_index": 1,
+          "pdf_text": "",
+          "ocr_text": "Pa a oo",
+          "final_text": "Pa a oo",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 27,
+          "col_index": 2,
+          "pdf_text": "",
+          "ocr_text": "= uv. --. . -Ñs= - mes - eee ow: ee",
+          "final_text": "= uv. --. . -Ñs= - mes - eee ow: ee",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 27,
+          "col_index": 3,
+          "pdf_text": "1.1.01.02.109.02",
+          "ocr_text": "1.1.01.02.109.02",
+          "final_text": "1.1.01.02.109.02",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 27,
+          "col_index": 4,
+          "pdf_text": "Sobretasa a la Gasolina",
+          "ocr_text": "Sobretasa a la Gasolina -S..T.MIO - _",
+          "final_text": "Sobretasa a la Gasolina -S..T.MIO - _",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 27,
+          "col_index": 5,
+          "pdf_text": "97.915.248.967",
+          "ocr_text": "97.915.248.967",
+          "final_text": "97.915.248.967",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 27,
+          "col_index": 6,
+          "pdf_text": "97.915.248.967",
+          "ocr_text": "97,915,248.967",
+          "final_text": "97.915.248.967",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 27,
+          "col_index": 7,
+          "pdf_text": "74.693.616.156",
+          "ocr_text": "-(74.693.616.156",
+          "final_text": "74.693.616.156",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 27,
+          "col_index": 8,
+          "pdf_text": "",
+          "ocr_text": "-",
+          "final_text": "-",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 28,
+          "col_index": 0,
+          "pdf_text": "e 1",
+          "ocr_text": "",
+          "final_text": "1",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 28,
+          "col_index": 1,
+          "pdf_text": "....: o ni ni N o o 01",
+          "ocr_text": "",
+          "final_text": ".... o ni ni N o o 01",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 28,
+          "col_index": 2,
+          "pdf_text": "Sobretasa Gasolina S.I.T.M. Mio",
+          "ocr_text": "SODrelasa Gasolina S.1. 7.Nt. MIO",
+          "final_text": "Sobretasa Gasolina S.I.T.M. Mio",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 28,
+          "col_index": 3,
+          "pdf_text": "1.1.01.02.109.02.01",
+          "ocr_text": "1.1.01.02.109.02.01",
+          "final_text": "1.1.01.02.109.02.01",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 28,
+          "col_index": 4,
+          "pdf_text": "Sobrelasa a la Gasolina- Vigencia Actual",
+          "ocr_text": "Sobrelasa a ta Gasolina - Vigencia Actua! |",
+          "final_text": "Sobrelasa a la Gasolina- Vigencia Actual",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 28,
+          "col_index": 5,
+          "pdf_text": "na `r 6.- cci o g U> 3,",
+          "ocr_text": "97.94 5.248.067",
+          "final_text": "97.94 5.248.067",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 28,
+          "col_index": 6,
+          "pdf_text": "97.915.248.967",
+          "ocr_text": "-97.915.248.967",
+          "final_text": "97.915.248.967",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 28,
+          "col_index": 7,
+          "pdf_text": "74.693.616.1561",
+          "ocr_text": "74.093,616.156",
+          "final_text": "74.693.616.1561",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 28,
+          "col_index": 8,
+          "pdf_text": "N 0 0.",
+          "ocr_text": "76,3",
+          "final_text": "0 0.",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 29,
+          "col_index": 0,
+          "pdf_text": "",
+          "ocr_text": "PE 1",
+          "final_text": "1",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 29,
+          "col_index": 1,
+          "pdf_text": "",
+          "ocr_text": "e.-",
+          "final_text": "e.-",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 29,
+          "col_index": 2,
+          "pdf_text": "",
+          "ocr_text": "E . . a e '= ----- -]----- - - =e wee eee cele Cl == «=",
+          "final_text": "E . . a e '= ----- -]----- - - =e wee eee cele Cl == «=",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 29,
+          "col_index": 3,
+          "pdf_text": "1.1.01.02.200",
+          "ocr_text": "1.1.01.02.200 l",
+          "final_text": "1.1.01.02.200",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 29,
+          "col_index": 4,
+          "pdf_text": "Impuesto de Industria y Comercio",
+          "ocr_text": "Impuesto de Industria y Comercio -",
+          "final_text": "Impuesto de Industria y Comercio",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 29,
+          "col_index": 5,
+          "pdf_text": "778.509.178.3351",
+          "ocr_text": "--..1778.509,478.335",
+          "final_text": "778.509.178.3351",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 29,
+          "col_index": 6,
+          "pdf_text": "778.509.178.3351",
+          "ocr_text": "-778,509,178.335",
+          "final_text": "778.509.178.3351",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 29,
+          "col_index": 7,
+          "pdf_text": "709.422.261.6541",
+          "ocr_text": "-709.422.461.654",
+          "final_text": "709.422.261.6541",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 29,
+          "col_index": 8,
+          "pdf_text": "O 1- n",
+          "ocr_text": "1",
+          "final_text": "1-",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 30,
+          "col_index": 0,
+          "pdf_text": "",
+          "ocr_text": "-",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 30,
+          "col_index": 1,
+          "pdf_text": "",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 30,
+          "col_index": 2,
+          "pdf_text": "",
+          "ocr_text": "LA . $$ - o|]5 - o -. .",
+          "final_text": "LA . $$ - o ]5 - o -. .",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 30,
+          "col_index": 3,
+          "pdf_text": ",2 g ad o 3 ,",
+          "ocr_text": "EO",
+          "final_text": ".2 g ad o 3 .",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 30,
+          "col_index": 4,
+          "pdf_text": "Impuesto do Industria y Comercio - Sobre Actividades Comerciales",
+          "ocr_text": "impuesto de industria y Comercio = Sobre | Actividades Comerciales |",
+          "final_text": "Impuesto do Industria y Comercio - Sobre Actividades Comerciales",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 30,
+          "col_index": 5,
+          "pdf_text": "ro co an 9 N o o o 0d",
+          "ocr_text": "269.936.551.016",
+          "final_text": "269.936.551.016",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 30,
+          "col_index": 6,
+          "pdf_text": ",-- of 8 -2 O O o o tai 0 o",
+          "ocr_text": "289.936.551.016",
+          "final_text": "289.936.551.016",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 30,
+          "col_index": 7,
+          "pdf_text": "338.012.443.126",
+          "ocr_text": "338.012.443.126",
+          "final_text": "338.012.443.126",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 30,
+          "col_index": 8,
+          "pdf_text": "«o 1-, o.",
+          "ocr_text": "1166",
+          "final_text": "1166",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 31,
+          "col_index": 0,
+          "pdf_text": "e el",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 31,
+          "col_index": 1,
+          "pdf_text": "1.2.1.0.00",
+          "ocr_text": "VU.",
+          "final_text": "1.2.1.0.00",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 31,
+          "col_index": 2,
+          "pdf_text": "Ingresos corrientes de Libre Destinación",
+          "ocr_text": "ingresos comentes de Libre Dastineción",
+          "final_text": "Ingresos corrientes de Libre Destinación",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 31,
+          "col_index": 3,
+          "pdf_text": "1.1.01.02.200.01.01",
+          "ocr_text": "1.1.01.02.200.01.01",
+          "final_text": "1.1.01.02.200.01.01",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 31,
+          "col_index": 4,
+          "pdf_text": "Impuesto de industria y Comercio Sobre Actividades -Vigencia Actual Comerciales",
+          "ocr_text": "Impuesto de industria y Comercio - Sobre Actividades - Camerciates -Viaencia Actual |",
+          "final_text": "Impuesto de industria y Comercio Sobre Actividades -Vigencia Actual Comerciales",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 31,
+          "col_index": 5,
+          "pdf_text": "219.687.930.0001",
+          "ocr_text": "219.687.930.000",
+          "final_text": "219.687.930.0001",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 31,
+          "col_index": 6,
+          "pdf_text": "E ci n. o O O 9 o el o 9",
+          "ocr_text": "249.687.930.000",
+          "final_text": "249.687.930.000",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 31,
+          "col_index": 7,
+          "pdf_text": "181.898.324.1361",
+          "ocr_text": "181.898.324.136",
+          "final_text": "181.898.324.1361",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 31,
+          "col_index": 8,
+          "pdf_text": "CO N o.",
+          "ocr_text": "92.8",
+          "final_text": "92.8",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 32,
+          "col_index": 0,
+          "pdf_text": "",
+          "ocr_text": "Sls 1",
+          "final_text": "1",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 32,
+          "col_index": 1,
+          "pdf_text": "",
+          "ocr_text": "a",
+          "final_text": "a",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 32,
+          "col_index": 2,
+          "pdf_text": "",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 32,
+          "col_index": 3,
+          "pdf_text": "",
+          "ocr_text": "g",
+          "final_text": "g",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 32,
+          "col_index": 4,
+          "pdf_text": "",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 32,
+          "col_index": 5,
+          "pdf_text": "",
+          "ocr_text": "1",
+          "final_text": "1",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 32,
+          "col_index": 6,
+          "pdf_text": "",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 32,
+          "col_index": 7,
+          "pdf_text": "",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 32,
+          "col_index": 8,
+          "pdf_text": "",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 33,
+          "col_index": 0,
+          "pdf_text": "v e, ,",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 33,
+          "col_index": 1,
+          "pdf_text": "O ni \"' oo No",
+          "ocr_text": "",
+          "final_text": "O ni oo No",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 33,
+          "col_index": 2,
+          "pdf_text": "ICLD LEY 99 - Destino Ambiental",
+          "ocr_text": "'LLY LEY 33 - Vesiine Ambiental |",
+          "final_text": "ICLD LEY 99 - Destino Ambiental",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 33,
+          "col_index": 3,
+          "pdf_text": ",J O o g N N g d",
+          "ocr_text": "1.1.01.02.200.01.01",
+          "final_text": "1.1.01.02.200.01.01",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 33,
+          "col_index": 4,
+          "pdf_text": "Actividades Impuesto de industria y Comercio - Sobre Comerciales -Vigencia Actual",
+          "ocr_text": "impuesto de indusina y Comercio - Sobre Actividades | Comarciates -Vigencia Actual |",
+          "final_text": "Actividades Impuesto de industria y Comercio - Sobre Comerciales -Vigencia Actual",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 33,
+          "col_index": 5,
+          "pdf_text": "2.219.070.000",
+          "ocr_text": "2.218.070.000",
+          "final_text": "2.219.070.000",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 33,
+          "col_index": 6,
+          "pdf_text": "N. O O o o ci 9 N N",
+          "ocr_text": "2.216.070.000",
+          "final_text": "2.216.070.000",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 33,
+          "col_index": 7,
+          "pdf_text": "11, p.: o O o 8 17. .",
+          "ocr_text": "1.887.256.810",
+          "final_text": "1.887.256.810",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 33,
+          "col_index": 8,
+          "pdf_text": "O N O",
+          "ocr_text": "828",
+          "final_text": "828",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 34,
+          "col_index": 0,
+          "pdf_text": "e I",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 34,
+          "col_index": 1,
+          "pdf_text": "1.2.1.0.00",
+          "ocr_text": "7",
+          "final_text": "1.2.1.0.00",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 34,
+          "col_index": 2,
+          "pdf_text": "Destinación Ingresos contentes de Ubre",
+          "ocr_text": "ingresos comentes da Libre Vastinacion |",
+          "final_text": "Destinación Ingresos contentes de Ubre",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 34,
+          "col_index": 3,
+          "pdf_text": "o g E d O N N g.",
+          "ocr_text": "RAND .",
+          "final_text": "RAND .",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 34,
+          "col_index": 4,
+          "pdf_text": "Impuesto de Industria y Comercio -Sobre Actividades Comerciales -Vigencia Anterior",
+          "ocr_text": "Impuesto de Industria y Comercio -Sobre Actividades Comarciates Vigencia Anterior",
+          "final_text": "Impuesto de Industria y Comercio -Sobre Actividades Comerciales -Vigencia Anterior",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 34,
+          "col_index": 5,
+          "pdf_text": "4.614.053.879",
+          "ocr_text": "4.614.053.879",
+          "final_text": "4.614.053.879",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 34,
+          "col_index": 6,
+          "pdf_text": "4.614.053.879",
+          "ocr_text": "4.614.053.879",
+          "final_text": "4.614.053.879",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 34,
+          "col_index": 7,
+          "pdf_text": "<0 -o, -,r ..-: 8 N 0 c''I",
+          "ocr_text": "6.441.066.227",
+          "final_text": "6.441.066.227",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 34,
+          "col_index": 8,
+          "pdf_text": "O 0 o.",
+          "ocr_text": "139,6",
+          "final_text": "139,6",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 35,
+          "col_index": 0,
+          "pdf_text": "-a o",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 35,
+          "col_index": 1,
+          "pdf_text": "'',' ni ei N",
+          "ocr_text": "",
+          "final_text": ". ni ei N",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 35,
+          "col_index": 2,
+          "pdf_text": "ICLD LEY 99- Destino Ambiental i",
+          "ocr_text": "NULL LEY 39 - Destino Amolental | | |",
+          "final_text": "ICLD LEY 99- Destino Ambiental i",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 35,
+          "col_index": 3,
+          "pdf_text": "1.1.01.02.200.01.02",
+          "ocr_text": "1.1 02200",
+          "final_text": "1.1.01.02.200.01.02",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 35,
+          "col_index": 4,
+          "pdf_text": "Impuesto de Industria y Comercio -Sobre Actividades -Vigencia Anterior Comerciales",
+          "ocr_text": "impuesto de Industria y Comercio -Sobre Actividades Comerciates -Vigencia Anterior",
+          "final_text": "Impuesto de Industria y Comercio -Sobre Actividades -Vigencia Anterior Comerciales",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 35,
+          "col_index": 5,
+          "pdf_text": "46.806.6051",
+          "ocr_text": "46.606.605",
+          "final_text": "46.806.6051",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 35,
+          "col_index": 6,
+          "pdf_text": "46.606.6051",
+          "ocr_text": "46.606.605",
+          "final_text": "46.606.6051",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 35,
+          "col_index": 7,
+          "pdf_text": "65.070.3671",
+          "ocr_text": "65.070.367",
+          "final_text": "65.070.3671",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 35,
+          "col_index": 8,
+          "pdf_text": "I- 0. 0 O",
+          "ocr_text": "139,8",
+          "final_text": "139,8",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 36,
+          "col_index": 0,
+          "pdf_text": "e 171",
+          "ocr_text": "",
+          "final_text": "171",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 36,
+          "col_index": 1,
+          "pdf_text": "O O oi goo",
+          "ocr_text": "l.e.1.U.UU",
+          "final_text": "l.e.1.U.UU",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 36,
+          "col_index": 2,
+          "pdf_text": "Ingresos corrientes de Ubre Destinación",
+          "ocr_text": "ingresos comentes de Liore Vestinación",
+          "final_text": "Ingresos corrientes de Ubre Destinación",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 36,
+          "col_index": 3,
+          "pdf_text": "1.1.01.02.200.01.03",
+          "ocr_text": ". 0520001 .03",
+          "final_text": "1.1.01.02.200.01.03",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 36,
+          "col_index": 4,
+          "pdf_text": "Retelca Impuesto de Industria y Comercio -Sobre Actividades Comerciales -Vigencia Actual",
+          "ocr_text": "Retelca Impuesto da Industria y Comercio -Sabre Actividades Comerciaies -Vigencia Actual",
+          "final_text": "Retelca Impuesto de Industria y Comercio -Sobre Actividades Comerciales -Vigencia Actual",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 36,
+          "col_index": 5,
+          "pdf_text": "56.459.899.464",
+          "ocr_text": "-56.459.899.464",
+          "final_text": "56.459.899.464",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 36,
+          "col_index": 6,
+          "pdf_text": "01 / fG 0",
+          "ocr_text": "55.459.899.464",
+          "final_text": "55.459.899.464",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 36,
+          "col_index": 7,
+          "pdf_text": "lri r... a- g 2 g - 01",
+          "ocr_text": "145.756.132.339",
+          "final_text": "145.756.132.339",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 36,
+          "col_index": 8,
+          "pdf_text": "O N 0 N",
+          "ocr_text": "2582",
+          "final_text": "2582",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 37,
+          "col_index": 0,
+          "pdf_text": ".a. e, ,",
+          "ocr_text": "",
+          "final_text": "",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 37,
+          "col_index": 1,
+          "pdf_text": "o ni N",
+          "ocr_text": "",
+          "final_text": "o ni N",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 37,
+          "col_index": 2,
+          "pdf_text": "ICLD LEY 99- Destino Ambiental",
+          "ocr_text": "[LLU LEY 33 - Destino Ambiental",
+          "final_text": "ICLD LEY 99- Destino Ambiental",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 37,
+          "col_index": 3,
+          "pdf_text": "1.1.01.02.200.01.03",
+          "ocr_text": "NOTADO",
+          "final_text": "1.1.01.02.200.01.03",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 37,
+          "col_index": 4,
+          "pdf_text": "Retelca Impuesto de Industria y Comercio -Sobre Actividades Comerciales -Vigencia Actual",
+          "ocr_text": "Ratelca impuesto de Industria y Comercio -Sobre | Actividades Comerciales «Vigencia Actual",
+          "final_text": "Retelca Impuesto de Industria y Comercio -Sobre Actividades Comerciales -Vigencia Actual",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 37,
+          "col_index": 5,
+          "pdf_text": "r... o O oi o o \"c;",
+          "ocr_text": "570.302.015",
+          "final_text": "570.302.015",
+          "selected_source": "ocr"
+        },
+        {
+          "row_index": 37,
+          "col_index": 6,
+          "pdf_text": "570.302.015",
+          "ocr_text": "570.302.015",
+          "final_text": "570.302.015",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 37,
+          "col_index": 7,
+          "pdf_text": "1- ,.0 P. or. ,-1 8 g",
+          "ocr_text": "",
+          "final_text": "1- ,.0 . . ,-1 8",
+          "selected_source": "pdf_text"
+        },
+        {
+          "row_index": 37,
+          "col_index": 8,
+          "pdf_text": "<0 N N N",
+          "ocr_text": "2582",
+          "final_text": "2582",
+          "selected_source": "ocr"
+        }
+      ],
+      "preview": "501 | - f 1 u 1 | ARE NDA AECA EL 2 DE AN A ad a Mga ge ne BR EOND a y oa S iy EA A vibe q . A 99 ! o ~ - - a - a oon oot, Een Mei TA tame, 8 abe oe y ae oes et Ares 1 » DEE TAO * ",
+      "line_fallback": []
+    },
+    {
+      "absolute_page": 69,
+      "rotation": 0,
+      "mode": "ocr_lines",
+      "header_lines": [
+        "Reconstruccion OCR sin JSON - pagina 69"
+      ],
+      "row_boundaries": [],
+      "col_boundaries": [],
+      "cells": [],
+      "preview": "mm ve Ss |.) 8 sage — “ Yo Pl e eed wv su < Ss a > RIEITA a fe ERRE 2 lin] = SIS E PS] a yy | ls 2 Se: = ty > To e is > Ald/ ao 2 4] o (Beals = = 8 Isa 2 12] 5 /salela 325 El E les",
+      "line_fallback": [
+        {
+          "text": "mm ve",
+          "x0": 0.22286184210526316,
+          "y0": 0.16517285531370038,
+          "x1": 0.3042763157894737,
+          "y1": 0.17861715749039692
+        },
+        {
+          "text": "Ss |.) 8 sage",
+          "x0": 0.22615131578947367,
+          "y0": 0.17157490396927016,
+          "x1": 0.4621710526315789,
+          "y1": 0.19270166453265045
+        },
+        {
+          "text": "— “ Yo",
+          "x0": 0.22615131578947367,
+          "y0": 0.21382842509603073,
+          "x1": 0.3495065789473684,
+          "y1": 0.22087067861715748
+        },
+        {
+          "text": "Pl e eed",
+          "x0": 0.22615131578947367,
+          "y0": 0.21446862996158772,
+          "x1": 0.3495065789473684,
+          "y1": 0.23175416133162613
+        },
+        {
+          "text": "wv su",
+          "x0": 0.22203947368421054,
+          "y0": 0.23879641485275288,
+          "x1": 0.34868421052631576,
+          "y1": 0.2580025608194622
+        },
+        {
+          "text": "< Ss",
+          "x0": 0.22532894736842105,
+          "y0": 0.2535211267605634,
+          "x1": 0.34868421052631576,
+          "y1": 0.2708066581306018
+        },
+        {
+          "text": "a > RIEITA",
+          "x0": 0.22532894736842105,
+          "y0": 0.28425096030729835,
+          "x1": 0.45805921052631576,
+          "y1": 0.2970550576184379
+        },
+        {
+          "text": "a fe ERRE",
+          "x0": 0.22532894736842105,
+          "y0": 0.2861715749039693,
+          "x1": 0.4588815789473684,
+          "y1": 0.31241997439180536
+        },
+        {
+          "text": "2 lin] = SIS",
+          "x0": 0.22532894736842105,
+          "y0": 0.3700384122919334,
+          "x1": 0.45723684210526316,
+          "y1": 0.3886043533930858
+        },
+        {
+          "text": "E PS] a yy | ls",
+          "x0": 0.22532894736842105,
+          "y0": 0.37516005121638923,
+          "x1": 0.45723684210526316,
+          "y1": 0.41165172855313703
+        },
+        {
+          "text": "2 Se:",
+          "x0": 0.22532894736842105,
+          "y0": 0.4046094750320102,
+          "x1": 0.30838815789473684,
+          "y1": 0.4154929577464789
+        },
+        {
+          "text": "= ty",
+          "x0": 0.22532894736842105,
+          "y0": 0.4154929577464789,
+          "x1": 0.3001644736842105,
+          "y1": 0.4225352112676056
+        },
+        {
+          "text": "> To",
+          "x0": 0.23519736842105263,
+          "y0": 0.4238156209987196,
+          "x1": 0.3001644736842105,
+          "y1": 0.4321382842509603
+        },
+        {
+          "text": "e is",
+          "x0": 0.22532894736842105,
+          "y0": 0.42893725992317544,
+          "x1": 0.30838815789473684,
+          "y1": 0.4519846350832266
+        },
+        {
+          "text": "> Ald/ ao",
+          "x0": 0.22450657894736842,
+          "y0": 0.44238156209987195,
+          "x1": 0.45723684210526316,
+          "y1": 0.45838668373879643
+        },
+        {
+          "text": "2 4] o (Beals",
+          "x0": 0.22450657894736842,
+          "y0": 0.4519846350832266,
+          "x1": 0.45723684210526316,
+          "y1": 0.471190781049936
+        },
+        {
+          "text": "= = 8 Isa",
+          "x0": 0.22450657894736842,
+          "y0": 0.4667093469910371,
+          "x1": 0.45723684210526316,
+          "y1": 0.4846350832266325
+        },
+        {
+          "text": "2 12] 5 /salela",
+          "x0": 0.22450657894736842,
+          "y0": 0.47695262483994877,
+          "x1": 0.45723684210526316,
+          "y1": 0.5
+        },
+        {
+          "text": "325 El E lesa",
+          "x0": 0.18421052631578946,
+          "y0": 0.4942381562099872,
+          "x1": 0.4564144736842105,
+          "y1": 0.5172855313700384
+        },
+        {
+          "text": "E 2 a A ¡SISI m",
+          "x0": 0.18421052631578946,
+          "y0": 0.5064020486555698,
+          "x1": 0.4564144736842105,
+          "y1": 0.5256081946222791
+        },
+        {
+          "text": "[7- ut o jedi",
+          "x0": 0.18421052631578946,
+          "y0": 0.5198463508322664,
+          "x1": 0.4564144736842105,
+          "y1": 0.5326504481434059
+        },
+        {
+          "text": "HA A xiii",
+          "x0": 0.18421052631578946,
+          "y0": 0.5262483994878361,
+          "x1": 0.4564144736842105,
+          "y1": 0.5403329065300896
+        },
+        {
+          "text": "55 |. = Ius",
+          "x0": 0.18421052631578946,
+          "y0": 0.5326504481434059,
+          "x1": 0.45723684210526316,
+          "y1": 0.5512163892445583
+        },
+        {
+          "text": "mn E a fa] bal Ai pe",
+          "x0": 0.18421052631578946,
+          "y0": 0.5422535211267606,
+          "x1": 0.4564144736842105,
+          "y1": 0.5653008962868118
+        },
+        {
+          "text": "> wi _",
+          "x0": 0.18421052631578946,
+          "y0": 0.56145966709347,
+          "x1": 0.29769736842105265,
+          "y1": 0.5723431498079385
+        },
+        {
+          "text": "Ba pole",
+          "x0": 0.18338815789473684,
+          "y0": 0.5627400768245838,
+          "x1": 0.34786184210526316,
+          "y1": 0.586427656850192
+        },
+        {
+          "text": "Pa “ow e",
+          "x0": 0.1299342105263158,
+          "y0": 0.5813060179257362,
+          "x1": 0.3050986842105263,
+          "y1": 0.6043533930857875
+        },
+        {
+          "text": "E mol",
+          "x0": 0.12911184210526316,
+          "y0": 0.5966709346991037,
+          "x1": 0.29276315789473684,
+          "y1": 0.6113956466069143
+        },
+        {
+          "text": "6 22 o See a",
+          "x0": 0.12911184210526316,
+          "y0": 0.6005121638924455,
+          "x1": 0.6891447368421053,
+          "y1": 0.6344430217669654
+        },
+        {
+          "text": "z 3% q",
+          "x0": 0.12911184210526316,
+          "y0": 0.6069142125480154,
+          "x1": 0.3848684210526316,
+          "y1": 0.6222791293213829
+        },
+        {
+          "text": "D Eu $ IRSA",
+          "x0": 0.12911184210526316,
+          "y0": 0.6274007682458387,
+          "x1": 0.4564144736842105,
+          "y1": 0.6446862996158771
+        },
+        {
+          "text": "£ zu |-] 5 INSAS",
+          "x0": 0.12911184210526316,
+          "y0": 0.6389244558258643,
+          "x1": 0.4564144736842105,
+          "y1": 0.6555697823303457
+        },
+        {
+          "text": "Tr oa o 5 Ieu",
+          "x0": 0.12582236842105263,
+          "y0": 0.647247119078105,
+          "x1": 0.4555921052631579,
+          "y1": 0.6658130601792573
+        },
+        {
+          "text": "uZ9 5 [+] E asias sE:",
+          "x0": 0.12911184210526316,
+          "y0": 0.649167733674776,
+          "x1": 0.6817434210526315,
+          "y1": 0.6830985915492958
+        },
+        {
+          "text": "> z Tel € SÉ in E",
+          "x0": 0.12911184210526316,
+          "y0": 0.6677336747759283,
+          "x1": 0.678453947368421,
+          "y1": 0.7003841229193342
+        },
+        {
+          "text": "= 4\" ó asia H",
+          "x0": 0.15625,
+          "y0": 0.6779769526248399,
+          "x1": 0.678453947368421,
+          "y1": 0.7016645326504481
+        },
+        {
+          "text": "SES Y [+] € SIENA & E",
+          "x0": 0.12911184210526316,
+          "y0": 0.6888604353393086,
+          "x1": 0.678453947368421,
+          "y1": 0.7144686299615877
+        },
+        {
+          "text": "ESE 5 fey & ed le SES",
+          "x0": 0.12911184210526316,
+          "y0": 0.7003841229193342,
+          "x1": 0.6776315789473685,
+          "y1": 0.7253521126760564
+        },
+        {
+          "text": "<aZ e 44 a ET",
+          "x0": 0.12911184210526316,
+          "y0": 0.7119078104993598,
+          "x1": 0.6776315789473685,
+          "y1": 0.736235595390525
+        },
+        {
+          "text": "Em 5 ue > Esa",
+          "x0": 0.10197368421052631,
+          "y0": 0.7221510883482715,
+          "x1": 0.6949013157894737,
+          "y1": 0.7419974391805377
+        },
+        {
+          "text": "E Sn Hi > 858",
+          "x0": 0.10197368421052631,
+          "y0": 0.7323943661971831,
+          "x1": 0.6949013157894737,
+          "y1": 0.7522407170294494
+        },
+        {
+          "text": "3255 &e oss",
+          "x0": 0.10197368421052631,
+          "y0": 0.737516005121639,
+          "x1": 0.6949013157894737,
+          "y1": 0.7669654289372599
+        },
+        {
+          "text": "SzZz20 E eS RTER",
+          "x0": 0.10115131578947369,
+          "y0": 0.7516005121638925,
+          "x1": 0.7146381578947368,
+          "y1": 0.7784891165172856
+        },
+        {
+          "text": "EE Be ds",
+          "x0": 0.10115131578947369,
+          "y0": 0.765685019206146,
+          "x1": 0.7146381578947368,
+          "y1": 0.7912932138284251
+        },
+        {
+          "text": "E o > 2",
+          "x0": 0.15542763157894737,
+          "y0": 0.7970550576184379,
+          "x1": 0.7138157894736842,
+          "y1": 0.8143405889884763
+        },
+        {
+          "text": "258ES 4 58 ise?",
+          "x0": 0.10115131578947369,
+          "y0": 0.7989756722151088,
+          "x1": 0.7138157894736842,
+          "y1": 0.8290653008962868
+        },
+        {
+          "text": "E626 9 pa e = 35",
+          "x0": 0.10115131578947369,
+          "y0": 0.8156209987195903,
+          "x1": 0.7162828947368421,
+          "y1": 0.8425096030729834
+        },
+        {
+          "text": "6 BEN",
+          "x0": 0.15542763157894737,
+          "y0": 0.8405889884763125,
+          "x1": 0.7138157894736842,
+          "y1": 0.8540332906530089
+        },
+        {
+          "text": "S=bu Sul 2 = mae S338",
+          "x0": 0.10115131578947369,
+          "y0": 0.8425096030729834,
+          "x1": 0.7138157894736842,
+          "y1": 0.8713188220230473
+        },
+        {
+          "text": "eggs ES $ | [al lz <5 EEG",
+          "x0": 0.10032894736842106,
+          "y0": 0.8565941101152369,
+          "x1": 0.7138157894736842,
+          "y1": 0.8918053777208707
+        },
+        {
+          "text": "ESAS Su MEE EE",
+          "x0": 0.10032894736842106,
+          "y0": 0.8770806658130602,
+          "x1": 0.7162828947368421,
+          "y1": 0.9065300896286812
+        },
+        {
+          "text": "e s s E",
+          "x0": 0.10032894736842106,
+          "y0": 0.8783610755441741,
+          "x1": 0.6949013157894737,
+          "y1": 0.8911651728553137
+        },
+        {
+          "text": "EZAa>2 ZO zu 2 6.58",
+          "x0": 0.10032894736842106,
+          "y0": 0.8943661971830986,
+          "x1": 0.7138157894736842,
+          "y1": 0.9142125480153649
+        },
+        {
+          "text": "2532 DO ES se eas",
+          "x0": 0.10032894736842106,
+          "y0": 0.9020486555697823,
+          "x1": 0.6949013157894737,
+          "y1": 0.9231754161331626
+        },
+        {
+          "text": "Bang Em lesz 30 Es:",
+          "x0": 0.10032894736842106,
+          "y0": 0.910371318822023,
+          "x1": 0.6949013157894737,
+          "y1": 0.9321382842509603
+        }
+      ]
+    }
+  ]
+}

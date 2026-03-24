@@ -1,0 +1,194 @@
+Fondo
+Nombre
+PPTO.
+SALDO COP
+SALDO RPC
+MODIFICAOO
+SALDO
+OBLIGACIONES
+PAGOS
+EJECUCION
+% DE EJECUCION
+R13210903 R.F. Contribución Contratos Obra Pública
+978.403.284
+0
+876.392.935
+0
+102.010.349
+978.403.284
+100,00
+R13220801 R.F. S.G.P. Proposito General-Otros Sectores
+1.425.000
+0
+0
+0
+1.425.000
+1.425.000
+100,00
+R13230101 R.F. ICLD
+5.076.849.211
+0
+1.046.779.832
+0
+4.030.069.379
+5.076.849.211
+100,00
+R132301119 R.F. Sobretasa Gasolina S.I.T.M. MIO
+1.197.000.000
+0
+2
+0
+1.196.999.998
+1.197.000.000
+100,00
+R13230128 R.F. Estampilla procultura
+25.000.000
+0
+0
+0
+25.000.000
+25.000.000
+100,00
+R13230162 R.F. CNSCC 30% Ley 2197/22
+9.558.049
+0
+0
+0
+9.558.049
+9.558.049
+100,00
+R13230165 R.F. CNSCC 25% Ley 2197/22
+16.298.372
+0
+0
+0
+16.298.372
+16.298.372
+100,00
+R133100 R.8. Ingresos Corrientes de Libre Destinación
+21.055.764.145
+0
+1.679.715.753
+0
+19.376.048.392
+21.055.764.145
+100,00
+R133100001 R.B. SGPAgua PotableY5aneamien Básico11/12
+360.000.000
+0
+0
+0
+360.000.000
+360.000.000
+100,00
+R1331111
+R.B. Reintegros y otros recursos no apropiados Libre
+destinación
+206.796.457
+0
+0
+0
+206.796.457
+206.796.457
+100,00
+R13320008 R.B. Aportes urbanísticos por mayor edificabilidad
+735.796.419
+0
+42.564.247
+0
+693.232.172
+735.796.419
+100,00
+R13332047
+R.B.R.F. Estampilía Prodesarrollo Urbano (5% Alimentacion
+escolar)
+937.529.300
+0
+0
+0
+937.529.300
+937.529.300
+100,00
+R133401
+R.B. R.F. Contribución sobre Contratos de Obra Pública
+2.257.271.881
+0
+2
+0
+2.257.271.879
+2.257.271.881
+100,00
+R13341901 R.B. infracciones de transito ley 769-02
+6.556.998.306
+0
+4.722.366
+0
+6.552.275.940
+6.556.998.306
+100,00
+R13380102 R.B. SGP-Propósito General-Deporte y recreación 12/12
+48.967.273
+0
+48.967.273
+0
+0
+48.967.273
+100,00
+RF13320017 R.B.R.F. Sobretasa Gasol. Malla Vial
+365.056.750
+0
+302.553.836
+0
+62.502.914
+365.056.750
+100,00
+RF13332047
+R.8. Estampilla Prodesarrollo Urbano (5% Alimentacion
+escolar)
+1.252.164.095
+01
+0
+01
+1.252.164.095
+1.252.164.095
+100,00
+RF133401
+R.B. Contribución sobre contratos de obra pública
+3.746.049
+0
+3.746.049
+0
+0
+3.746.049
+100,00
+RF133503
+R.B.R.F. Aportes Nación - Alimentación Escolar MEN
+76.115.473
+0
+0
+0
+76.115.473
+76.115.473
+100,00
+R.B. R.F. SGP
+RF13390103
+Asignación Especial-Programas de
+alimentación escolar
+61.155.407
+0
+0
+0
+61.155.407
+61.155.407
+100,00
+Thun Quincken
+JHON JAIRO QUINCHUA CEBALLOS
+Director Dpto. Administrativo de Hacienda
+PROYECTO: Yolanda Rayo M. Profesional - Contratista
+REVISO:
+Carlos Andrés Daza Salasar Profesional Universitario
+Fuente: Informe de Gastos a Septiembre de 2025
+Reporte SGAF a Septiembre de 2025
+16 de 16
+JUAN PABLO ECHEVERRY FERREIRA
+Subdirector de Finanzas Publicas

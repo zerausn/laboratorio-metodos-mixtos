@@ -1,0 +1,304 @@
+SANTIAGO DE CALI
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO, MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2025
+ADMINISTRACION CENTRAL
+CENTRO
+GESTOR
+4131
+1.2.1.0.00 Ingreses corrientes de Libre Destinación
+4131 1.2.3.4:02 ICLD LEY.99.Destino Amblantal...
+POSICIÓN
+PRESUPUESTAL
+1.1.01.02.200.01.04
+CONCEPTO
+Reteica Impuesto de Industria y Comercio Sobre
+Actividades Comerciales Vigencia Antañor
+1.1:01.02.200.01.04 Retelca Impuesto de Industria y Comercio Sobre
+PRESUPUESTO
+INICIAL
+6:273,322,162
+63.366:891
+PRESUPUESTO RECAUDO
+PRES
+MODIFICADO
+6.273,322.162
+63:366,891
+DO TOTAL %EJEC
+633.628.218
+10,1
+-6:400.284
+10,1
+Actividades Comerciales-Vigencia Anterior
+4131
+1.2.1.0.00
+Ingresos comentes de Libre Destinación
+1.1.01.02.200,01.05
+Regimen Simple de Tribütéción Actividades
+Comerciales Vigencia Actual
+990,000
+990.000
+59.215. 15.977
+5.981,4
+4131
+1.2.3.4.02
+ICLD LEY 99-Destino Ambiental
+1.1.01.02.200.01.05
+Regimen Simpie de Tributación - Actividades
+10,000
+0,000
+598:141
+5.981,4
+Comerciales-Vigencia Actuel
+4131
+1.2.1.0.00
+Ingresos comentes de Libra Destineción
+1.1.01.02.200.01.06
+Regimen Simple de Tributación-Actividades
+990.000
+990.
+0.000
+1.110.308.130 112.152,3
+Comerciales-Vigencia Anterior
+4131 1.2.3.4.02
+¡CLD LEY 99 - Destino Ambjental
+1.1.01.02.200.01.06
+Regimen Simple de Tributación-Actividades
+10.000
+10.0
+0,000
+11.215.234 112.152,3
+Comerciales-Vigencia Anterior
+1.1.01.02,200.02
+Impuesto de industria y Comarcio - Sobre
+61,243.425.76 769
+61.243.425.769
+53.015.820.757
+86,6
+Actividades industriales
+4131
+1.2.1.0.00
+Ingresos comentes de Libre Destinación
+1.1.01.02.200.02.01
+Impuesto de industria y Comercio-Sobre Actividades
+46.402.290.000
+6.402.290.000
+49,952.084.363
+107,7
+Industriales Vigencia Actual
+4131
+1.2.3.4.02
+ICLD LEY 99- Destina Ambiental
+1.1.01.02.200.02.01
+-Impuesto de industria y Comercio Sobre Actividades
+468,710,000
+468.710.000
+504.566.509
+107,7
+Industriales Vigencia Actual
+4131
+1.2.1.0.00
+Ingresos comentes da Libre Destinación
+1.1.01.02.200.02.02
+impuesto de industria y comercio -Sobre Actividades
+976.445.135
+976.445.135
+1.509.012.572
+154,5
+industriales Vigencia Anterior
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambiental
+1.1.01.02.200.02.02
+Impuesto de industria y comercio -Sobre Actividades
+9.863.082
+9.863.082
+15.242.551
+154,5
+Industriales - Vigencia Anterior
+4131
+1.2.1.0.00
+Ingresos comentes de Libre Destinación
+1.1.01.02.200.02.03
+Retalca impuesto de industría y comercio-Sobre
+11.925.248.739
+11.92
+925.246.739
+375.236.640
+3,1
+Actividedes Industriales - Vigencia Actual
+4131
+1.2.3.4.02
+ICLD LEY 99 - Destino Ambiantal
+1.1.01.02.200.02.03
+Reteica Impuesto de industría y comercio Sobre
+120.457.058
+120.457.058
+3.790.270
+3,1
+Aetividades Industriales - Vigencia Actuai
+4131
+1.2.1.0.00
+Ingresos corrientes de Libre Destinación
+1.1.01.02.200.02.04
+Retelca impuesto de industria y comercio -Sobre
+1.325.027.637
+1.325.027.637
+167.290.573
+12,6
+Aetividades Industriales - Vigencia Anterior
+4131
+1.2.3.4.02
+ICLD LEY 99- Dastino Ambientel
+1.1.01.02.200.02.04
+Retelca impuesto de industria y comercio Sobre
+13.384.118)
+13.384.118
+1.689.803
+12,6
+Actividadas Industriales Vigencia Anterior
+4131
+1.2.1.0.00
+Ingresos corrientes de Libre Destinación
+1.1.01.02.200.02.05
+Regimen Simple de Tributación. Actividades
+990.000
+990.000
+18.831.828 1.902,2
+Industriales-Vigencia Actual
+4131
+1.2.3.4.02
+ICLD LEY 99 Destino Ambiental
+1.1.01.02.200.02.05
+Regimen Simple de Tributación - Actividades
+10.000
+10.000
+190.220 1.902,2
+Industriales Vigencia Actual
+4131
+1.2.1.0.00
+Ingresas comentes de Libre Destinación
+1.1.01.02.200.02.06
+Regimen Simple de Tributación -Actividades industriales
+990.000
+990.000
+463.206.574 46.788,5
+- Vigencia Anterior
+4131
+1.2.3.4.02
+ICLD LEY 99 - Destine Ambiental
+1.1.01.02.200.02.06
+Regimen Simple de Tributación-Actividades Industriales
+10.000
+10.000
+4.678.854 46.788,5
+Vigencia Anterior
+1.1.01.02.200.03
+Impuosto de Industria y Comercio - Sobre
+427.329.201.550
+427.329.201,550
+318.393.997.771
+74,5
+Actividades de Servicios
+4131
+1.2.1.0.00
+Ingresos corrientes de Libre Destinación
+1.1.01.02.200.03.01
+impuesto de Industria y Comercio - Sobre Actividades
+323.783.460.000
+323.783.460,000
+307.527.684.640
+95,0
+de Servicios- Vigencia Actual
+4131
+1.2.3.4.02
+ICLD LEY 99 - Destino Ambientei
+1.1.01.02.200.03.01
+Impuesto da Industria y Comarcio - Sobre Actividades
+3.270.540.000
+3.270.540.000
+3.106.340.249
+95,0
+de Servicios-Vigencia Actual
+4131
+1.2.1.0.00
+ingresos comentes de Libre Destinación
+1.1.01.02.200.03.02
+Impuasto de lindustria y Comercio Sobre Actividades
+6.813.387.538
+6.813.387,538
+952.613.002
+14,0
+de Servicios - Vigencia Anterior
+4131
+1.2.3.4.02
+ICLD LEY 99 Destino Ambiental
+1.1.01.02.200,03.02
+Impuesto de lindüstria y Comercio Sobre Actividades
+68.822.096
+68.822.096
+9.622.354
+14,0
+de Servicios Vigencie Anterior
+4131
+1.2.1.0.00
+Ingresos comentes de Libre Destinación
+1.1.01.02.200.03,03
+Releica Impuesto de lindustña y Comercio Sobre
+83.211.373.797
+83.211.373.797
+1.741.924.222
+2,1
+Actividades de Servicios Vigencia Actual
+4131
+1.2.3.4.02
+ICLD LEY 99-Destino Ambiental
+1.1.01.02.200.03.03
+Retelca Impuesto de lindustria y Comercio
+Sobre
+840.518.927
+840.518.927
+17.595.194
+2,1
+Actividades de Servicios. Vigencia Actual
+4131
+1.2.1.0.00
+Ingresos comentas de Libre Dastinación
+1.1.01.02.200.03.04
+Retelca impuesto de lindustria y Comercio
+Actividades de Servicios Vigencia Anterior
+Sobre
+9.245.708.200
+9.245.708.200
+776.618.453
+8,4
+4131
+1.2.3.4.02
+ICLD LEY 99 - Destino Ambientel
+1.1.01.02.200.03.04
+Reteica Impuesto de lindustria y Comercio Sobre
+93.390.992
+93.390,992
+7.844.631
+8,4
+Actividades de Servicios - Vigancia Anterior
+4131
+1.2.1.0.00
+Ingresos comentes de Libre Destineción
+1.1.01.02.200.03.05
+Regimen Simple de Tributación-Actividades de
+990.000
+990.000
+177.432.586 17.922.5
+Servicios-Vigencia Actual
+4131
+1.2.3.4.02
+ICLD LEY 99 - Destino Ambientej
+1.1.01.02.200.03.05
+Regimen Simple de Tributación-Actividedes de
+10.000
+10.000
+1.792.248 17.922,5
+Servicios-Vigencia Actuel
+Página 2 de 32

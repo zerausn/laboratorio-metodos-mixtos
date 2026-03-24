@@ -1,0 +1,190 @@
+Fondo
+Nombre
+PPTD.
+MDDIFICADD
+SALDD CDP
+SALDD RPC
+SALDD
+DBLIGACIDNES
+PAGDS
+EJECUCIDN
+% DE
+EJECUCIDN
+2-1101020010402
+Fondo de Pensiones Privado
+729.085.844
+0
+0
+73.970.560
+279.765.984
+353.736.544
+48,52
+2-11010200201
+Entidades Promotoras en Salud (EPS
+748.445.922
+0
+0
+52.348.784
+430.615.303
+482.964.087
+64,53
+2-11010200301
+Aportes de Cesantias Fondo Publico
+374.236.339
+0
+0
+0
+374.236.339
+374.236.339
+100,00
+2-11010200302
+Aportes de Cesantias Fondo Privado
+439.320.918
+0
+0
+0
+318.669.033
+318.669.033
+72,54
+2-11010200303
+Intereses a las Cesantias
+95.714.160
+0
+0
+0
+82.121.602
+82.121.602
+85,80
+2-110102004
+familiar
+Aportes a cajas de compensación
+381.398.441
+0
+0
+25.279.411
+219.239.689
+244.519.100
+64,11
+2-110102005
+riesgos laborales
+Aportes generales al sistema de
+46.461.797
+0
+0
+3.376.570
+26.643.130
+30.019.700
+64,61
+2-110102006
+Aportes al ICBF
+285.920.595
+0
+0
+18.960.102
+163.300.498
+182.260.600
+63,75
+2-110102007
+Aportes al SENA
+47.734.111
+0
+0
+3.163.000
+27.436.000
+30.599.000
+64,10
+2-110102008
+Aportes a la ESAP
+47.734.111
+0
+0
+3.163.001
+28.570.899
+31.733.900
+66,48
+2-110102009
+institutos técnicos
+Aportes a escuelas industriales e
+95.351.303
+0
+0
+6.322.498
+54.838.002
+61.160.500
+64,14
+2-11010300101
+Vacaciones
+568.359.133
+0
+0
+6.230.335
+284.527.658
+290.757.993
+51,16
+2-11010300103
+Bonificación especial de recreación
+47.865.985
+0
+0
+528.345
+24.847.366
+25.375.711
+53,01
+13210906
+R.F. Cuotas de Auditaje
+216.035.205
+0
+0
+0
+0
+0,00
+2-13050905401
+Contraloria de Santiago de Cali
+216.035.205
+0
+0
+0
+0
+0
+0,00
+132301104
+Prodesarrollo
+Estampillas
+Fonpet 20%
+R.F.
+1.267.294.882
+이
+0
+0
+1.057.800.000
+1.057.800.000
+83,47
+2-13110200102
+autónomos pensionales
+Capitalización de otros patrimonios
+1.267.294.882
+0
+0
+1.057.800.000
+1.057.800.000
+83,47
+132301114
+R.F. Estampilla Procultura Fonpet
+420.164.538
+0
+0
+0
+195.000.000
+195.000.000
+46,41
+2-13110200102
+autónomos pensionales
+Capitalización de otros patrimonios
+420.164.538
+0
+0
+0
+195.000.000
+195.000.000
+46,41
+8 de 13

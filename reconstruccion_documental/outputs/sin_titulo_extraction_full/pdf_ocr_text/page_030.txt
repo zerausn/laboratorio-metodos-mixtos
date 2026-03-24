@@ -1,0 +1,315 @@
++
+SANTIAGO DE CALI
+A
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2025
+ADMINISTRACION CENTRAL
+CENTRO FONDO 200 NOMBRE FONDO
+GESTOR
+4131 1.3.3.5.01.12
+POSICIÓN
+PRESUPUESTALY
+CONCERTO
+PRESUPUESTO
+INICIAL
+PRESUPUESTO
+MODIFICADORECAUDO TOTAL
+R.B. Programa de Prevención Y Control de la
+1.2.10.02
+Superávit fiscal
+134.502.500
+134.502.500
+100,0
+Tuberculosis
+به مرسته
+41311.3.3.5.01:13:
+R.B. Festivalde Música del Pacifico Petronio Álvarez
+1.2.10.02
+Superávit fiscal
+53.634.348
+53.634.348
+100,0
+১
+413113:35:01:19
+R.B. Campañas Control Lepra
+1.2:10.02
+Superavit fiscal
+108.064.734
+108:064.734
+100,0
+4131" 1:3:3:5:01:22R.B. Programa de Prevención y Control de
+12.10.02
+Superavit fiscal
+57:185/25357.185:253-100,0
+Enfermedades transmitidas por Vectores y Zoonosis
+4131
+1.3.3.5.04.02
+R.B. Cuantas maestras sector salud
+1.2.10.02
+Superávit fiscal
+77.177.395
+77.177.395
+100,0
+4131
+1.3.3.5.04.03
+R.B. Convenio ICBF 7600608/21
+1.2.10.02
+Superávit fiscal
+4131
+1.3.3.5.04.15
+R.B. Apoyo proceso Certificación Discapacidad Necional 1.2.10.02
+Superávit fiscal
+218,977
+218.977
+100,0
+4131
+1.3.3.5.04.16
+R.B.Convenios ICBF
+1.2.10.02
+Superávit fiscal
+1.381.369.483
+1.381.369.483
+100,0
+4131
+1.3.3.5.08.01
+R.B. Cuotas partes pensionales
+1.2.10.02
+Suparávit fiscal
+2.192,201.593
+2.192.201.593
+100,0
+4131
+1.3.3.5.11.01
+R.B. Indemnizaciones relacionadas con seguros no da
+1.2.10.02
+Superávit fiscal
+76.066.741
+76.066.741
+100,0
+vida Libre Destinación
+4131
+1.3.3.6.01.03
+R.B. SGP-Educación-Prestación de servicios cuota de 1.2.10.02
+Superávit fiscal
+283.063.400
+283.063.400
+100,0
+administración CSF
+4131
+1.3.3.6.01.04
+R.B. SGP-Educación-Prestación de servicios CSF
+1.2.10.02
+Superávit fiscal
+5.428.683.387
+5.428.683.387
+100,0
+4131
+1.3.3.6.03
+R.B. SGP-Educación-Calidad por matrícuia oficial
+1.2.10.02
+Superávit fiscal
+1.873.195.253
+1.873.195.253
+100,0
+4131
+1.3.3.7.02.01
+R.B. SGP-Salud-Salud pública 11/12
+1.2.10.02
+Superávit fiscal
+6.804.556.622
+6.804.556.622
+100,0
+4131
+1.3.3.7.02.02
+R.B. SGP-Salud-Salud pública 12/12
+1.2.10.02
+Superávit fiscal
+1.653.528.369
+1.653.528.369
+100,0
+4131
+1.3.3.8.01.01
+R.B. SGP-Propósito Genaral-Deporte y recreación 11/12 1.2.10.02
+Superávit fiscal
+7.839.360,465
+7.839.360.465
+100,0
+4131
+1.3.3.8.01.02
+R.B. SGP-Propósito General-Deporte y recreación 12/12) 1.2.10.02
+Superávit fiscal
+556.889.081
+556.889,081
+100,0
+4131
+1.3.3.8.02.01
+R.B. SGP-Propósito Genaral-Cultura 11/12
+1.2.10.02
+Superávit fiscal
+2.444.798.845
+2.444.798.845
+100,0
+4131
+1.3.3.8.02.02
+R.B. SGP-Propósito General-Cultura 12/12
+1.2.10.02
+Superávit fiscal
+4131
+1.3.3.8.03.01
+R.B. SGP-Propósito General-Libre inversión 11/12
+1.2.10.02
+Superávit fiscal
+9.926.328.576
+9.926.328.576
+100,0
+4131
+1.3.3.8.03.02
+R.B. SGP-Propósito General-Libre inversión 12/12
+1.2.10.02
+Superávit fiscai
+3.185.919.224
+3.185.919.224
+100,0
+4131
+1.3.3.9.01.03
+R.B. SGP Asignación Especial-Programas de
+1.2.10.02
+Superávit fiscal
+alimentación escolar 11/12
+4131
+1.3.3.9.01.04
+R.B. SGP-Asignación Especial-Programas de
+1.2.10.02
+Superávit fiscal
+alimentación escolar 12/12
+4131
+1.3.3.9.03.02
+R.B. SGP-Asignación-Atención integral de la primera
+1.2.10.02
+Superávit fiscal
+infancia-Educación
+4131
+1.3.3.9.03.03
+R.B. SGP-Asignación-Atanción integral de la primera
+1.2.10.02
+Superávit fiscal
+infancia-Gobierno
+4131
+1.3.3.9.07.11
+R.B. CUR 016/18EMCALI SSF
+1.2.10.02
+Superávít fiscal
+4131
+Α.1.3.3.11.03
+R.B. Dividendos y utilidades por otras inversiones de
+1.2.10.02
+Superávit fiscal
+1.761.425.062
+1.761.425.062
+100,0
+capitai
+14131
+Α.1.3.3.4.04
+R.B. Tasas retributivas
+1.2.10.02
+Superávit fiscal
+651.567.544
+651.567.544
+100,0
+4131
+F.1.3.3.1.00
+R.B. R.F. ingresos Corrientes de Libre Destinación
+1.2.10.02
+Superávit fiscal
+15.912.656.555
+15.912.656.555
+100,0
+4131
+F.1.3.3.11.01.02
+R.B. R.F. Disposición de activos-Fonpet
+1.2.10.02
+Superávit fiscal
+13.575.875
+13.575.875
+100,0
+4131
+F. 1.3.3.11.02.01
+R.B.R.F. Excedentes Financieros EMCALI
+1.2.10.02
+Superávit fiscal
+4131
+F.1.3.3,11,05
+R.B. R.F. Recursos de crédito intemo
+1.2.10.02
+Superávit fiscal
+4131
+F.1.3.3.11.07.11
+R.B.R.F.Transferencia Fondo Especial de Viviende
+1.2.10.02
+Superávit fiscal
+4131
+F.1.3.3.11.08.06 R.B. R.F. Fund for cities of services
+1.2.10.02
+Superávil fiscal
+7.605.151
+7.605.151
+100,0
+4131
+F.1.3.3.11.08.07 R.B. R.F. Resolución 1585/21 2da. Versión Premio
+1.2.10.02
+Superavit fiscal
+8.074.839
+B.074.839
+100,0
+Nacional de Bibliotaca "Danlal Samper Ortega" 2021
+4131
+F.1.3.3.11.09.01
+R.B. R.F. Recuparación de cartera préstamos Fondo 1.2.10.02
+Superávit fiscal
+3.890.307
+3.890.307
+100,0
+Solidario y de Oportunidades
+4131
+F.1.3.3.11.09.03
+R.B.R.F. Fondo Solidario y de Oportunidades
+1.2.10.02
+Superávit fiscal
+2.428.879.839
+2.428.879.839
+100,0
+4131
+F.1.3.3.11.10.01
+R.B. R.F Retiros Fonpet-Para el pego de obligaciones
+1.2.10.02
+Superávit fiscal
+2.185.574.937
+2.185.574.937
+100,0
+penslonaies corrientes
+4131
+F.1.3.3.11.10.02. R.B. R.F.. FDNPET. Educación excedentes....
+1.2.10.02.
+Superávit fiscal
+4131
+F.1.3.3.11.11.14
+R.B.R.F. Reintegro Compra Predios y Otros
+1.2.10.02
+Superávit fiscal
+4131
+F.1.3.3.11.11.16 R.B. R.F Reintegros ICETEX - ICLD
+1.2.10.02
+Superávit fiscal
+4131
+F.1.3.3,2,00,08 R.B. R.F. Aportes urbanisticos por mayor edificabilidad
+1.2.10.02
+Superávit fiscal
+778.816.924
+77B.B16.924
+100,0
+780.764.075
+780.764.075
+100,0
+Página 28 de 32

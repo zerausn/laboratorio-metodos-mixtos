@@ -1,0 +1,294 @@
+مصمتة
+T
+SANTIAGO DE CALE
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO, MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2025
+ADMINISTRACION CENTRAL
+1
+CENTRO
+GESTOR
+FONDO
+POSICIÓN
+NOMBRE FONDO
+PRESUPUESTO
+CONCEPTO
+PRESUPUESTO
+PRESUPUESTAL
+NICIALE SEXTAMODIFICADO
+RECAUDO TOTAL
+EJEC
+INGRESOS
+5.887.095:1177237.188.039.078,0195.653.976:763,098
+78.7
+11INGRESOS CORRIENTES5.619.680.933.319
+5.807.988.793.7524.816.798.639.227 超~82.9
+11:01
+INGRESOS TRIBUTARIOS2.573.483:613.660 2.573.483:613.660 2.289.469:803:874-890
+Mà nhiều để đến
+1.1.01:01
+IMPUESTOS DIRECTOS
+1,013:537.870:3721.013.537.870.3721,000,772:380:162987
+11.01.01.014
+Sobretasa Ambiental
+114,073,330-789
+114.073.330,789
+114.630.255,515
+100,5
+1.1.01.01.014.01
+Sobretasa Ambientai Urbano
+103.806.731.018
+103.806.731.018
+114,506,250,503
+110,3
+4131
+1.2.3.1.01
+Sobretasa / participación ambiental - Corporaciones
+Autónomas Regionaies
+1.1.01.01.014.01.01
+Sobretasa Ambiental - Urbano Vigencia Actual
+95.195.063.600
+95.195.063.600
+96.626.694.495
+101,5
+4131
+1,2,3.1.01
+Sobretasa/participación ambiental - Corporaciones
+Autónomas Regionales
+1.1.01.01.014.01.02
+Sobrelasa Ambiental - Urbano Vigencia Anterior
+8,611.667.418
+8.611.667.418
+17.879,556.008
+207,6
+1.1.01.01.014.02
+Sobretasa Ambiental Rural
+10.266.599,771
+10.266.599,771
+124,005,012
+1,2
+4131
+1.2.3.1.01
+Sobretasa / participación ambientai - Corporaciones
+1.1.01.01.014.02.01
+Sobretasa Ambiental - Rural Vigencia Actual
+9.414.896.400
+9.414.896.400
+22.376.110
+0,2
+Autónomas Regionaies
+4131
+1.2.3.1.01
+Sobretasa / participación embientai - Corporaciones
+Autónomas Regionales
+1.1.01.01.014.02.02
+Sobretasa Ambiental Rural Vigencia Anterior
+851.703.371
+851.703.371
+101.628.902
+11,9
+1.1.01.01.200
+impuesto Predlai Unificado
+899.464.539.583
+899.464.539,583
+886.142.124.647
+98,5
+1.1.01.01.200.01
+Impuesto Predial Unificado - Urbano
+825,528,011.021
+825,528,011.021
+885.155.586.171
+107,2
+4131
+1.2.1.0.00
+ingresos commentes de Libre Destinación
+1.1.01.01.200.01.01
+Impuasto Predial Unificado - Urbano Vigencia Actual
+731.892.150.000
+731.892.150.000
+760.916.805.028
+104,0
+4131
+1.2.3.4.02
+ICLD LEY 99 Destino Amblental
+1.1.01.01.200.01.01
+Impuesto Predial Unificado - Urbano Vigencia Actual
+7.392.850.000
+7.392.850.000
+7.686.028.334
+104,0
+4131
+1.2.1.0.00
+Ingreses comentes de Libre Destinación
+1.1.01.01.200.01.02
+Impuesto Predial Unificado - Urbano - Vigarıcia Anterior
+85.380.580.912
+85.380.580.912
+115.387.225.282
+135,1
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambiental
+1.1.01.01.200.01.02
+Impuesto Predial Unificado - Urbano - Vigencia Anterior
+862.430.109)
+862.430.109
+1.165.527.527
+135,1
+1.1.01.01.200.02
+Impuesto Prediai Unificado - Rural
+73.936.528,562
+73.936.528.562
+986.538.476
+1,3
+4131
+1.2.1.0.00
+Ingresos commentes de Libre Dastinación
+1.1.01.01.200.02.01
+Impuesto Predial Unificado - Rural Vigencia Actual
+64.752.930.000
+64.752.930.000
+102.551.592
+0,2
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambiental
+1.1.01.01.200.02.01
+impuesto Predial Unificado - Rural Vigencia Actual
+654.070.000
+654.070.000
+1.035.875
+0,2
+4131
+1.2.1.0.00
+Ingresos corrientes de Libre Destinación
+1.1.01.01.200.02.02
+impuesto Predial Unificado - Rural Vigencia Anterior
+8.444.233.276
+8.444.233.276
+874.121.498
+10.4
+4131
+1.2.3.4.02
+ICLD LEY 99 - Destino Ambiental
+1.1.01.01.200.02.02
+impuesto Prediai Unificado Rural Vigencia Anterior
+85.295.286
+85.295.286
+8.829.511
+10,4
+1:1.01.02
+Impuestos Indirectos
+1.559.945.743.288
+1.559.945.743.288
+1.288.697.423.712
+82,6
+1.1.01.02.109
+Sobretasa a la Gasolina
+124.574.108.100
+124.574.108.100
+95,030,046.000
+76,3
+1.1.01.02,109,01
+Sobretasa a la Gasolina Malia Vial
+26.658.859.133
+26.658.859,133
+20.336.429.844
+76,3
+4131
+1.2.2.0.00.17
+Sobretasa Gasoi malia vial
+1.1.01.02.109.01.01
+Sobretasa a la Gasolina Vigencia Actual
+26,658,859,133
+26.658.859.133
+20.336.429.844
+76,3
+1.1.01.02.109.02
+Sobretasa a la Gasolina -S.I.T.MIO
+97.915.248.967
+97.915.248.967
+74.693.616.156
+4131
+1.2.2.0.00.29
+Sobretasa Gasolina S.I.T.Μ. ΜΙΟ
+1.1.01.02.109.02.01
+Sobretasa a la Gasolina Vigencia Actual
+97.915.248.967
+97.915.248.967
+74.693.616.156
+76,3
+1.1.01.02.200
+Impuesto de Industria y Comercio
+778,509,178,335
+778,509,178,335
+709.422.261.654
+91,1
+1.1.01.02,200.01
+Impuesto de Industria y Comercio - Sobre
+289.936.551.016
+289.936.551.016
+338.012.443,126
+116,6
+Actividades Comerciales
+4131
+1.2.1.0.00
+Ingresos comentes de Libre Dastineción
+1.1.01.02.200.01.01
+Impuesto de industria y Comercio Sobre Actividades
+219.687.930.000
+219.687.930.000
+181.898.324.136
+82,8
+Comerciales-Vigencia Actual
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambiental
+1.1.01.02.200.01.01
+impuesto de industria y Comercio Sobre Actividades
+2.219.070.000
+2.219.070.000
+1.837.356.810
+82,8
+Comarciales-Vigencia Actual
+4131
+1.2.1.0.00
+Ingresos comentes da Libre Dastinación
+1.1.01.02.200.01.02
+Impuesto de Industria y Comercio-Sobre Actividades
+4.614.053.879
+4.614.053.879
+6.441.966.327
+139,6
+Comarciales-Vigencia Anterior
+4131
+1.2.3.4.02
+ICLD LEY 99-Destino Ambiental
+1.1.01.02.200.01.02
+impuesto de Industria y Comercio Sobre Actividades
+46,606.605
+46.606.605
+65.070.367
+139,8
+Comerciales-Vigencia Anterior
+4131
+1.2.1.0.00
+ingresos comentes de Libre Destinación
+1.1.01.02.200.01.03
+Retelca Impuasto da Industria y Comercio -Sobre
+56.459.899.464
+56.459.899.464
+145.756.132.339
+258,2
+Actividades Comerciaies -Vigencia Actual
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambiental
+1.1.01.02.200.01.03
+Ratelca impuesto de Industria y Comercio -Sobre
+570.302.015
+570.302.015
+1.472.284.165 258,2
+Actividades Comerciales -Vigencia Actual
+Página 1 de 32

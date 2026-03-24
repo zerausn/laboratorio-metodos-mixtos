@@ -1,0 +1,270 @@
+SANTIAGO DE CALI
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+E SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO, MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2025
+ADMINISTRACION CENTRAL
+RECAUDO TOTAL
+MODIFICADO
+MODIFICADO
+PRESURUESTO
+INICIALLY
+PRESUPUESTO
+CONCERTO
+POSICIÓN
+PRESUPUESTA
+NOMBRE FONDO
+CENTROTONDO
+GESTOR
+73,3
+181:436:079,457
+247.584.179.124
+Impuesto de Alumbrado Público EMCALI y Otros 247.584:179.124
+Comercializadores
+1.1:01.02.211,02
+4131
+Impuesto de Alumbrado Público EMCALI y Otros
+12:31:05.02
+11:01.02.21102,01
+163,292471:519733
+Impuesto de Alumbrado Público EMCALI y Otros222,643,001,080222,643,001,080
+Comercializadores
+Comercializadores Vigencia Actual
+Impuesto de Alumbrado Público EMCALIY Olros
+Comercializadores
+12:31:05.02
+4131
+1.1.01.02 211.02.02
+Impuesto de Alumbrado Público EMCALLY Ofros
+Impuasto de Alumbrado Público EMCALI y Otros
+Comercializadores Vigencia Anterior
+Comercializadores: 10% (Art. 220 AC 357/13)
+182.760.132
+182.760.132
+4131-
+1.2.3.1:05:03
+Alumb Acdo 357 (10% navideño)
+1.1.01.02.211.02.03
+24:758.417.912
+24.758.417,912
+18.143.607.938
+73.3
+-Impuesto de Alumbrado Público Liquidación Directa
+1.1.01.02.211.03
+10.623.312.823
+3.427.780.858
+10.623.312.823
+32,3
+4131
+1.2.3.1.05.04
+Impuesto de Alumbrado Público Liquidación Directe
+1.1.01.02.211.03.01
+Impuesto de Alumbrado Público Liquidación Directa
+Vigencia Actual
+7.765.487.860
+2.834.789.997
+7.765.487:860
+36,5
+4131
+1.2.3.1.05.04
+Impuesto de Alumbrado Público Liquidación Directa
+1.1.01.02.211.03.02
+impuesto de Alumbrado Público Liquidación Directa-
+Vigencia Anterior
+1.795:493.681
+250.212.775
+1.795.493.681
+4131
+1.2.3.1.05.03
+Alumb Acdo 357 (10% navideño)
+1.1.01.02.211.03.03
+Impuesto de Alumbrado Público Liquidación Directa -
+10% (Art: -220 AC 357/13)
+1.062.331.282
+342.778.086
+1.062.331.282
+32,3
+Sobretasa Bomberli
+33.683.048,645
+1.1.01.02.212
+32.938,503,906
+33.683.048.645
+97,8
+1.2.3.1.14
+4131
+Sobretasa Bomberi
+Sobretasa Bomberil- Vigencia Actual
+30.578.296.000
+1.1.01.02.212.01
+30.578.296.000
+28.685.800.834
+93,8
+1.2.3.1.14
+Sobretasa Bomberil
+4131
+1.1.01.02.212.02
+Sobretasa Bombernil Vigencia Anterior
+4.252.703,072
+3.104.752.645
+3.104.752.645
+137,0
+1.2.3.1.16
+4131
+Impuesto de transporte por oleoductos y gasoductos
+Impuesto de transporte por oleoductos y gasoductos
+1.1.01,02.214
+40.550
+1,1.01,02,216
+impuesto de Espectácuios Públicos Municipal
+3.362.825,643
+2.976.119,701
+3.362.825.643
+88,5
+1.1.01.02.216,01
+impuesto de Espectáculos Públicos Municipal del
+Daporte
+2.241.883.762
+2.241,883,762
+1.895,053,701
+84,5
+1.2.3.1.12
+4131
+Impuesto de espectáculos públicos necional con destino
+al deporte
+1.1.01.02.216.01.01
+Impuesto de Espectácuios Públicos Municipai Vigencia
+Actuai
+2.241.883.762
+2.241.883.762
+1.475.230,701
+65,8
+4131
+1.2.3.1.12
+impuesto de Espectáculos Públicos Municipal Vigencia
+Anterior
+1.1.01.02.216.01.02
+Impuesto de espectáculos públicos nacional con destino
+al deporte
+419.823.000
+1,1.01.02.216.02
+impuesto de Espectáculos Públicos Municipal (Libre
+Destinación)
+1.120.941.881
+1.120.941.881
+1.081.066.000
+96,4
+4131
+1.2.1.0.00
+Ingresos comentes de Libre Destinación
+1.1.01.02.216.02.01
+impuesto de Espectáculos Públicos Municipai LD
+Vigencia Actual
+1.109.732.462
+1.109.732.462
+1.070.255.340
+96,4
+1.2.3.4.02
+4131
+ICLD LEY 99- Destino Ambiental
+1.1.01.02.216.02.01
+impuesto de Espectáculos Públicos Municipai LD
+Vigencia Actual
+11.209.419
+11.209.419
+10.810.660
+96,4
+1.2.1.0.00
+4131
+ingresos comentes de Libre Destinación
+1.1.01.02.216.02.02
+impuesto de Espectáculos Públicos Municipai LD
+Vigencia Anterior
+1.2.3.4.02
+4131
+ICLD LEY 99- Destino Ambiental
+impuesto de Espectáculos Públicos Municipai LD
+Vigencia Anterior
+1.1.01.02.216.02.02
+1.1.01.02.217
+Sobretasa de solidaridad de servicios públicos -
+Sobretasa de solidaridad servicios públicos
+acueducto, aseo y alcantariiiado
+acueducto
+3.893.324.288
+3,893,324,288
+2,939,945,688
+Sobretasa de solidaridad servicios públicos acueducto,
+aseo y alcantarillado
+4131
+1.2.3.1.17
+1.1.01.02.217.01
+1.262.847.810
+1.262.847.810
+1.098.894.997
+75,5
+87,0
+Sobretasa de solidaridad servicios públicos acueducto,
+aseo y alcantarillado
+4131
+1.2.3.1.17
+1.1.01.02.217.02
+Sobretasa de solidaridad de servicios públicos aseo
+2.481.637.740
+2.481.637.740
+1:841.050.691
+74,2
+4131
+1.2.3.1.17
+Sobretaša de solidaridad sarvícios públicos acueducto,
+aseo y alcantaríilado
+1.1.01.02.217,03
+Sobretasa de solidaridad de servicios públicos-
+alcantarillado
+148.838.738
+148.838.738
+1.1.01.02.218-
+Tasa Prodeporte y Recreación
+31.311.205.442
+31.311,205,442
+27.282.777.01087,1
+1.2.3.1.18.01.
+Tasa Prodeporte 10% Alimentación y transporte
+4131
+Tesa Prodeporte y Recreación- Vigencia Actual
+1.1.01.02.218.01
+3.131.120.544
+2.728.277.696)
+3.131.120.544
+87,1
+Tasa Prodaporte 90% Manifesteclones deportivas y
+recreetivas
+1.2.3.1.18.02
+4131
+1.1.01.02.218.01
+Tasa Prodeporte y Recreación- Vigencia Actual
+28.180.084.898
+28.180.084.898
+24.554.499.314)
+87,1
+1,1.01.02,300Estampiliase
+1.1.01.02.300.01
+220.963.760.917.
+220.963,760,917
+148.056,325.727
+67,0
+Estampilla para el Bienestar del Adulto Mayor
+35,173,905,802
+26.799,357,400
+35.173.905.802
+76,2
+Estampilia para el Bienestar del Adulto Mayor - Vigencia
+Acluai
+Estampilla pera el blenestar dei Adulto mayor
+1.2.3.1.19.21
+4131
+1.1.01.02.300,01.01
+28.139.124.642
+28.139.124.642
+21.439.485.919
+76,2
+Página 4 de 32

@@ -1,0 +1,221 @@
+Fondo
+Nombre
+PPTO.
+SALDO CDP
+MODIFICADO
+13341903
+R.8. Multas por maltrato animal
+7.555.933
+SALDO
+SALDO RPC
+OBLIGACIONES
+0
+0
+0
+PAGOS
+0
+EJECUCION % DE EJECUCION
+0
+13341904
+R.B. Multas y sanciones Sanitarias Secretaria de Salud
+34.272.000
+0
+15.546.000
+3.795.000
+8.977.000
+13342101
+R.B. Venta servicios Salud-Zoonosis
+2.541.998
+0
+2.541.998
+0
+28.318.000
+0
+2.541.998
+13342102
+R.B. Cursos de Conducción Escuela de Enseñanzas
+174.097.156
+174.097.156
+0
+0
+0
+0,00
+82,63
+100,00
+0
+0,00
+13342103
+R.B. Arrendamiento Escenarios Deportivos (Conv Municipio-
+Univalle)
+1.944.010.136
+1.511.577.682
+119.626.208
+63.085.803
+13342105 R.B. Venta de bienes y servicios-Valorización
+13342201
+R.B. Coljuegos 25%
+136.951.019
+5.685.670.748
+136.951.019
+4.440.395.748
+13350103
+R.B. Participación del impuesto sobre vehículos automotores
+1.155.579.981
+0
+0
+13350105
+R.B. Participación de la Contribución Parafiscal Cultural
+6.060.295.575
+3.963.311.170
+2.096.984.405
+0
+9,40
+0
+0
+0
+0
+0,00
+607.046.000
+4.510.000
+218.952.000
+830.508.000
+14,61
+0
+1.155.579.981
+1.155.579.981
+100,00
+0
+2.096.984.405
+34,60
+0
+182.712.011
+13350112
+R.B. Programa de Prevención Y Control de la Tuberculosis
+134.502.500
+0
+0
+0
+134.502.500
+134.502.500
+100,00
+13350113
+R.B. Festival de Música del Pacífico Petronio Álvarez
+53.634.348
+0
+53.634.348
+0
+13350119
+R.B. Campañas Control Lepra
+108.064.734
+0
+0
+0
+108.064.734
+0
+53.634.348
+100,00
+108.064.734
+100,00
+13350122
+R.B. Programa de Prevención y Control de Enfermedades
+transmitidas por Vectores y Zoonosis
+57.185.253
+57.185.253
+0
+0
+0
+0
+0,00
+13350402
+R.B. Cuentas maestras sector salud
+77.177.395
+0
+77.177.395
+0
+13350415
+13350416
+R.B. Apoyo proceso Certificación Discapacidad Nacional
+R.B.Convenios ICBF
+218.977
+0
+1.381.369.483
+13351101
+R.B. Indemnizaciones relacionadas con seguros no de vida
+Libre Destinación
+76.066.741
+16.992.787
+0
+77.177.395
+100,00
+0
+0
+218.977
+218.977
+100,00
+0
+0
+0
+1.381.369.483
+1.381.369.483
+100,00
+0
+0
+59.073.954
+59.073.954
+77,66
+13360103
+R.B. SGP-Educación-Prestación de servicios cuota de
+administración CSF
+283.063.400
+0
+0
+0
+283.063.400
+283.063.400
+100,00
+13360104
+R.B. SGP-Educación-Prestación de servicios CSF
+5.428.683.387
+0
+0
+3
+5.428.683.384
+5.428.683.387
+100,00
+133603
+R.B. SGP-Educación-Calidad por matrícula oficial
+1.873.195.253
+0
+0
+0
+1.873.195.253
+1.873.195.253
+100,00
+13370201
+R.B. SGP-5alud-Salud pública 11/12
+6.804.556.622
+2.537.314.912
+3.703.265.414
+15.129.600
+261.837.000
+3.980.232.014
+58,49
+13370202
+R.B. SGP-Salud-Salud pública 12/12
+1.653.528.369
+218.754.369
+1.379.578.000
+0
+0
+1.379.578.000
+83,43
+13380101
+R.B. SGP-Propósito General-Deporte y recreación 11/12
+7.839.360.465
+3.861.855.423
+3.282.792.000
+0
+47.698.297
+3.330.490.297
+42,48
+11 de 16

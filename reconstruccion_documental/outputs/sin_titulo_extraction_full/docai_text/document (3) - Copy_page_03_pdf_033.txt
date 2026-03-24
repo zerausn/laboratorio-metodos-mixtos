@@ -1,0 +1,355 @@
+SANTIAGO DE CALI
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+1
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO, MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2025 ~
+ADMINISTRACION CENTRAL
+:
+CENTRO
+FONDO
+GESTOR
+NOMBRE FONDO
+POSICIÓN
+AEROPRESUPUESTAL
+CONCERTO
+PRESUPUESTO
+PRESUPUESTO
+AMA INICIALAGAN MODIFICADO
+RECAUDO TOTAL ALEJE
+OTAL
+4131
+F:1:3.3.9.03.02
+R.B. R.F.SGP-Asignación-Atención integrai de la
+1.2.10.02
+Superávit fiscal
+primera infaricia Educación
+4131
+F.A:1.3:3.4.04.
+R.BR.F. Tasa retribuſiva
+1.2.10.02
+Superávil fiscal
+1.56 562:913.543
+1.2.10.02
+Recursos de Balance Reservas Excepcionales
+101.920.433.870
+1.56
+562.913543100,0
+101:920.433.870 10 1000
+4131 F133100001
+R.B. R.F. SGP- Agua potable y saneamiento básico
+1.2.10.02
+Supeřávil fiscal
+6.075.489.483
+6.075.489.483
+100,0
+4131
+R121000
+Ingresos Comentes de Libre Destinación
+1.2.10.02
+Superávit fiscal
+34.850.456,682
+34,850.456.682
+100,0
+4131
+R12200001
+Servicios de expedición de permisos, conceptos
+ambientales
+1.2.10.02
+Superávit fiscal
+74.324.408
+74.324.408
+100,0
+4131
+R12200008
+Aportes urbanísticos por mayor edificabilidad
+1.2.10.02
+Superávit fiscal
+93.968.298
+93.968.298
+100,0
+4131
+R12200017
+Sobrelasa Gasoi malla vial
+1.2.10.02
+Superavit fiscal
+356.768.222
+356.768.222
+100,0
+4131
+R12311802
+Tasa Prodeporte 90% Manifestaciones deportivas y
+1.2.10.02
+Superávit fiscal
+500.000
+500.000
+100,0
+recreativas
+4131
+R12311901
+Estampilia procultura
+1.2.10.02
+Superávit fiscal
+1.435.723.554
+1.435.723.554
+100,0
+4131
+R12311944
+Estampilla Prodes errollo Urbano (10% Equidad de
+1.2.10.02
+Superávit fiscal
+4.738.496
+4.738.496
+100,0
+Genero)
+4131
+R12311946
+Estampilla Pro desarrolio 10% Victimas de Conflicto
+1.2.10.02
+Superávit fiscai
+835.100.700
+835.100.700
+100,0
+Armado
+4131
+R123206
+Contribución Contratos De Obra Pública
+1.2.10.02
+Superávit fiscal
+5.267.248.677
+5.267.248.677
+100,0
+4131
+R12322404
+CNSCC 30% Ley 2197/22
+1.2.10.02
+Superávit fiscal
+32.723.788
+32.723.788
+100,0
+4131
+R12322501
+Muilas infracciones de tránsitoLey769-02
+1.2.10.02
+Superávit fiscal
+933.453.792
+933.453.792
+100,0
+4131
+R12410101
+SGP-Educación-Prestación de servicios CSF
+1.2.10.02
+Superávit fiscal
+2.964.128.160
+2.964.128.160
+100,0
+4131
+R124103
+Sgp-Educación-Calidad Matrícula Oficial
+1.2.10.02
+Superávit fiscal
+462.979.491
+462.979.491
+100,0
+4131
+R12430301
+SGP-Propósito General-Propósito general Libre
+inversión 11/12
+1.2.10.02
+Superávit fiscal
+1.979.625.090
+1.979.625.090
+100,0
+4131
+R12430302
+SGP-Propósito General-Propósito general Libre
+inversión 12/12
+1.2.10.02
+Superávit fiscal
+1.347.724.369
+1.347.724.369
+100,0
+4131
+R12440102
+SGP-Asignación Especial-Programas de alimentación
+1.2.10.02
+Superávit fiscal
+7.122.769
+7,122,769
+100,0
+escolar 12/12
+4131
+R12460001
+SGP-Agua potable y saneamiento básico 11/12
+1.2.10.02
+Superávit fiscal
+2.689.934.868
+2.689.934.866
+100,0
+4131
+R12460002
+SGP-Agua potable y saneamiento básico 12/12
+1.2.10.02
+Superávit fiscal
+286.527.554
+286.527.554
+100,0
+4131
+R13110201
+Excedentes Financieros EMCALI
+1.2.10.02
+Superávit fiscal
+1.000.000.000
+1.000.000.000
+100,0
+4131
+R13210903
+R.F. Contribución Contratos Obra Pública
+1.2.10.02
+Superávit fiscal
+978.403.284
+978.403.284.
+100,0
+4131
+R13220801
+R.F. S.G.P. Proposito General-Otros Sectores
+1.2.10.02
+Superávit fiscal
+1.425.000
+1.425.000
+100,0
+4131
+R13230101
+R.F. ICLD
+1.2.10.02
+Superávit fiscal
+5.076.849.211
+5.076.849.211
+100,0
+4131
+R132301119
+R.F. Sobretasa Gasolina S.I.T.M. MIO
+1.2.10.02
+Superávit fiscal
+1.197.000.000
+1.197.000.000
+100,0
+4131
+R13230128
+R.F. Estampilia Procultura
+1.2.10.02
+Superávit fiscal
+25.000.000
+25.000.000
+100,0
+4131
+R13230162
+R.F. CNSCC 30% Ley 2197/22
+1.2.10.02
+Superávit fiscal
+9.558.049
+9.558.049
+100,0
+4131
+R13230165
+R.F. CNSCC 25% Ley 2197/22
+1.2.10.02
+Superávit fiscal
+16.298.372
+16.298.372
+100,0
+4131
+R133100
+R.B. Ingrasos Commentes de Libre Destinación
+1.2.10.02
+Superávit fiscal
+21.055.764.145
+21.055.764.145
+100,0
+4131
+R133100001
+R.B. SGPAguaPotable Y SaneamienBásico11/12
+1.2.10.02
+Superávit fiscai
+360.000.000
+380.000.000
+100,0
+4131
+R1331111
+R.B. Reintegros y otros recursos no apropiados Libre 1.2.10.02
+Superávit fiscal
+206.796.457
+206.796.457
+100,0
+destinación
+4131
+R13320008
+R.B. Aportes urbenisticos por meyor edificabilidad
+1.2.10.02
+Superávit fiscal
+735.796.419
+735.796.419
+100,0
+4131
+R13332047
+R.B.R.F. Estampille Prodesarrollo Urbano (5%
+1.2.10.02
+Supèrávit fiscal
+937.529.300
+937.529.300
+100,0
+Alimentacion escolar)
+4131
+R133401
+R.B. R.F. Contribución sobre Contratos de Obra Pública 1.2.10.02
+Superávit fiscal
+2.257.271,881
+2.257.271.881
+100,0
+4131
+R13341901
+R.B. Infracciones de transito ley 769-02
+1.2.10.02
+Superávil fiscal
+6.556.998.306
+6.556.998.306
+100,0
+4131
+R13380102
+R.B. SGP-Propósito General-Deporte y recreación 12/12 1.2.10.02
+Superávit fiscal
+48.967.273
+48.967.273
+100,0
+4131
+RF13320017
+R.B.R.F. Sobretasa Gasol. Melia Vial
+1.2.10.02
+Superávil fiscal
+365.056.750
+365.056.750
+100,0
+4131... RF13332047
+R.B. Estampilla Prodesarrollo. Urbano. (5% Alimentacion 1.2.10.02.
+Superávit fiscal...
+1.252.164.095
+1.252.164.095
+100,0
+escolar)
+4131
+RF133401
+R.B. Contribución sobre contratos de obra pública
+1.2.10.02
+Superávit fiscai
+3.746.049
+3.746.049
+100,0
+4131
+RF133503
+R.B.R.F. Aportes Nación - Alimentación Escolar MEN
+1.2.10.02
+Superávit fiscal
+76.115.473
+76.115.473
+100,0
+Página 31 de 32

@@ -1,0 +1,201 @@
+SANTIAGO DE GALI
+DEPARTAMENTO ADMINISTRATIVO DE
+HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2026
+ADMINISTRACION CENTRA
+CENTRE
+GESTOR
+FONDO
+NOMBRETONDO
+POSICIÓN
+MATPRESUPUESTAL
+PRESUPUESTO
+MINICAL
+1.1.02.06.006
+11.02.06:008/01
+Transforancias da otras entidades del goblerno
+Aportas Nación (quando variga diroctamente de un
+ministerio, osaa del presupusto de la Nacion)
+PRESUPUESTO
+MODIFICADO
+187.267.587
+450,000,000
+000
+ECAUDO TOTAL EJECE
+3.097.2
+7.267.587
+360,000.000
+1.1.02.06.006.01.01
+Ministerio de Salud dy y Protección Protección Social Social
+4131
+1.2.3.3.04.15
+Apoyo Proceso de Certificación. Discapacidad Nacional
+1.1.02.06.006:01:01
+Ministeño de Salud y Protección Social
+4131
+1.2.3.3.04.16
+Fortalecimiento de la atención en salud da la poblacion 1.1.02.06.006.01.01
+Ministerio de Salud y Protección Social
+migrante no asegurada nacional
+4131
+1.2.3.3.04.21
+Campaña de Prevención de la Violencia y de Promoción 1.1.02.06.006.01.01
+de la Convivencia Pacífica a nivel nacionai y territorial
+Minisienio de Salud y Projección Sociai
+4131
+1.2.3.3.04.01
+Fondo da Mitigación de Emergencias "FOME"
+1.1.02.06.006.01.02
+Ministerio de Educacion Nacionai
+1,1,02.06.006.01.03
+Ministerio de Cuitura
+4131
+1.2.3.3.04.13
+Festival de Música dei Pacífico Petronio Álvarez
+1.1.02.06.006.01.03.01
+Festivai de Música del Pacífico Petronio Álvarez
+1.1.02.06.006,06
+Otras unidades de gobierno
+2.737.267.587
+360
+60,000,000
+360.000.000
+2.737.267.587
+1.1.02.06.006.06.01
+Otras unidades do gobierno Nacional
+1.1.02.06.006.06.01.01
+Ministerio de Educacion Nacional
+4131
+1.2.3.3.03
+Aportes Nación - Alimentación Escolar - MEN
+1.1.02.06.006.06.01.01.01
+Unidad Administrativa Especial de Alimentación Escolar
+1.1.02.06.006.06.01.02
+Ministerio de Salud y Protección Social
+4131
+1.2.3.3.04.14
+Convenio No.134/22 (Fondo Nacional Estupefacientes) 1.1.02.06.006.06.01.02.02
+Fondo Nacional Estupefacientes
+1.1.02.06.006.06.01.04
+Departamanto Administrativo para la Prospreridad
+Social
+4131
+1.2.3.3.04.03
+Convenio ICBF 7600608/21
+4131
+1.2.3.3.04.17
+Convenios ICBF
+1.1.02.08.006.06.01.04.01
+1.1.02.06.006.06.01.04.01
+instituto Colombiano de Bienastar Familiar
+instituto Colombiano de Bienestar Familiar
+1.1.02.06.006.06.02
+Otras unidades de gobierno Departamentai
+4131
+1.2.3.3.04.05
+Participación impuesto ai Cigamilio
+1.1.02.06.006.06.02.01
+Transferencia 30% impuesto ai cigamilio
+2.737.267.587
+2.737.267,587
+2.737.267.587
+2.737.267.587
+1.1.02.06.008
+Diferente de Subvenciones
+1.1.02.06.008.01
+Actividades de atencion a ia saiud humana y de
+asistencia social
+4145
+1.2.3.3.07.04
+Particip. Dptai. Subsd. S.S.F
+1.1.02.06.008.01.14.01
+Recursos Departamentalas y Distrilales para
+Aseguramiento
+1.1.02.06.009
+Recursos del Sisteme de Seguridad Sociai integral
+1.060,747,329.926
+1.060.790.826.650
+782.027.377.87973,7
+1.1.02.06.009.01
+Sistema General de Seguridad Social en Salud
+1.058.747.329.926
+1.058.790,826,650
+780.829.700.013
+73,7
+4145
+1.2.3.3.07.03
+ADRES SSF (Régimen Subsidiado)
+1.1.02.06.009.01.06
+Recursos ADRES - Cofinanciación UPC régimen
+1.058.747.329.926
+1.058.790.826.650
+780.829.700.013
+73,7
+subsidiado
+4145
+1.2.3.3.07.05
+ADRES Población Migrante SSF
+1.1.02.06.009.01.06
+Recursos ADRES - Cofinanciación UPC régimen
+subsidiado
+1.1.02.06,009,02
+Sistema General, de Pensiones
+2.000.000,000
+2.000.000.000
+1.197.677.866
+59,9
+4131
+1:2.3.3:08.01
+Cuotas partes pansionales
+1.1.02.06.009.02.02
+Cuotas partes pensionales
+2.000.000.000
+2.000.000.000
+....
+1:197.677.866
+59,9
+4131
+1.2.3.3.18.01
+Indemnizacionas relacionadas con seguros no de vida 1.1.02.06.011
+indemnizaciones relacionadas con seguros ne da vida
+Libre Destinación
+1.1.02.07
+Participación y derochos por.monopolio
+42.777.669.89542777669.89634.430.814.765
+80,5
+1.1.02.07.001
+Derechos por la Explotación Jungos de Suerte y
+42.777,669,896
+42.777.669.896
+34.430.814.765
+80,5
+Azar
+1.1.02.07.001.07
+Dèrochios par la explotación juegos de suerta y ázar.
+42.777.669.896
+42.777.669.896
+34,430.814.765
+80,5
+كليتهم
+de juegos.localizados.
+4145
+1.2.3.2.28.01
+Coijueges 25%
+1.1.02.07.001.07.01
+Transfarencia Coljuegos
+10.694.417.474
+10.694.417.474
+8.529.244.755
+79,8
+4145
+1:2.3.2.28.02
+Coljuegos S.S.F. 75%
+1.1.02.07:001.07.01
+Transfarencia Coijuagos
+32.083.252.422
+32.083.252.422
+25.901.570.010
+80,7
+Página 19 de 32

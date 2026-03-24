@@ -1,0 +1,145 @@
+Fondo
+Nombre
+PPTO
+MODIFICADO
+SALDO CDP
+SALDO RPC
+SALDO
+OBLIGACIONES
+PAGOS
+EJECUCION
+%DE
+EJECUCION
+2-13110200102
+Capitalización de otros patrimonios
+autónomos pensionales
+1.740.402
+0
+0
+1.740.402
+1.740.402
+100,00
+F13340306
+R.B. R.F. Cuotas de Auditaje
+198.424.532
+0
+0
+0
+0
+0
+0,00
+2-13050905401
+Contraloria de Santiago de Cali
+198.424.532
+0
+0
+0
+0
+이
+0,00
+R.B. R.F. CNSCC Transferencia
+F13341705
+Policía Medidas Correctivas 15%
+Ley 2197/22
+96.412.740
+0
+0
+0
+0
+0,00
+2-130501061
+Admin FunciElnfraestruc RegistoNalM
+96.412.740
+0
+이
+이
+edidas Correctivas
+0
+이
+0,00
+F13341706
+R.B. R.F. CNSCC Transferencia
+Policía Vigilancia 15% Ley 2197/22
+56.645.466
+0
+0
+0
+0
+0,00
+2-130501067
+Servicio de policía en modalidad de
+vigilancia
+56.645.466
+0
+0
+0
+0
+이
+0,00
+F13341708
+R.B. R.F. CNSCC Transferencia
+Ministerio 15% Ley 2197/22
+70.249.700
+0
+0
+0
+0
+0,00
+Admin FuncElnfraSistÚnilnforDRecRe
+2-130501068
+70.249.700
+0
+0
+gy TransMultCNSYCC
+0
+0,00
+F13350801
+R.B.R.F. Cuotas partes pensionales
+143.728.196
+0
+0
+0
+143.728.196
+143.728.196
+100,00
+2-13110200102
+Capitalización de otros patrimonios
+autónomos pensionales
+143.728.196
+0
+0
+0
+143.728.196
+143.728.196
+100,00
+R121000
+Ingresos corrientes de Libre
+3.518.142.576
+1
+1.154.201.708
+Destinación
+0
+2.363.940.867
+3.518.142.575
+100,00
+2-120201003
+Otros bienes transportables
+(excepto productos metálicos,
+284.848.264
+0
+253.868.637
+30.979.627
+284.848.264
+100,00
+maquinaria y equipo)
+2-120202007
+Servicios financieros y servicios
+conexos, servicios inmobiliarios y
+servicios de leasing
+1.933.878.414
+0
+69.211.506
+0 1.864.666.908
+1.933.878.414
+100,00
+12 de 13

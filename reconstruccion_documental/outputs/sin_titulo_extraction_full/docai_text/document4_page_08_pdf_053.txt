@@ -1,0 +1,238 @@
+Fondo
+Nombre
+PPTO.
+MODIFICADO
+SALDO CDP
+SALDO RPC
+SALDO
+OBLIGACIONES
+PAGOS
+EJECUCION
+% DE EJECUCION
+13110707
+CUR 881/19 SSF - Recursos Emcali Conpes 3858/16
+26.982.777.271
+0
+0
+0
+0
+0
+13110710
+CUR 040/17 Emcali S5F
+37.228.676.242
+0
+0
+0
+0
+13110901
+Recuperación de cartera Capital-préstamos-Fondo Solidario
+4.624.810.015
+0
+0
+y de Oportunidades
+0
+584.739.323
+584.739.323
+0,00
+0
+0,00
+12,64
+Recuperación de
+cartera
+13110902
+Intereses-préstamos-Fondo
+Solidario y de Oportunidades
+2.195.310.171
+0
+0
+0
+115.637.922
+115.637.922
+5,27
+13110903
+Recuperación de Cartera Programas de Vivienda Libre
+545.903.480
+0
+37.075.000
+destinanción
+44.832.000
+212.245.500
+294.152.500
+53,88
+131111
+Reintegros y otros recursos no apropiados Libre Destinación
+2.658.964.734
+1.010.327.114
+1.648.637.620
+0
+0
+1.648.637.620
+62,00
+13111101
+Reintegro Aportes Salud, ARL, SGP Educación
+1.549.281.000
+0
+0
+0
+0
+0
+0,00
+13111122
+Reintegros recursos Fondo GRED
+800.000.000
+3.736.506
+370.889.494
+92.359.000
+234.891.000
+698.139.494
+87,27
+132107
+R.F. Contribución Sector Eléctrico
+10.144.574
+0
+0
+0
+0
+0
+0,00
+13210901
+R.F. contribución y recargos valorización
+1.072.391
+0
+0
+0
+0
+0
+0,00
+13210902
+R.F. Contribución valorización nuevo pian de obras
+577.203.540
+0
+0
+0
+0
+0
+0,00
+13210903
+R.F. Contribución sobre Contratos de Obra Pública
+1.883.113.762
+443.513.762
+0
+0
+1.439.600.000
+1.439.600.000
+76,45
+13210904
+R.F. Participación en la Plusvalía
+32.346.315.
+0
+0
+0
+32.346.315
+32.346.315
+100,00
+13210905
+R.F. Concurso Económico - Estratificación
+13.871.875
+0
+6.007.000
+2.947.000
+4.917.875
+13.871.875
+100,00
+132110
+R.F. De Tasas Retributivas
+111.786.557
+111.786.557
+0
+0
+0
+0
+0,00
+13212101
+R.F. Otros derechos de Tránsito
+172.193.392
+0
+0
+0
+172.193.392
+172.193.392
+100,00
+13212103
+R.F. Derechos de Tránsito en Áreas Restringidas o de Alta
+Congestión
+317.392.131
+12.108.615
+0
+0
+115.611.145
+115.611.145
+36,43
+13212104
+R.F. Recursos Convenio Municipio CDAV
+190.900.818
+13212201
+R.F. Tasa Prodeporte 10% Alimentación y transporte
+167.994.716
+0
+0
+87.617.000
+01
+0
+0
+0
+0
+87.617.000
+45,90
+0
+0,00
+13212202
+R.F. Tasa Prodeporte 90% Manifestaciones deportivas y
+1.511.952.448
+1.335.474.497
+176.477.951
+recreativas
+0
+0
+176.477.951
+11,67
+13212203
+R.F. Expedición de Licencias de funcionamiento de
+establecimientos educativos para ei trabajo y el desarrollo
+48.165.826
+17.642.525
+2.000.424
+0
+1.130.471
+3.130.895
+6,50
+humano
+13212204
+R.F Incentivo al Aprovechamiento y Tratamiento de Residuos
+Sólidos
+586.914.518
+13212206
+R.F. ICLD LEY 99 - Destino Ambiental
+726.624.175
+94.268.062
+132203
+R.F. SGP-Educación-Calidad por matrícula oficial
+3.770.156.984
+0
+586.914.518
+0
+0
+586.914.518
+100,00
+233.866.543
+0
+0
+233.866.543
+32,19
+0
+2.639.109.889
+0
+0
+2.639.109.889
+70,00
+5 de 16

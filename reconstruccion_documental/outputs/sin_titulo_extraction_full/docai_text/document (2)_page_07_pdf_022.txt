@@ -1,0 +1,263 @@
+SANTIAGO DE CALI
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PUBLICAS
+SUBPROCESO DE SEGUIMIENTO, MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2025
+ADMINISTRACION CENTRAL
+CENTRO FONDO
+GESTOROND
+NOMBRE FONDO
+413113.1.1.01.01.
+Disposición de activos
+4131 13:11:01:02
+4131
+1.3.1.1.02.01
+Excedentes Financieros EMCALI-
+4131
+1.3.1.1.02.02
+Excedentes Financieros EMCALI S.S.F.
+POSICIÓN
+PRESUPUESTAL
+12
+1.2.01
+1.2.01.02.001.01
+01,02.001:01
+Disposición de eclivos-Fohpe1:2,01:02.001:01
+CONCEPTO
+Recursos de capital,
+Disposición de activos
+Disposición, de edificaciones y estructuras
+Disposición de edificaciones y estructuras
+Excedentes financloros
+PRESUPUESTO
+INICIAL
+PRESUPUESTO
+267:414.184.4041-380-050:284,2671837-178:123.871560,7
+593,624,924
+504.581-185
+89:043:739
+12:02
+1,2.02.02.
+Empresas industriales y comerciales del Estado no
+societariás
+1.2.02.02
+Empresas industriales y comerciales del Estado no
+societarias
+1
+1:2.03.
+Dividendos y utilidados por otras Inverstones.de
+capital
+4131
+1.3.1.1.03
+Dividendos y ulilidedes por otras inversiones da capitai
+1.2.03.03,
+Sociededes de economía mixta
+1.848.076:142
+1:848,076.142
+4131
+1.3.1.1.03
+Dividendos y utilidedes por otras inversiones de capital
+1.2.03.06
+Inversiones en entidades controladas - sociedades
+públicas
+1.2.05
+Rendimientos
+financieros98,642.847.64998.590.205.05097.616.335.727.99,0
+1.2.05.02
+Depósitos...
+96.347.537.478
+196.394.894.879
+4131
+1.3.2.3.01.01
+R.F. ICLD
+4131
+1.3.2.3.01.89
+R.F. Fonde Temiloriai de Pansiones
+1.2.05.02.001
+Depósitos por Recursos de Ingresos Corrientes Libre
+destinación
+37.874.266.039
+37.874.266.039
+297.254.899,519
+28.392.933.792
+100,9
+75,0
+1.2.05.02.001
+Depósitos por Recursos de ingresos Corrientes Libre
+destinación
+115.185.473
+1.2.05.02.002
+Depósitos por Recursos de S.G.P.
+9.790.799.165
+9.838.156.566
+9,230,532,696
+93,8
+1,2.05.02.002.01
+R.F Depósitos Fondo SGP Educación
+3.770.156.984
+3.770.156.984
+2.713.652.377
+72,0
+4131
+1.3.2.2.03
+R.F. SGP-Educación-Calidad por matrícula eficiai
+1.2.05.02.002.01.01
+R.F Depósitos S.G.P. Sector educativo Calidad
+3.770.156.984
+3.770.156,984
+2.713.652.377
+72,0
+1.2.05,02,002.02
+R.F Depósitos Fondo SGP Salud
+818.489.864
+818.489.864
+996.829,659
+121,8
+4145
+1.3.2.2.06
+R.F. SGP-Salud-Salud pública
+1.2.05.02.002.02.01
+1.2.05.02.002.03
+R.F Depósitos S.G.P. Salud Pública PAB
+R.F. Depósitos recursos de Proposito Gonerai
+Forzosa Inversión
+818.489.864
+818.489.864
+996.829.659
+121,8
+2.281.839.338
+2.329.196.739
+2.963,612.894
+127,2
+4131
+1.3.2.2.08.02
+R.F. S.G.P. Propósito General-Deporte
+1.2.05.02.002.03.01
+R.F. Depósitos Propósito General- Deportes
+426,163.497
+473.520.898
+824.178.140
+174,1
+4131
+1.3.2.2.08.03
+R..F. S.G.P. Propósito General-Cultura
+1.2.05.02.002.03.02
+R.F Depósitos Propósite Genaral- Cultura
+182.122.622
+182.122.622
+325.391.959
+178,7
+4131
+1.3.2.2.08.01
+R.F. S.G.P. Propósito General-Otros Sectoras
+1.2.05.02.002.03.03
+R.F Depósitos Propósite General-Libre inversion
+1.673.553.219
+1.673.553.219
+1.814.042.795
+108,4
+1.2.05.02,002,04
+R.F Depósitos recursos Alimenación Escolar
+73,926,934
+73,926.934
+145.082.726
+196,3
+4131
+1.3.2.2.09
+R.F. SGP-Asignación Especial-Programas de
+alimentación escolar
+1.2.05.02.002.04.01
+R.F Depósitos recursos Alimenación Escolar
+73.926.934
+73,926,934
+106.227.334
+146,4
+4131
+1.3.2.3.01.79
+R.F. ICLD Cuentes maestras sector educación - AE
+1.2.05.02.002.04.01
+R.F Depósitos recursos Alimenación Escolar
+36.855.392
+1.2.05.02.002.05
+R.F Depósites Agua Potable y Saneamiento Basico
+2.846.386,045
+2.846.386.045
+2.409,272.253
+84,6
+4131
+1.3.2.2.13
+R.F. SGP-Agua potable y saneamiento básico
+1.2.05.02.002.05.01
+R.F Depósitos Agua Polable y Saneamiento Basico
+2.846.386,045
+2.846.386.045
+2.409.272.253
+84,6
+1.2.05.02.002.06
+R.F Depósitos racursos Atonción Integral Primera
+Infancia
+2.082.787
+4131
+1.3.2.2.11.02
+R.F. SGP-Asignación-Atención integral de ia primera
+infancie Educación
+1.2.05.02.002.06.01
+R.F Depósitos recursos Atención Integrai Primera
+Infancie
+2.082.787
+1:2:05.02.003
+Depósitos por Recursos de Destinación Especifica
+48.682.472.274-
+48.682.472:274
+59.516.247.558
+122,3
+Diferentes a S.G.P
+4131
+1.3.2.1.09.03
+R.F. Contribución sobre Contratos de Obra Pública
+1.2.05.02.003
+Depósitos por Recursos de Destinación Especifica
+1.883.113.762
+1.883.113.762
+1.429.347.000
+75,9
+Diferentes a S.G.P
+4131
+1.3.2.1.09.04
+R.F. Participación en la Plusvella
+1.2.05.02.003
+Depósitos por Recurses de Destinación Especifica
+32.346.315
+32.346.315
+127.629.232
+394,6
+Diferentes a S.G.P
+4131
+1.3.2.1.09.05
+R.F. Concurse Económico - Estratificación
+1.2.05.02.003
+Depósitos per Recursos de Destinación Espacífica
+13.871.875
+13.871.875
+33.854.122
+244,0
+Diferantes e S.G.P
+4131
+1:3:2:1:09.06 R.F: Cuotas de Auditaje
+1:2:05:02.003
+-Depósitos por Recurses de Destinación Especifica
+216,035:205
+216:035.205
+151:957:411
+Difarentes a S.G.P
+4131
+1.3.2.1.22.01
+R.F. Tasa Prodeporte 10% Alimenteción y transporte
+1.2.05.02.003
+Depósitos por Recursos de Destinación Especifica
+167,994.716
+167.994.716
+188.623.666
+112,3
+Diferentes a S.G.P
+Página 20 de 32

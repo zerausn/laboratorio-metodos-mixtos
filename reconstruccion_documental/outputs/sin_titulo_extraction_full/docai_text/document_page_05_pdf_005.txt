@@ -1,0 +1,256 @@
+SANTIAGO DECALI
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO, MANEJO Y CONTROL PRESUPUESTALST
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2025
+ADMINISTRACION CENTRAL
+CENTRO
+FONDO
+GESTOR
+NOMBRE FONDO
+POSICION
+PRESUPUESTAL
+CONCERTO
+INICIALA MODIFICADO
+PRESUPUESTO PRESUPUESTO RECAUDO YOTAL MEE
+4131 1:2.1:0.00
+Ingreses comentes de Libre Deslineción
+1.1,01.02.200.03.06
+Regimen Simple de Tributación-Actividades de
+990,000
+990.000
+4:033.784.890 407,453,0
+Servicios Vigencia Anterior
+1.2.3.4.02 4131 ثبت
+ICLD LEY: 99 Deslien Amblental
+11:01.02.200.03.06
+Regimen Simple de Tributación Actividades de
+10.000
+10.00040-745.302 407.453,0
+Servicles Vigencie Anterior
+1.1.01.02:201
+impuesto Complementario de Avisos y Tableros
+78.967.515.4037 78.967.515.403
+68.421.664.78586,6
+4131
+1.2.1.0.00
+ingresos comentes de Libre Destinación
+1.1.01.02.201.01
+Impuesto Complementario de Avisos y Tableros
+76.292.370,000
+76.292.370,000
+66.224.248.139
+86,8
+Vigencia Actual
+4131
+1.2.3.4.02
+ICLD LEY, 99- Destino Ambientel
+1.1.01.02.201.01.
+Impuesto Complemantario de Avisos y Tableros
+770.830,000
+770.630.000
+668.931.798
+86,8
+Vigencia, Actual...
+4131
+1.2.1.0.00
+ingresos comentes de Libre Destinación.
+1.1.01.02.201.02
+Impuesto complementario de Avisos y Tableros
+1.885.470.249
+1.885.470.249
+1.513.200.000
+80,3
+Vigencia Anterior
+4131
+1.2.3.4,02
+ICLD LEY 99-Destina Ambientai
+1.1.01.02.201.02
+Impuesto complementario de Avisos y Tableros --
+19.045.154
+19.045.154
+15.284.848
+80,3
+Vigencia- Anterior.
+1.101.02.202
+Impuesto a la Publicidad Exterior Visual
+1.200.114.634
+1.200.114.634
+614.505.599
+51,2
+1.1.01.02.202.01
+Impuesto a la Publicidad Exterior Visual
+1.199.114.634
+1.199.114.634
+614.505.599
+51,2
+4131
+1.2.1.0.00
+ingresos comentes de Libre Destinación
+1.1.01.02.202.01.01
+impuesto a la Publicidad Exterior Visual - Vigencia..
+1.187.123.488
+1.187.123.488
+608.360.546
+51,2
+Actual
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambientai
+1.1.01.02.202.01.01
+impuesto a ia Publicidad Exterier Visual - Vigencia
+11.991.146
+11.991.146
+6.145.053
+51,2
+Actual
+4131
+1.2.1.0.00
+Ingresos comentes de Libre Destinación
+1.1.01.02.202.02
+Permisos Previsiónales y Refrendación
+990.000
+990.000
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambiental
+1.1.01.02.202.02
+Permisos Provisiónales y Refrendación
+10.000
+10.000
+1.1.01.02.203
+Impuesto de Circulación y Tránsito Sobre Vehículos
+4.939,373,221
+4.939.373.221
+3,409.356.673
+69,0
+:
+de Servicio Público
+1.1.01.02.203.01
+Impuesto de Circulación y Tránsito Sobre Vehiculos
+3.735.886.530
+3.735.886.530
+2.689,932,273
+72,0
+de Servicio Público - Tradicionai
+4152
+1.2.3.1.03.02
+impuesto de Circulación y Tránsito Sobre Vehicules de 1.1.01.02.203.01.01
+Servicio Público - Tradicional
+impuesto de Circulación y Tránsito Sobre Vehiculos de
+2.756.352.000
+2.756.352.000
+1.600.261.954
+58,1
+Servicio Público - Tradicienai - Vigencia Actual
+4152
+1.2.3.1.03.02
+impuesto de Circuiación y Tránsito Sobre Vehículos de 1.1.01.02.203.01.02
+Servicio Público - Tradicional
+impuesto de Circulación y Tránsito Sobre Vehículos de
+979.534.530
+979.534.530
+1.089.670,319 111,2
+Servicio Público Tradicionai Vigencia Anterior
+1.1.01.02.203.02
+Impuesto de Circulación y Tránsito Sobre Vehículos
+1.203.486.691
+1.203.486.691
+719.424,400
+59,8
+de Servicio Público - S.1.T.ΜΙΟ
+4152
+1.2.3.1.03.01
+impuesto de Circuiación y Tránsito Sobre Vehículos de 1.1.01.02.203.02.01
+Servicio Público - S.i.T.MIΟ
+impuesto de Circulación y Tránsito Sobre Vehículos de
+1.198.462.801
+1.198.462.801
+716.253.889
+59,8
+Servicio Público - S.i.T.MIO- Vigencia Actual
+4152
+1.2.3.1.03.01
+Impuesto de Circulación y Trânsito Sobre Vahiculos de 1.1.01.02.203.02.02
+Servicio Público - S.I.T.MIO
+Impuesto de Circulación y Tránsito Sobre Vehículos de
+5.023.890
+5.023.890
+3.170.511
+63,1
+Servicio Público - S.I.T.MIO Vigencia Anterior
+1.1.01.02.204
+-
+impuosto de Delineación
+4131
+1.2.1.0.00
+Ingresos corrientes de Libre Destineción
+1.1.01.02.204.01
+impuesto de Delineación - Vigencia Actual
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambiental
+1.1.01.02.204.01
+impuesto de Delineación - Vigencie Actuel
+16,520,117.945
+16.520.117.945
+9.435,020,491
+57,1
+16.354.916.766
+16.354.916.766
+9.340.670,286
+57.1
+165.201.179
+165.201.179
+94.350.205
+57.1
+1.1.01.02.210
+Impuesto sobre teléfono
+4131
+1.2.2.0.00.19
+Impuesto a ia Telefonle Urbana
+1.1.01.02.210.02
+Impuesto sobre teléfono Vigencia Anterior
+1.1.01.02.211
+Impuesto de Alumbrado Público
+262.021.170.715
+262.021:170.715
+188.170,855,928
+71,8
+1.1.01.02.211.01
+impuesto de Alumbrado Público - Predio Lotes
+3.813,678,768
+3,813,678.768
+3,306,995,613
+86,7
+4131
+1.2.3.1.05.01
+Impuesto de Alumbrado Público Predio Lotes-
+1.1.01.02.211.01.01
+Impuesto de Alumbrado Público - Predio Loles -
+3.004.824.841
+3.004.824.841
+-2.736.112.780
+91,1
+Vigencia Actuel
+4131
+1.2.3.1.05.01
+impuesto de Alumbrado Público - Predio Lotes
+1.1.01.02.211.01.02
+impuesto de Alumbrado Público - Predio Lotes-
+427.486.050
+427.486.050
+240.183.271
+56,2
+Vigencia Anterior
+4131.
+1.2.3.1.05.03
+Alumb Acdo 357. (10% navideño)
+1.1.01.02.211.01.03
+Impuesto de Alumbrado Público. Predio. Loles- 10%
+381.367.877
+381.367.877
+330.699.562
+86,7
+(Art. 220 AC 357/13)
+Página 3 de 32

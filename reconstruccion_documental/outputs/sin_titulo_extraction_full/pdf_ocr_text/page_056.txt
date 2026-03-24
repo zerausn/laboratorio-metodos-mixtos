@@ -1,0 +1,214 @@
+Fondo
+Nombre
+PPTO
+SALDO CDP
+MDDIFICADO
+SALDD RPC
+SALDO
+OBLIGACIONES
+PAGOS
+EJECUCION % DE EJECUCION
+13230169
+R.F. Participación Impuesto al Cigarrilio
+4.772.649
+4.772.649
+0
+0
+0
+0
+0,00
+13230181
+R.F. Aportes Nación-Alimentación Escolar-MEN
+243.926.934
+0
+215.072.437
+0
+0
+215.072.437
+88,17
+13230184
+R.F. Multa Violencia Intrafamiliar
+1.042.858
+0
+0
+0
+0
+0
+0,00
+13230186
+R.F. Reintegros compra predios y otros
+86.772.235
+86.772.235
+0
+0
+0
+0
+0,00
+13230187
+R.F. Contribución fondo especiai de intervenidas
+93.899.229
+0
+0
+0
+0
+0
+0,00
+13230196
+R.F. Fondo Solidario y de Oportunidades
+749.068.952
+0
+0
+0
+0
+0,00
+13231101
+R.F. Coljuegos 25%
+339.658.448
+40.512.000
+194.958.000
+14.883.000
+75.285.000
+285.126.000
+83,94
+133100
+R.B. Ingresos Corrientes de Libre Destinación
+137.655.668.696
+24.706.013.520 42.468.756.082
+1.661.469.376
+56.152.265.104
+100.282.490.562
+72,85
+133100001
+R.B. SGP-Agua potable y saneamiento básico 11/12
+11.000.000.000
+3.430.000.000
+0
+0
+7.570.000.000
+7.570.000.000
+68,82
+133110601
+R.B PSA - Pago Servicios Ambientaies
+46.382.285
+34.107.388
+0
+0
+0
+0
+0,00
+133110806 R.B. Fund for cities of services
+7.119.389
+0
+7.119.389
+0
+0
+7.119.389
+100,00
+133110808
+R.B.Resolución 2388/2022 Premio Nacional De Bibliotecas
+Públicas "Daniel Samper Ortega" 2022
+15.000.000
+0
+0
+0
+0
+0
+0,00
+133110901
+R.B. Recuperación de cartera capital préstamos Fondo
+Solidario y de Oportunidades
+6.062.062.246
+01
+0
+0
+6.062.062.246
+133110902
+R.B. Recuperación de cartera Intereses préstamos - Fondo
+Solidario y de Oportunidades
+1.837.560.509
+0
+100,00
+0
+0
+1.837.560.509
+1.837.560.509)
+100,00
+6.062.062.246
+1331111
+R.B. Reintegros y otros recursos no apropiados Libre
+destinación
+2.489.236.936
+3.478.614
+188.899.270
+133111101 R.8. Reintegro aportes Salud, ARL SGP Educacion
+114.141.611
+0
+133111103 R.B. Reintegros S.G.P. Sector Educación-Prestación Servicios
+3.170.667
+0
+0
+0
+2.295.859.575
+2.484.758.845
+99,82
+0
+0
+114.141.611
+114.141.611
+100,00
+0
+3.170.667
+3.170.667
+100,00
+133111110 R.B. Reintegros aportes salud, ARL- Infracciones de tránsito
+584.919.964
+10.432.464
+144.148.000
+6.007.000
+424.332.500
+574.487.500
+98,22
+133111111 R.B. Reintegros SGP Propósito General-Otros Sectores
+182.362
+0
+182.362
+0
+0
+182.362
+133111113 R.B. Reintegros Sobretasa Gasolina-Maila Vial
+27.743.039
+0
+0
+0
+0
+133111114 R.B. Reintegro Estampiila Prodesarrollo Urbano (5% Adulto
+9.224.000
+mayor)
+133120503 R.B. R.F. C.M.O.Gastos Salud e Inv.
+499.958.590
+432.300.943
+13320001
+R.B. Servicios de expedición de permisos, conceptos
+488.475.862
+ambientales
+0
+9.224.000
+67.657.647
+0
+0
+55.752.000
+0
+182.014.900
+0
+0
+9.224.000
+100,00
+0
+0,00
+100,00
+0
+67.657.647
+13,53
+237.766.900
+48,68
+8 de 16

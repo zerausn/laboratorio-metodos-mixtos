@@ -1,0 +1,212 @@
+r
+SANTIAGO DE CALL
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBDIRECCION
+SUBPROCESO DE SEGUIMIENTO, MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCIÓN DE INGRESOS SEPTIEMBRE-2025
+ADMINISTRACION CENTRAL
+CENTRO
+GESTOR
+TONDO
+NOMBRE FONDO
+POSICIÓN
+PRESUPUESTAL
+CONCERTO
+PRESUPUESTO
+INICIAL
+PRESUPUESTOR
+MODIFICADO RECAUDO TOTAL
+4131- RF13390103
+R.B. R.F. SGP Asignación Especial-Programas de 1.2.10.02
+allimentación escolar
+Superávit fiscai
+61,155,407
+81.155.407
+K
+EJEC
+100,0
+1.
+4131
+1.3.1.1.10.01
+Ratiros Foripet-Para el pago de obligaciones
+pensionèles corrientes
+1212
+1.2.12.09
+☑☑ Retiros FONPET
+Para el pago de obligaciones pensionales comantas
+১৯
+12.13
+4131
+1.3.1.1.11
+Reintagros y ofroš recursos no apropiados Libre
+1.2.13.01.001
+Reintegros y otros recursos no aproplados
+reintegro cajas menores
+1:549.281.000 5:343.028.84810.495.356.232
+Dastinación
+4131
+1.3.1.1.11
+Reintegros y otros recursos no apropiados Libre
+Destinación
+1.2.13.01.002
+Reintegros contratos
+4131
+1.3.1.1.11.22
+Reintegros recursos Fondo GRED
+1.2.13.01.002
+Reintegros contratos
+4131
+1.3.1.1.11.27
+Reintegro Impuesto de espectaculos Publicos Nacional 1.2.13.01.002
+Reintegros contratos
+dei Daporte
+4131
+1.3.1.1.11.11
+Reintegros Sobretasa Gasolina-Malia Viai
+1.2.13.01.002
+Reintegros contratos
+4131
+1.3.1.1.11
+Reintegros y ofros recursos no apropiados Libre
+1.2.13.01.003
+Reintegros nómina
+Dastinación
+4131
+1.3.1.1.11.01
+Reintegro Aportes Salud, ARL, SGP Educación
+1.2.13.01.003
+Reintegros nómina
+4131
+1.3.1.1.11
+Reintegros y otros recursos no apropiados Libre
+1.2.13.01.004
+Reintegros empieados
+196,4
+52.989.462
+52.989.462
+100,0
+800.000.000
+6.000,000,000
+18.000.000
+750,0
+544.250
+19.358.461
+74.062.375
+382,6
+46.839.207
+62.959.281
+71.487.746
+113,5
+Dastinación
+4152
+1.3.1.1.11
+Reintegros y otros recursos no apropiados Libre
+1.2.13.01.004
+Reintegros empleados
+Destinación
+4131
+1.3.1.1.11
+Reintegros y otros recursos no apropiados Libre
+1.2.13.01.005
+Reintegros Tesoreria
+Destinación
+4131
+1.3.1.1.03
+Dividendos y utilidades por otras inversionas de capitai 1.2.13.01.005
+Reintegros Tesoreria
+214.338.218
+214.338.218
+100,0
+352.796.412
+265.582.444
+75,3
+4131
+1.3.1.1.11
+Reintegros y otros recursos no apropiados Libre
+1.2.13.01.007
+Reintegros ARL-EPS- incapacidad
+Destinación
+4131
+1.3.1.1.11.01
+Reintegro Aportes Salud, ARL, SGP Educación
+1.2.13.01.007
+Reintegros ARL-EPS- incapacidad
+1.549.281.000
+1.549.281.000
+43,051.404
+2,8
+4131
+1.3.1.1.11.09
+Reintegro aportes salud, ARL, SGP Salud
+1.2.13.01.007
+Reintegros ARL-EPS- incapacidad
+4131
+1.3.1.1.11.10
+Reintegro aportes Salud, ARL-Infraccionas de Tránsito 1.2.13.01.007
+Reintegros ARL-EPS- incapacidad
+4131
+1.3.1.1.11
+Reintegros y otros recursos no apropiados Libre
+1.2.13.01.009
+Reintegro Personeria
+Destinación
+4131
+1.3.1.1.11
+Reintegros y otros recursos no apropiados Libre
+1.2.13.01.010
+Reintegro Contraloría
+Destinación
+4131
+1.3.1.1.11.25
+Reintegro Contribución valorización nuevo plan de obras 1.2.13.01.015
+Otros reintegros de Destinación Específica
+4151
+1.3.1.1.11.25
+Reintegro Contribución valorización nuevo pian de obras 1.2.13.01.015
+Otros reintegros de Destinación Especifica
+4131
+1.3.1.1.11
+Raintegros y otros recursos no apropiados Libre
+1.2.13.01.016
+Reintegros Devoiución Aportes Pensionales
+Destinación
+4131
+1.3.1.1.11
+Reintegros y otros recursos no apropiados Libre
+1.2.13.01.018
+Destinación
+4131
+1.3.1.1.11
+Reintegros y otros recursos no apropiados Libre
+1.2.13.02.01
+Reintegros por Devoluciones Tributarias
+Recursos No Apropiados Ingresos de Libre Destinación
+116.687.720
+2.143.279.334
+2.143.279.334
+100,0
+31.338.958
+38.629.588
+123,3
+237.091
+991.716.664
+2
+2
+100,0
+328.204.744
+206.393.703
+176.9
+Destinación
+Proyectó: Marcela Guerrero Obando - Contratista
+Revisó: Carlos Andres Daza Sajazar - Profesional Univarsitario
+han Quinclun
+AJRO
+JHON JAIRO QUINCHUA CEBALLOS
+Director
+Departamento Administrativo de Hacienda
+Página 32 de 32
+JUAN PABLO ECHEVERRY FERREIRA
+Subdirector de Finanzas Públicas
+Departamento Administrativo de Hacienda
+حوراء

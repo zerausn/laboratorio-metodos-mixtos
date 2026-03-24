@@ -1,0 +1,213 @@
+Fondo
+Nombre
+PPTO
+MODIFICADO
+SALDO CDP
+SALDO RPC
+SALDO
+OBLIGACIONES
+PAGOS
+EJECUCION
+%DE EJECUCION
+F133312
+R.B. R.F. Impuesto de espectáculos públicos nacional con
+destino al deporte
+265.613.192
+0
+0
+0
+265.613.192
+265.613.192
+100,00
+F13331403
+R.B. R.F. Alumbrado EMCALI (10% navideño)
+304.907.252
+304.907.252
+0
+0
+0
+0
+0,00
+F133315
+R.B. R.F. Sobretasa Bomberii
+415.575.966
+0
+415.575.966
+0
+0
+415.575.966
+100,00
+F13331B
+R.B. R.F. Sobretasa de solidaridad servicios públicos
+acueducto, aseo y alcantarillado
+289.878.645
+289.878.645
+0
+0
+0
+0
+0,00
+F13331901
+R.B. R.F. Tasa prodeporte 10% Alimentacion y transporte
+363.908.300
+0
+0
+0
+0
+0
+0,00
+F13331902
+R.B. R.F. Tasa prodeporte 90% Manifestaciones deportivas y
+recreativas
+2.664.003.331
+103.792.100
+F13332001 R.B. R.F. Estampilla Procultura
+749.046.448
+3.795.000
+487.192.836
+F13332003
+R.B.R.F. Estampilla Procultura Ley 397/97 (seguridad social
+204.843.836
+de los gestores culturales 10%)
+0
+0
+0
+2.560.211.231
+2.560.211.231
+96,10
+0
+249.702.795
+736.895.631
+98,38
+0
+0
+204.843.836
+204.843.836
+100,00
+F13332004
+R.B. R.F. Estampilla Procultura Ley 1379/2010 (Red Nacional
+de bibliotecas 10%)
+195.394.901
+2.685.000
+69.709.901
+0
+0
+69.709.901
+35,68
+F13332005
+R.B.R.F. Estampilla Procultura Acuerdo 232 (conservacion
+patrimonio cultural 5%)
+121.757.894
+121.757.894
+0
+0
+0
+0
+0,00
+R.B. R.F. Estampilia Procultura Acuerdo 0313 (fin inst
+F13332006
+164.846.464
+0
+0
+popular de cultura 7% del 60%)
+0
+0
+0
+0,00
+F13332042
+R.B.R.F. Estampilla Prodesarrollo Urbano (20% primera
+infancia)
+2.042.178.079
+0
+104.083.439
+407.897.110
+1.454.419.962
+1.966.400.511
+96,29
+F13332043
+R.B.R.F. Estampilla Prodesarrollo Urbano (10% Bilinguismo
+Acuerdo 469/2019)
+2.823.851.326
+2.436.491.326
+223.545.000
+0
+163.815.000
+387.360.000
+13,72
+F13332044
+R.B.R.F. Estampilla Prodesarrollo Urbano (10% Equidad de
+603.291.009
+Género)
+603.291.009
+0
+0
+0
+0
+0,00
+F13332046
+R.B.R.F. Estampilla Prodesarrollo 10% Víctimas de Conflicto
+Armado
+1.606.557.014
+722.501.542
+404.495.640
+0
+405.012.744
+809.508.384
+50,39
+F13332048
+R.B.R.F. Estampilla Prodesarrollo Urbano (5% Adulto mayor
+433.054.200
+2.248.000
+)
+313.099.200
+0
+78.375.000
+391.474.200
+90,40
+F13332049
+R.B.R.F. Estampilla Prodesarrollo Urbano (5% Discapacidad y
+enfermedades huerfanas)
+474.155.293
+212.636.299
+222.230.072
+0
+3.500.000
+225.730.072
+47,61
+F13332050
+R.B.R.F. Estampilla Prodesarrollo Urbano (5% Capital
+255.885.250
+semilla)
+0
+255.885.250
+0
+F13332059 R.B. R.F. Estampilla para la justicia familiar
+6.961.606
+0
+0
+255.885.250
+0
+0
+0
+F133401
+R.B. R.F. Contribución sobre Contratos de Dbra Pública
+2.182.355.033
+2.182.355.033
+0
+0
+F133402
+R.B. R.F. Contribución Sector Eléctrico
+138.271.721
+138.271.721
+0
+0
+0
+0
+100,00
+0
+0,00
+0
+0,00
+0
+0,00
+13 de 16

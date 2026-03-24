@@ -1,0 +1,234 @@
+SANTIAGO DE CAL
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO, MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2026
+ADMINISTRACION CENTRAL
+STO
+PRESUPUESTOCK
+FONDO
+GESTOR
+NOMBRE FONDO
+CONCEPTO
+PRESUPUESTAL
+INICIAL
+MODIFICADORECAUDO TOTAL EJEC
+1.1.02.03.002.02.01
+Intereses de Mora Impuesto Predial Unificado
+43.686.479.178
+43.686.479.178
+47.413.932.732108,5
+Urbano
+4131121000 Ingresos corrientes de Libra Destinación 11:02:03:002.02:01:01
+Intereses de Mora Impuesto Predial Unificado Urbano
+Vigencia Actual
+4,324:9 1961:4394324,96,1:4399:137,384:0062113
+41312 1.2.3.4.02
+ICLD LEY 99 Destino Amblanital
+1.1.02,03.002.02:01.01
+Interesas de Mora Impuesto Predjal Unificado Urbano
+Vigericia Actuate
+43.686,479
+43,686,479-92.296.8062113
+413,1
+1.2.1.0.00.
+Ingresos comentes de Libre Dastinación
+1.1.02.03.002.02.01.02
+Interases de Mora impuesto, Predial Unificado Urbano
+38.924.652.947.
+38.924,652,947
+37.802.409.402
+97.1
+Vigencia Anterior
+4131'
+1.2.3.4.02
+ICLD LEY 99- Destino Ambiental
+1.1.02.03.002.02.01.02
+Interases de Mora Impuesto Predial Unificado Urbano
+393,178.313.
+393.178,313
+381.842.51897,1
+Vigencia Anterior
+1.1.02.03.002.02.02
+intareses de Mora Impuesto Prediai Unificado Rūral
+4.320.640.798
+4.320.640.798
+.10.571.384)
+0,2
+4131
+1.2.1.0.00
+Ingresos comentes de Libre Dastinación
+1.1.02.03.002.02.02.01-
+intereses de Mora Impuesto Prediai Unificado Rural
+427.743.439
+27.743.
+3.439
+829.074
+0,2
+Vigencia Actual
+4131
+1.2.3.4.02
+ICLD LEY 99- Dastino Ambiental
+1.1.02.03.002.02.02.01
+Intereses de Mora Impuasto Predial Unificado Rural
+4.320.641
+4.320.6
+641
+8.374
+0,2
+Vigencia Actual
+4131
+1.2.1.0.00
+ingresos comentes de Libre Dastinación
+1.1.02.03,002.02.02.02
+Interases de Mora Impuasto Predial Unificado Rural
+3.849.690.951
+3.849.690.951
+9,636
+36.597
+0,3
+Vigencia Anterior
+4131
+1.2.3.4.02
+ICLD LEY 99 - Destino Ambjantai
+1.1.02.03.002.02.02.02
+Intereses de Mora Impuesto Prediai Unificado Rural
+38.885,767
+38.885.76
+97.339
+0,3
+Vigencia Anterior
+1.1.02.03.002.03
+1.1.02.03.002.03.01
+impuesto da industria y Comercio
+2.952.317.115
+2.952.317.115
+6.885.565.924
+233,2
+Intereses de Mora Impuesto de industria y comercio -
+1.099.077.951
+1.099.077.951
+4.122.233.279
+375,1
+sobre actividades comerciaies
+4131
+1.2.1.0.00
+Ingresos comentes de Libra Destinación
+1.1.02.03.002.03.01.01
+Interases de Mora impuesto de industria y comercio -
+108.412.717
+108.412.717
+1.033.231.201
+953,1
+sobre actividadas comerciales Vigencia Actual
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambientai
+1.1.02.03.002.03.01.01
+Interases de Mora Impuesto de industria y comercio -
+sobra actividades comerciales Vigencia Actuai
+1.095.078
+1.095.078
+10.436.678
+953,1
+4131
+1.2.1.0.00
+Ingresos comentes de Libra Destinación
+1.1.02.03.002.03.01.02
+Interases de Mora Impuesto de industria y comercio -
+sobre actividades comerciales Vigencia Anterior
+975.714.454
+975.714,454
+2.846.376.928
+291,7
+4131
+1.2.3.4.02
+ICLD LEY 99-Destino Ambiental
+1.1.02.03.002.03.01.02
+Intereses de Mora impuesto de industria y comercio -
+sobre actividades comerciales Vigencia Anterior
+9.855.702
+9.855,702
+28.751.283
+291,7
+4131
+1.2.1.0.00
+Ingresos comentes de Libra Destinación
+1.1.02.03.002.03.01.03
+Intereses de Mora impuesto de Retelca - sobra
+actividades comerciaies Vigencia Actual
+990.000
+990.000
+78.959.524 7.975,7
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambientai
+1.1.02.03,002.03.01.03
+intereses de Mora impuesto de Retelca - sobre
+10.000
+10.000
+797.571 7.975,7
+actividades comerciales Vigencia Actual
+4131
+1.2.1.0.00
+ingresos commantes de Libra Destinación
+1.1.02.03.002.03.01,04
+Intereses de Mora impuesto de Retelca sobre
+990,000
+990,000
+101.985.127 10.301,5
+actividades comarciales Vigencia Anterior
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambiental
+1.1.02.03.002.03.01.04
+interesas da Mora impuesto de Reteica - sobre
+10.000
+10.000
+1,030,152 10.301,5
+ectividades comerciales Vigencia Anterior
+4131
+1.2.1.0.00
+ingresos comentes de Libre Destinación
+1.1.02.03.002.03.01.05
+intereses de Mora Regimen Simpie de Tributación-
+990.000
+990.000
+actividades comercialas Vigancia Actual.
+4131
+1.2.3.4.02
+ICLD LEY 99-Destino Ambierifel
+1.1.02.03.002.03.01.05
+Intereses de Mora Regimen Simple de Tributación
+actividades comerciales Vigencia Actual
+10.000
+10.0
+0.000
+4131
+1.2.1.0.00
+Ingresos comientas de Libra Destinación
+1.1.02.03.002.03.01.06
+intereses de Mora Regimen Simpie de Tributación-
+990.000
+990,000
+20.458,167 2.066,5
+ectividades comerciaies Vigencia Anterior:
+4131
+1.2.3.4.02
+ICLD LEY 99-Destino Ambiental
+1.1.02.03.002.03.01.06
+interases de Mora Regimen Simpie da Tributación-
+10.000
+0.000
+206.648
+2.06 066,5
+actividades comerciales Vigencià Anteñor.
+1.1.02.03.002.03.02
+intereses do Mora Impüesto de Industria y comercio -
+235,298,268
+235.298.268
+721,572.000
+306,7
+sobre actividades industrialos-
+Página 13 de 32
+الموني

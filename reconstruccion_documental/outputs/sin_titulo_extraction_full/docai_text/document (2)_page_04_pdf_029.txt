@@ -1,0 +1,279 @@
+SANTIAGO DE CALI
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO, MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2026
+ADMINISTRACION CENTRAL
+CENTRO
+FONDO
+GESTOR
+NOMBRE FONDO
+4131
+1.2.3.2.24.07
+CNSCC 25% Ley 2197/22
+POSICIÓN
+PRESUPUESTAL
+1.1.02.03.002.21.02
+4131
+1.2.3.2.24:08
+CNSCO Transferencia. Ministerio 15% Ley:2197/22 11:02:03.002:21:02.
+ست
+CONCEPTO
+PRESUPUESTO
+INICIALTO
+EPRESUPUESTO
+MODIFICADO
+EJEC
+RECAUDO TOTALENE
+Mullas Código Nacional de Seguridad y Convivencia
+Ciudadana Vigancia Anterio
+Mullas Código Nacional de Seguridad.y. Convivencia
+3:350,960
+2010.579
+Cludadana Vigencia Anterior
+1.1.02.05
+Venta de bienes y servicios.
+6.932.063.148
+32.0 148
+7.954.772.530
+14.8
+1:1.02.05.001
+Ventas de establecimientos de mercado
+2700,000
+4145
+1.2.3.2.09.01.
+Venta servicios Salud-Zoanosis
+1.1,02,05,001,08
+Servicios prestades a las empresas y servicios de
+producción
+4131
+1.2.1.0.00-
+Ingresos comentes da Libre Destinación
+1.1.02.05.001.09
+Servicios para la comunidad, sociales y personalas
+693,000
+4131
+1.2.3.4.02
+ICLD LEY 99 - Destino Ambiental
+1.1.02.05.001.09
+Servicios para la comunidad, sociales y personales
+7.000
+1.1.02.05.002
+Ventas Incidentales de Establecimientos no de
+Mercado
+6.932,063,148
+6.932,063.148
+7.954.072.530
+114,7
+1.1.02.05.002.07
+Servicios Financieros, y Servicios Conaxos,
+Servicios Inmobiliarios y Servicios de Leasing
+7.456.050.716
+7,456.050.716
+8.108.728.879
+108,8
+1.1.02.05.002.07.02
+Servicios Inmobiliarios
+6.775.332.248
+6.775,332,248)
+6,967.074.295
+102,8
+4131
+1.2.1.0.00
+Ingresos corrientes da Libre Dastinación
+1.1.02.05.002.07.02.01
+Amendamiento Bienes Inmuebles
+574.450.202
+574.450.202)
+739.540.730
+128,7
+4131
+1.2.3.4.02
+ICLD LEY 99-Destino Ambiental
+1.1.02.05.002.07.02.01
+Arrendamianto Bienes Inmuebles
+5.802.528
+5.802.528
+7.470.108
+128,7
+4131
+1.2.1.0.00
+Ingreses corrientes de Libre Destinación
+1.1.02.05.002.07.02.02
+Arrendamiento Torre Emcali
+5.459.217.440
+5.459.217.440
+4.951.076,005
+90,7
+4131
+1.2.3.4.02
+ICLD LEY 99-Destino Ambiental
+1.1.02.05.002.07.02.02
+Arendamiento Terre Emcali
+55.143,610
+55.143.610
+4131
+1.2.3.2.27.03
+Arrendamiento Escenarios Deportivas (Conv Municipio- 1.1.02.05.002.07.02.03
+Arrendamiento Escenarios Deportivos (Conv Municipio-
+680.718.468
+680.718.468
+50.010.868
+1.141.654.584
+90,7
+187,7
+Univalle)
+Univalle)
+4131
+1.2.1.0.00
+Ingresos corrientes de Libre Destinación
+1.1.02.05.002.07.02.04
+Arrendamlanto de espacios Centro de Ciencia y
+76.548.780
+Tecnologia CCAT
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambiental
+1.1.02.05.002.07.02.04
+Arrendamiento de espacios Centro de Ciencia y
+773.220
+Tecnologia CCAT
+4131
+1.2.1.0.00
+Ingreses corrientes da Libre Destinación
+1.1.02.05.002.08
+Servicios prestados a las empresas y servicios da
+producción
+4.019.400
+4.019.400
+539.076.944 13.411,9
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambiantal
+1.1.02.05.002.08
+Servicios prestados a las empresas y servicios de
+producción
+40.600
+40,600
+5.702.881 14.046,5
+4131
+1.2.1.0.00
+Ingresos comiantes de Libre Dastinación
+1.1.02.05.002.09
+Servicios para la comunidad, sociales y personales
+597.439
+4131
+1.2.3.4.02
+ICLD LEY 99 - Destino Ambiental
+1.1.02.05.002.09
+Servicios para la comunidad, sociales y personales
+6.035
+4151
+1.2.1.0.00
+Ingresas corrientes de Libre Destinación
+1.1.02.05.002.09
+Servicios para la comunidad, sociales y personales
+345.815.451
+4151
+1.2.3.4.02
+ICLD LEY 99- Destino Ambiental.
+1.1.02.05.002.09
+Servicios para la comunidad, sociales y personales
+3.493.085
+4152
+1.2.3.2.27.02
+Cursos de Conducción Escuela da Enseñanzas
+1.1.02.05.002.09
+Servicios para la comunidad, socielas y personales
+152.670.900
+152.670.900
+92.306.400
+60,5
+1.1.02.06
+06
+1.1.02.06.001
+Transferencias Corrientes2.775.014.179.218
+2.929.322.039.651
+2.228.601.000.60276,1
+Sistama Gonaral de Participaciones
+1,654,876,707.254
+1.800.904.649:568
+1,373:901.407,468
+76,3
+1.1.02.06.001.01
+Participación para Educación
+974.561,686.000--
+1.017.272.971.399
+795.127.891.351
+78,2
+1.1.02.06.001.01.01.
+Prestación de Servicio Educativo
+947.817,960.000
+985.691.279.990
+766.844.392.963
+77,8
+4131
+1.2.4.1.01.01
+SGP-Educación-Prestación de servicios CSF
+1.1.02.06.001:01.01.01
+Prestación de servicio educativo
+810.418.742.000
+848.292.061.990
+672.989.347.554
+79,3
+4131
+1.2.4.1.01.02
+SGP-Educación-Prestación de servicios SSF
+1.1.02.06.001.01.01.01
+4131
+1.2.4.1.01.03
+SGP-Educación-Prestación de sarvicios gastos de 1.1.02.06.001.01.01.01
+administración CSF
+1.1.02.06.001.01.03
+4131-
+1.2.41.03
+SGR-Educación-Calidad-por-matrícula oficial
+4131.
+1.2.4.1.04
+SGP-Educación-Celidad per gratuidad
+1-1,02:06.001.01.03.01-
+1.1.02.06.001.01.03.02
+1.1.02.06.001,02
+1.1.02.06.001.02.01
+Prestación de servicio educativo
+Prestación de servicio educativo
+Calidad
+Calidad-por Matricula Oficial-
+Calidad por Gratuidad Educativa S.S.F
+Participación para Salud
+Régimen Subsidiado
+123.275.361.000
+123.275.361.000
+85.146.344.893
+69,1
+14.123.857.000
+14.123.857.000
+8.708.700.516
+61,7
+26.743.726,000
+31.581,691.409
+28.283.498.388
+89,6
+....
+-12.239,056,000
+13,192,772,096)
+9,894.579,075
+75,0
+14.504.670.000
+18.388.919.313
+18.388.919.313
+100,0
+543.095.409.772)
+618.667.321.559
+455.760,130,566
+73,7
+513.332.038.752
+587,515,097.809
+432.776.689.567
+73,7
+Página 27 de 32

@@ -1,0 +1,145 @@
+Fondo
+Nombre
+PPTO.
+MODIFICADO
+SALDO CDP
+SALDO RPC
+SALDO
+OBLIGACIONES
+PAGOS
+EJECUCION
+%DE
+EJECUCION
+2-13110200102
+Capitalización de otros patrimonios
+autónomos pensionales
+2.192.201.593
+0
+0
+0
+2.192.201.593
+2.192.201.593
+100,00
+A12320906
+Cuotas de auditaje
+14.063.895.043
+0
+0
+0 13.700.000.000 13.700.000.000
+97,41
+2-13050905401
+Contraloria de Santiago de Cali
+14.063.895.043
+0
+0
+0 13.700.000.000
+13.700.000.000
+97,41
+F133110102
+R.B. R.F. Disposición de activos-
+Fonpet
+13.575.875
+0
+0
+0
+13.575.875
+13.575.875
+100,00
+2-131403
+Por la venta de activos
+13.575.875
+0
+0
+0
+13.575.875
+13.575.875
+100,00
+R.B. R.F Retiros Fonpet-Para el pago
+F133111001
+de obligaciones
+pensionales
+2.185.574.937
+0
+0
+0
+0
+0
+0,00
+corrientes
+2-13070200102
+Mesadas pensionales a cargo de la
+entidad (de pensiones)
+2.185.574.937
+0
+0
+0
+0
+F13332002
+R.B. R.F. Estampilla Procultura
+Fonpet
+720.016.333
+0
+0
+0
+720.016.333
+0
+0,00
+720.016.333
+100,00
+2-13110200102
+Capitalización de otros patrimonios
+autónomos pensionales
+720.016.333
+0
+0
+0
+720.016.333
+720.016.333
+100,00
+R.B.R.F. Estampilla para
+el
+F13332022
+bienestar del Adulto
+Mayor
+1.098.057.038
+0
+이
+0 1.098.057.038 1.098.057.038
+100,00
+(FONPET-20%)
+2-13110200102
+Capitalización de otros patrimonios
+autónomos pensionales
+1.098.057.038
+0
+0
+0
+1.098.057.038
+1.098.057.038
+100,00
+F13332041
+R.B.R.F. Estampilla Prodesarrollo
+2.297.935.859
+0
+0
+Fonpet 20%
+2.297.935.859 2.297.935.859
+100,00
+2-13110200102
+Capitalización de otros patrimonios
+autónomos pensionales
+2.297.935.859
+0
+0
+2.297.935.859 2.297.935.859
+100,00
+F13332060
+R.B. R.F. Estampilla para la justicia
+familiar - Fonpet
+1.740.402
+0
+0
+1.740.402
+1.740.402
+100,00
+11 de 13

@@ -1,0 +1,237 @@
+SANTIAGO DE CALI
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO, MANEJO Y CONTROL PRESUPUESTA
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2025
+ADMINISTRACION CENTRAL
+FONDO
+CENTRO
+(GESTOR FO
+4131 1.2.1.0.00
+4131012.3.4.02
+NOMBRE FONDO
+Ingrasos corientas de Libre Destinación
+GLD LEY:99 Destino Ambiental
+POSICION
+PRESUPUESTALIKE
+27.02.0300211.
+13.02.03.002 11:02.01
+11:02:03.002:11:02.01
+CONCEPTO
+Mora
+Interesas de Mora impuasto de espectáculos públicos
+Intereses de Mora Impuesto de espectáculos públicos
+municipal Libre Vigencia Actual
+Interoses de Mora, Estampllia Pro Cultura
+interases de Mora Estampilia Pro Cuitura Vigencia
+Actual
+Interases de Mora Estampilla Pro Cuitura Vigencia
+Actuai-
+PRESUPUESTO
+INICIAL
+PRESUPUESTO
+MODIFICADO
+RECAUDOTOTAL
+EJEC
+4131 1.2.3.1.19.01
+Estampilla procultura
+1.1.02.03.002.14
+1.1.02.03.002.14,01
+18.244.095
+3.647,133
+4131
+1.2.3.1.19.02
+Estampilla Procultura Fonpet 20%
+11:02.03.002.14.01
+1.620,948
+4131
+1.2.3:1:19,03
+Estampilla procuitura Ley 397/97 (seguridad social de
+1.1.02.03.002.14.01
+ios gestoras culturales 10%)
+Intereses de Mora Estampilie Pro Cultūra Vigencia
+Actuai
+610.474
+4131
+1.2.3.1.19.04
+Estampilia procultura ley 1379/2010 (Red Nacionei de 1.1.02.03.002.14.01
+bibliotecas 10%)
+intereses de Mora Estampiiia Pro Cuilura Vigencia
+810.474
+Actuai
+4131
+1.2.3.1.19.05
+Estampilia procuitura acuerdo 232 (conservacion
+1.1.02.03.002.14.01
+intereses de Mora Estampilia Pro Cultura Vigencia
+405.238
+patrimonio cultural 5%)
+Actuai
+4131
+1.2.3.1.19.07...
+Estampilia Procuitura Finan, inst. Univ.IPC
+1.1.02.03.002.14,01
+interases de Mora Estampilla Pro Cultura Vigencia
+810.473
+Actual
+4131
+1.2.3.1.19,01
+Estampilla procultura
+1.1.02.03.002.14.02
+intereses de Mora Estampiila Pro Cuitura Vīgancia
+62.710
+Anterior
+4131
+1.2.3.1.19.02
+Estampilia Procultura Fonpet 20%
+1.1.02.03.002.14.02
+intareses de Mora Estampilia Pro Cultura Vigencia
+Anterior
+27.870
+4131
+1.2.3.1.19.03
+Estampilla procultura Ley 397/97 (seguridad secial de 1.1.02.03.002.14.02
+ios gestores culturales 10%)
+Interesas de Mora Estampilla Pro Cultura Vigencia
+Anterior
+13.936
+4131
+1.2.3.1.19.04
+Estampilla procuitura ley 1379/2010 (Red Nacionai de 1.1.02.03.002.14.02
+bibliotecas 10%)
+Intereses de Mora Estampilia Pro Cultura Vigencia
+13,936
+Anterior
+4131
+1.2.3.1.19.05
+Estempilla procultura acuerdo 232 (conservacion
+1.1.02.03.002.14.02
+patrimonio cultural 5%)
+Intereses de Mora Estampilia Pro Cultura Vigencia
+Anterior
+6.967
+4131
+1.2.3.1.19.07
+Estampilia Procultura Finan, inst. Univ. IPC
+1.1.02.03.002.14.02
+intereses de Mora Estampilia Pro Cuitura Vigencia
+Anterior
+13.936
+4151
+Α.1.2.3.2.09.02
+Contribución valorizacion nuevo plan de obras
+1.1.02.03.002.16
+1.1.02.03.002.16.01
+Intereses de Mora Contribución do Vaiorización
+1.615.519.703
+1.615.519.703
+3.476.485.975
+215,2
+intereses de Mora Contribución de Vaiorización
+1.615.519.703
+1.615.519.703
+-2.334.224.970 -144,5
+Vigencia Actuai
+4151
+A.1.2.3.2.09.01
+Contribución y recargos valorización
+1.1.02.03.002.16.02
+intereses de Mora Contribución de Valorización
+Vigencia Anterior
+4151
+A.1.2.3.2.09.02
+Contribución velorizacion nuavo pian de obras
+1.1.02.03.002.16.02
+intereses de Mora Contribución de Veiońzación
+5.610.710.945
+Vigencia Anterior
+1.1.02.03.002.20
+Intorosos de Mora Muitas do tránsito y transporte
+3,666,009,032
+3,666,009,032
+6.830.819.983
+186,3
+4152
+1.2.3.2.25.01
+Muitas infracciones de tránsito lay 769-02
+1.1.02.03.002.20.01
+Intereses de Mora Muitas de tránsito y transporte
+2.123.476.273
+2.123.476.273
+3.889.792.016
+183,2
+Vigencia Actuai
+4152
+1.2.3.2.25.01
+Multas infracciones de tránsito iey 769-02
+1.1.02.03.002.20.02
+Intereses de Mora Muitas de tránsito y transporte
+1.542.532.759
+1.542.532,759
+2.941.027.967
+190,7
+Vigencia Anterior
+1.1.02.03.002.21
+Interesos de Mora Multas Código Nacional de
+242,493,259
+Seguridad y Convivencia Ciudadana
+4131
+1.2.3.2.24.04
+CNSCC 30% Ley 2197/22
+1.1.02.03.002.21.01
+Muitas Código Nacional da Seguridad y Convivencia
+87.852.239
+Ciudadana Vigencia Actual
+4131
+1.2.3.2.24.05
+CNSCC Transferencia Policíe Medidas Correctivas 15% 1.1.02.03.002.21.01
+Multas Código Nacionai da Seguridad y Convivencia
+30.047.102
+Ley 2197/22
+Ciudadana Vigencia Actual...
+4131
+1.2.3.2.24.06
+CNSCC Transfarencia Policia Vigilancia 15% Ley
+1.1.02.03.002.21.01
+Muitas Código Nacionai da Seguridad y Convivencia
+2.358.070
+2197/22
+Ciudadana Vigencia Actual
+4131
+1.2.3.2.24.07
+CNSCC 25% Ley 2197/22
+1.1.02.03.002.21.01
+Multas Código Nacionai de Segurided y Convivencia
+77.987.389
+Ciudadana Vigencia Actual
+4131
+1.2.3.2.24.08
+CNSCC Transferencia Ministario 15% Ley 2197/22
+1.1.02,03.002.21.01
+Multes Código Nacional de Seguridad y Convivencia
+2.355.022
+Ciudadana Vigencia Actuai
+4131
+1.2.3.2.24.04...
+CNSCC 30% Lay 2197/22
+1.1.02.03.002.21.02
+Multas Código Nacional de Seguridad y Convivencia
+32.492.383
+Ciudadana Vigencia Anterior
+4131
+1.2.3.2.24.05
+CNSCC Transferència Policía Medidas Correctivas 15% 1.1.02.03.002.21.02
+Multas Código Nacional de Seguridad y Convivencia
+2.012.388
+Ley 2197/22
+Ciudadana Vigancia Antarior
+4131
+1.2.3.2.24.06
+CNSCC Transferencia Policía Vigilancia 15% Ley
+1.1.02.03.002.21.02
+Multas Código Nacional de Seguridad y Convivencia
+2.027.127
+2197/22
+Ciudadana Vigencia Anterior
+Página 16 de 32
+.

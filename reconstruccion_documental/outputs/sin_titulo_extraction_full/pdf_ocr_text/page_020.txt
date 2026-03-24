@@ -1,0 +1,289 @@
+SANTIAGO DE CALI
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO, MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2026
+ADMINISTRACION CENTRAL
+CENTRO
+FONDO
+GESTOR
+NOMBRE FONDO
+POSICIÓN
+PRESUPUESTALE
+CONCERTO
+PRESUPUESTO
+PRESUPUESTO
+MODIFICADORECAUDO TOTAL XEJEC
+4145 1.2.4.2.01.01
+SGP-Salud-Régimen subsidiado SSF 11/12
+1.1,02.06.001.02.01.01.
+4145124:2.01.02
+SGP Salud-Regimen subsidiado, SSF-12/12
+1242,02,01 4145 محبت SGP-Salud Salud pública 11/12
+4145
+1.2.4.2.02.02
+SGP-Salud-Saiud pública 12/12
+1:1,02.06.001:02:01:02
+11:02:00:001:02,02
+11.02.06,001,02,02,01
+1.1,02,06.001.02.02.02
+Régiman Subsidiado Once Doceevas
+Régimen Subsidiado Última Doceava
+Participación Salud Pública
+Salud Pública Once Doceavas
+Salud Pública Última Doceava
+473,950.992.274548:134,051.331
+398,842,946.424 72:7
+39:381-046.47839.381.046.47834-133-743:143867
+29:763:371:0201:152-223,750
+22-983-440:999738
+27,349,472.31628,738,325,046
+20,900,600.03272,7
+2:413,898,704
+2.413.898.704
+2.082.840.967
+86.3
+1.1.02.06.001.03
+Participación para Propósito General-
+103,441,350.784
+119.169.205.064
+88.198.214.852
+74,0
+1.1.02.06.001.03.01
+Deporte y Recreación.
+9.194.786.736
+10.495.364.093
+7.839.841.318
+74,7
+4131
+1.2.4.3.01.01
+SGP-Propósito Genaral-Deporte y recreación 11/12.
+1.1.02.06.001.03.01.01
+4131
+1.2.4.3.01.02
+SGP-Propósito General-Deporte y recreación 12/12
+1.1.02.06.001.03.01.02
+Deporte y Recreación Once Doceavas...
+Deporte y Recreación Última Doceavas
+8,462,134.406
+9,910,560,640
+7.207.680.464
+72,7
+732.652.330
+584.803.453
+632.160.854
+108,1
+1.1.02.06.00 1.03.02-
+Cuitura
+"6,896.090.052
+ممرميم
+7.563,317.758
+5,879.880,993
+-77,7
+4131
+1.2.4.3.02.01
+SGP-Propósito General-Cultura 11/12
+1.1.02.06.001.03.02.01
+Cuitura Once Doceavas
+6.346.600.805
+7.063.571.791
+5.405.760.352
+76,5
+4131
+1.2.4:3.02.02
+SGP-Propósito General-Cuitura 12/12
+1.1.02.06.001,03.02.02
+Cultura Últime Doceaves
+549.489.247
+499.745.967
+474.120.641
+94,9
+1.1.02.06.001.03.03
+Propósito Generai Libro inversión
+87.350.473.996
+101.110.523.213
+74.478.492.541
+73,7
+4131
+1.2.4.3.03.01
+SGP-Propósito Genaral-Libre Inversión 11/12
+1.1.02.06.001.03.03.01
+Propósito General Libre inversión Once Doceavas
+80.390.276.865
+94.150.326.082
+68.472.964.424
+72,7
+4131
+1.2.4.3.03.02
+SGP-Propósito General-Libre inversión 12/12
+1.1.02.06.001.03.03.02
+Propósito General Libre Inversión Última Doceava
+6.960.197.131
+6.960.197.131
+6,005,528.117
+86,3
+1.1.02.06.001,04
+Asignaciones Especialas
+3.088.395.312
+3,088.395.312
+2.563.579.027
+83,0
+1.1.02.06.001.04.01
+Programas de Alimentación Escolar
+3.088.395.312
+3,088.395.312
+2.563.579.027
+83,0
+4131
+1.2.4.4.01.01
+SGP-Asignación Especial-Programas de alimentación
+escolar 11/12
+1.1.02.06.001.04.01.01
+Programas de Alimentación Escolar Once Doceava
+2.646.880.461
+2.846.880.461.
+2.366.502.120
+83,1
+4131
+1.2.4.4.01.02
+SGP-Asignación Especial-Programas de alimentación
+escolar 12/12
+1.1.02.06.001.04.01.02
+Programas de Alimentación Escolar Ultima Doceava
+241.514.851
+241.514.851
+197,076.907
+81,6
+1.1.02.06.001.05
+Agua potabie y Saneamianto Básico
+30.689.865.386
+42,706.756.234
+32.251.591.672
+75,5
+4131
+1.2.4.6.00.01
+SGP-Agua potabie y saneamiento básico 11/12
+1.1.02.06.001.05.01
+Agua potable y Saneamiento Básico Dice Doceavas
+28.200.825.209
+40.569.934.546
+30.114.769.984
+74,2
+4131
+1.2.4.6.00.02
+SGP-Agua potabie y sanaamianto básico 12/12
+1.1.02.06.001.05.02
+Agua polabie y Saneamianto Básico Última Doceava
+2.489.040.177
+2.136.821.688
+2.136.821.688
+100,0
+1.1,02.06.003
+Participaciones Distintas del SGP..
+47.178.812.238)
+52.178,812,238
+58.045.672.577
+111,2
+1.1.02.06.003.01
+Participación en impuestos
+46.178.812.238
+51.178.812.238
+54.461.862,392
+106,4
+1.1.02.06.003.01.02
+Participación dei impuesto sobre vehiculos
+46.178.812.238
+51.178.812.238
+54.461.862,392
+106,4
+automotores
+4152
+1.2.3.3.01.02
+Participeción del Impuesto sobre vehiculos automotores 1.1.02.06.003.01.02.01
+Participación del impuesto sobre vehículos automotores
+Vigencia Actual
+46.178.812.238
+51.178.812.238
+54.461.862.392
+106,4
+1.1.02.06.003.02
+1.1.02.06,003.02,01
+Participación en Contribuciones
+1.000.000.000
+1.000.000,000
+3.583,810.185
+358,4
+Participación Superávit do ias Contribucionos de
+Solidaridad de Servicios Públicos
+4131
+1.2.3.1.17
+Sobretasa de solidaridad sarvicios públicos ecueducto, 1.1.02.06.003.02.01.01
+aseo y alcantariliedo
+Participación Superavit de las Contribuciones da
+Solidarided de Servicios Públicos Vigencia Actual
+1.1.02.06.003.02.02
+Participación de la Contribución Parafiscal Cuitural
+1,000,000.000
+1.000.000.000
+3.583.810.185
+358,4
+4131
+1.2.3.3.01.01
+Perticipación de la Contribución Parafiscal Culturai
+1.1.02.06.003.02.02.01
+Participación de la Contribución Parafiscal Cultural
+Vigencial Actual
+4131
+1.2.3.3.01.01
+Participación de la Contribución Parafiscai Cultural
+1.1.02.06.003.02.02.02
+Participación da ia Contribución Parafiscal Culturai
+1.000.000.000
+1.000.000.000
+3.583.810,185
+358,4
+Vigencial Antarior
+1,1,02.06.005
+A entidados Torritorialos Distintas de Participaciones
+12.211,329,800
+12.260.483.608
+11.529.275.09 091
+94,0
+y Compensaciones
+4131
+1.2.3.3.04.20
+Fortalecimiento estrategia sustancias psicoactivas
+1.1.02.06.005.02
+Prevención de la Farmacodependencia y de
+Medicemanto de Control Especial
+4145
+1.2.3.3.04.22
+Programa da Prevanción y Control de Enfermedades
+1.1.02.06.005.04
+Programa de Prevención y Control de Enfermedadas
+49.153.808
+49.153.808
+trensmitidas por-Vectores y Zoonosis
+transmitidas por Vectores y-Zoonosis
+4131
+1.2.3.3.03
+Aportes Nación - Alimentación Escolar - MEN
+1.1.02.06.005.05
+Transferir a las entidadas tarritorialas para apoyar la
+oparación del programa de alimentación escolar
+12.211.329.800
+12.211.329.800
+10.959.757.847
+89.8
+4131.
+1.2.3.3.04.12
+Programa-de Prevención y Control da la Tubarculosis 1.1.02.06.005.11
+Campaña y control-entituberculosis
+340.000.000
+4131
+1.2.3.3.04.19
+Campañas Control Lepra
+1.1.02.06.005.12
+Campañas Control Lapra
+180.363.436
+Página, 18 de 32

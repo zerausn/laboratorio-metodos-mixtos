@@ -1,0 +1,238 @@
+SANTIAGO DE GAL
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO, MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE-2026
+ADMINISTRACION CENTRAL
+4131
+FONDO
+CENTRO
+GESTOR
+1.2.3.2.24.08
+POSICIÓN
+PRESUPUESTAL
+NOMBRE FONDO
+1.1.02.03.001:20,02,02.02
+CNSCC Transferancje Ministario 15% Ley 2197/22
+CONCEPTO
+Cludadana Müllas Espéciales Infracción Urbanistica
+Multas Código Nacional de Seguridad y Convivencia
+TOTAL
+RECAUDO TO
+1,000
+TO
+PRESUPUESTO
+BAXMODIFICAD ADO
+1:000
+STEINICIAL
+PRESUPUESTO
+Vigencia Vigencia: Anterior
+11.02.03.001.20.02.03
+adana Multas Especiales Contaminación Visual
+Multas Código Nacional de Seguridad y Convivencia
+Ciudadana
+10.000
+10,000
+4131
+1.2.3.2.24.04.
+1.1.02.03.001.20.02.03.01
+CNSCC 30% Ley 2197/22
+Multas Código Nacional de Següridad y Convivancia
+Cludadana Mullas Especiales Contaminación Visual-
+Vigencia Actual
+1:000
+1:000
+4131
+1.2.3.2.24.05
+CNSCC Transferencia Policía Medidas Correctivas 15%
+Ley-2197/22
+1.1.02.03.001.20.02.03.01
+Muitas Código Nacional de Seguridad y Convivancia
+Cludadana - Multas Especiales Contaminación Visual
+1,000
+1.000
+4131
+1.2.3.2.24.06
+CNSCC Transferencia Pollcla Vigilancia 15% Ley
+2197/22
+1.1.02.03,001,20.02.03.01
+Mullas Código Nacional de Seguridad y Convivencia.
+Vigencia Actual
+Ciudadana-Multas Especiales Contaminación Visual
+Vigencia Actual
+1.000
+1:000-
+4131
+1.2.3.2.24.07
+CNSCC 25% Ley 2197/22
+1.1.02.03.001.20.02.03.01
+Muitas Código Nacional de Seguridad y Convivencia
+Ciudadana Multas Especiales Contaminación Visual
+Vigencia Actual
+1.000
+1.000
+4131
+1.2.3.2.24.08
+CNSCC Transferencia Ministerio 15% Ley 2197/22
+1.1.02.03.001.20.02.03.01
+Muitas Código Nacional de Seguridad y Convivancia
+Ciudadana - Muitas Especialas Contaminación Visuai
+Vigencia Actual
+1.000
+1.000
+4131
+1.2.3.2.24.04
+CNSCC 30% Ley 2197/22
+1.1.02.03.001.20.02.03.02
+Muitas Código Nacional de Saguridad y Convivencia
+Ciudadana Multas Especiales Contaminación Visuai
+Vigencia Anterior
+1.000
+1.000
+4131
+1.2.3.2.24.05
+CNSCC Transferancia Policía Medidas Correctivas 15%
+Ley 2197/22
+1.1.02.03.001.20.02.03.02
+Muitas Código Nacional de Seguridad y Convivancia
+Ciudadana - Multas Especiales Contaminación Visual
+Vigencia Anterior
+1.000
+1.000
+4131
+1.2.3.2.24.06
+CNSCC Transferencia Policía Vigilancia 15% Ley
+2197/22
+1.1.02.03.001.20.02.03.02
+Muitas Código Nacional de Saguridad y Convivencia
+Ciudadana-Muitas Especiales Contaminación Visual
+Vigencia Anterior
+1.000
+1.000
+4131
+1.2.3.2.24.07
+CNSCC 25% Ley 2197/22
+1.1.02.03.001.20.02.03.02
+Muitas Código Nacional de Seguridad y Convivencia
+Ciudadana Muitas Especiales Contaminación Visual
+Vigencia Anterior
+1.000
+1,000
+4131
+1.2.3.2.24.08
+CNSCC Transferencia Ministerio 15% Ley 2197/22
+1.1.02.03.001.20.02.03.02
+Muitas Código Nacional de Seguridad y Convivencia
+Ciudadana Multas Especiales Contaminación Visual
+Vigencia Anterior
+1,000
+1.000
+1.1.02.03.001.22
+Multas ambientales
+100.408.911
+471,000,000
+471.000.000
+21,3
+4133
+1.2.3.2.23.01
+Sanciones por Violación de Normas - DAGMA
+1.1.02.03.001.22.01
+Sanciones por Violación de Normas - DAGMA
+470.000.000
+100.408.911
+21.4
+470,000,000
+4131
+1.2.3.2.25.03
+Muitas por Maltrato Animal
+1.1.02.03.001.22.02
+1.1.02.03.001.23
+Muites por Maitrato Animal
+Sanciones urbanísticas
+1.000.000
+1.000.000
+353,820,000
+4131
+1.2.1.0.00
+Ingresos corriantes de Libre Destinación
+1.1.02.03.001.23.02
+Infraccionas Urbanísticas en Bienas de Interés Cultural
+350.281.800
+4131
+1.2.3.4.02
+¡CLD LEY 99- Destino Ambiental
+1.1.02.03.001.23,02
+Infracciones Urbanisticas en Bienas da interés Culturai
+3.538.200
+11:02:03:002
+Interoses do mora
+63.447.947.79963.447.947:79975.033.180.977118,3
+1.1.02.03.002.01
+intorases de Mora Sobretasa ambiental
+4.838.150.036
+4.838.150.036
+141,8
+6.862.032.815
+1.1.02.03.002.01.01
+Intereses de Mora Sobrotasa ambiental - Urbano
+4,402.716,533
+6.860.346.179-155,8
+4.402.716.533
+4131
+1.2.3.1.01
+Sobretasa / participeción ambiental - Corporaciones
+Autónomas Regionales
+1.1.02.03.002.01.01.01
+Interases de Mora Sobretasa ambiantel Urbano
+Vigencia Actual
+440.271.653
+294,2
+1.295.400.978
+440.271.653
+4131
+1.2.3.1.01
+Sobretasa/participación ambiental - Corporaciones
+Autónomas Regionales
+1.1.02.03.002.01.01.02
+Intereses de Mora Sobretasa ambiental - Urbano
+Vigencia Anterior
+140,4
+5,564.945.201
+3.962.444.880
+3.962,444,880
+1.1.02.03.002.01.02
+Intereses de Mora Sobretasa ambiental - Rural
+435.433.503
+435.433.503
+0,4
+-1:686,636
+4131.
+1.2.3.1.01.
+Sobretasa/.participeción ambiental Corporaciones
+Autónomas Regionales
+1.1.02.03.002.01.02.01.
+Interases de Mora Sobrelasa ambiental-Rural Vigancia.
+Actual
+43.543.350.
+0,1
+24.428
+-43.543.350
+4131
+1.2.3.1.01
+Sobralase/perticipación ambientai - Corporaciones
+Autónomas Regionaies
+1.1.02.03.002.01.02.02
+Intereses de Mora Sobrelasa amblentál-Rural Vigencia
+Anterior
+391.890.153
+0,4
+1662.208
+391.990.153
+1.1.02.03.002.02
+Impuosto Predial Unificado
+48,007.119.976
+98,8
+47.424.504.116
+48.007.119.976
+Página 12 de 32
+رمج

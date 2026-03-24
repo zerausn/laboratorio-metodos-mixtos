@@ -1,0 +1,12 @@
+pandas
+openpyxl
+xlsxwriter
+pymupdf
+opencv-python-headless
+pytesseract
+reportlab
+python-docx
+numpy
+google-cloud-documentai
+google-cloud-documentai-toolbox
+rapidfuzz

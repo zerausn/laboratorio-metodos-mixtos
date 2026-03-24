@@ -1,0 +1,184 @@
+Fondo
+Nombre
+PPTO.
+MODIFICADO
+SALDO CDP
+SALDO RPC
+SALDO
+OBLIGACIONES
+PAGOS
+EJECUCION
+%DE
+EJECUCION
+2-11010202005
+Aportes generales al sistema de
+15.987.509
+0
+0
+riesgos laborales
+0
+0
+0
+0,00
+2-11010300101
+Vacaciones
+12.549.066.069
+162.516.052
+5.781.662
+112.485.129
+7.083.465.575
+7.201.732.366
+57,39
+2-11010300103
+Bonificación especial de recreación
+849.313.873
+14.222.482
+513.671
+7.886.843
+579.072.324
+587.472.838
+69,17
+2-11010300104
+Subsidio Familiar
+26.170.876
+0
+0
+0
+0
+0
+0,00
+2-110103003
+Bonificación de dirección para
+103.925.409
+0
+0
+gobernadores y alcaldes
+5
+68.012.347
+68.012.352
+65,44
+2-110103004
+Bonificación de gestión territorial
+25.981.352
+0
+0
+4
+para alcaldes
+12.752.312
+12.752.316
+49,08
+2-110103007
+Honorarios ediles
+3.040.428.146
+1.606.117.348
+0
+0
+1.431.621.652
+1.431.621.652
+47,09
+2-110103093
+Prima o Auxilio de Maternidad
+4.084.800
+0
+0
+4
+498.499
+498.503
+12,20
+2-110103106
+Remuneracion por defuncion
+13.282.000
+0
+0
+309.290
+3.249.460
+3.558.750
+26,79
+2-1201010030302
+Maquinaria de informática y sus
+partes, piezas y accesorios
+1.547.691.793
+1.000.383.253
+547.308.540
+0
+0
+547.308.540
+35,36
+Radiorreceptores y receptores de
+televisión; aparatos para la
+2-1201010030503
+grabación y reproducción de sonido
+26.519.628
+26.519.628
+0
+0
+0
+0
+0,00
+y video; micrófonos, altavoces,
+amplificadores, etc.
+2-120101004010101 Asientos
+123.411.464
+0
+111.504.935
+0
+0
+111.504.935
+90,35
+2-120101004010102
+Muebles del tipo utilizado en la
+62.219.540
+0
+39.778.687
+0
+oficina
+0
+39.778.687
+63,93
+2-120101004010104 Otros muebles N.C.P.
+11.176.484
+0
+0
+0
+0
+0
+0,00
+2-12010100502030101 Paquetes de Software
+1.227.476.138
+1.153.576.138
+73.900.000
+0
+0
+73.900.000
+6,02
+2-120201002
+Productos alimenticios, bebidas y
+tabaco; textiles, prendas de vestir y
+productos de cuero
+954.001.745
+183.094.511
+717.729.306
+0
+3.682.950
+721.412.256
+75,62
+2-120201003
+Otros bienes transportables
+(excepto productos metálicos,
+maquinaria y equipo)
+5.028.488.706 1.565.657.718 2.293.679.589
+113.039.775
+841.524.066
+3.248.243.430
+64,60
+2-120201004
+Productos metálicos y paquetes de
+software
+1.151.944.292
+298.437.355
+409.191.469
+0
+420.138.882
+829.330.351
+71,99
+3 de 13

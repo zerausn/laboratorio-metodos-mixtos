@@ -1,0 +1,226 @@
+Fondo
+Nombre
+PPTO
+MODIFICADO
+SALDO CDP
+SALDO RPC
+SALDO
+OBLIGACIONES.
+PAGOS
+EJECUCION
+% DE EJECUCION
+F133603
+R.B. R.F. SGP-Educación-Calidad por matricula oficial
+3.323.447.855
+152.661.232
+43.981.876
+0
+3.126.804.747
+3.170.786.623
+95,41
+F133702
+R.B. R.F. SGP-Saiud-Salud pública
+1.943.285.276
+690.766.643
+1.252.518.633
+0
+0
+1.252.518.633
+64,45
+F133801
+R.B. R.F. S.G.P. Propósito General-Oeporte
+957.691.938
+100.000.000
+164.695.519
+0
+545.920.220
+710.615.739
+74,20
+F133802
+R.B. R..F. S.G.P. Propósito General-Cultura
+254.306.363
+0
+152.583.818
+0
+101.722.545
+254.306.363
+100,00
+F133803
+R.B. R.F. S.G.P. Propósito General-Otros Sectores
+1.125.702.799
+86.000.000
+602.702.799
+14.000.000
+423.000.000
+1.039.702.799
+92,36
+FA133404
+R.B. R.F. Tasa retributiva
+1.562.913.543
+268.462.600
+222.938.900
+34.620.000
+934.737.000
+1.192.295.900
+76,29
+R121000
+Ingresos corrientes de Libre Destinación
+31.332.314.106
+0
+4.925.704.947
+130.500.000
+26.276.109.149
+31.332.314.096
+100,00
+R12200001 Servicios de expedición de permisos, conceptos ambientales
+74.324.408
+0
+74.324.408
+0
+0
+74.324.408
+100,00
+R12200008 Aportes urbanísticos por mayor edificabilidad
+93.968.298
+0
+1
+0
+93.968.297
+93.968.298
+100,00
+R12200017 Sobretasa Gasoi malia vial
+356.768.222
+76.708.945
+0
+280.059.277
+356.768.222
+100,00
+recreativas
+R12311802 Tasa Prodeporte 90% Manifestaciones deportivas y
+R12311901 Estampilia procultura
+500.000
+0
+500.000
+0
+0
+500.000
+100,00
+1.435.723.554
+0
+0
+0
+1.435.723.554
+1.435.723.554
+100,00
+R12311944 Estampiiia Prodesarrolio Urbano (10% Equidad de Genero)
+4.738.496
+0
+0
+0
+4.738.496
+4.738.496
+100,00
+R12311946 Estampilia Pro desarrollo10% Victimas de Conflicto Armado
+835.100.700
+0
+0
+0
+835.100.700
+835.100.700
+100,00
+R123206
+Contribución Contratos De Obra Pública
+5.267.248.677
+0
+408.921.114
+0
+4.858.327.562
+5.267.248.676
+100,00
+R12322404 CNSCC 30% Ley 2197/22
+32.723.788
+0
+0
+0
+32.723.788
+32.723.788
+100,00
+R12410101
+R124103
+R12322501 Multas infracciones de tránsitoLey769-02
+SGP-Educación-Prestación de servicios CSF
+Sgp-Educación-Calidad Matrícula Oficial
+R12430301 SGP-Propósito General-Propósito general Libre inversión
+933.453.792
+0
+0
+0
+933.453.792
+933.453.792
+100,00
+2.964.128.160
+0
+150.017.707
+0
+2.814.110.453
+2.964.128.160
+100,00
+462.979.491
+0
+0
+0
+462.979.489
+462.979.489
+100,00
+1.979.625.090
+0
+11/12
+0
+0
+1.979.625.090
+1.979.625.090
+100,00
+R12430302
+SGP-Propósito General-Propósito general Libre inversión
+12/12
+1.347.724.369
+0
+1
+0
+1.347.724.367
+1.347.724.368
+100,00
+R12440102 SGP-Asignación Especiai-Programas de alimentación escolar
+7.122.769
+0
+0
+12/12
+0
+7.122.769
+7.122.769
+100,00
+R12460001 SGP-Agua potabie y saneamiento básico 11/12
+2.689.934.866
+1
+682.270.152
+0
+2.007.664.713
+2.689.934.865
+100,00
+R12460002 5GP-Agua potable y saneamiento básico 12/12
+286.527.554
+0
+0
+0
+286.527.554
+286.527.554
+100,00
+R13110201 Excedentes Financieros EMCALI
+1.000.000.000
+0
+0
+0
+1.000.000.000
+1.000.000.000
+100,00
+15 de 16

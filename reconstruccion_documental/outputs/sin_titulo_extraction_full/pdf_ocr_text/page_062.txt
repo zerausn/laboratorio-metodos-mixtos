@@ -1,0 +1,201 @@
+Fondo
+Nombre
+PP.TO.
+MODIFICADO
+SALDO CDP
+SALDO RPC
+SALDO
+OBLIGACIONES
+PAGOS
+EJECUCION %DE EJECUCION
+F13340302 R.B. R.F. Contribucion valorizacion nuevo plan de obras
+4.777.281.210
+3.915.376.210
+367.614.000
+20.304.000
+473.987.000
+861.905.000
+18,04
+F13340304 R.B. R.F. Participación en la Plusvalía
+31.227.518
+0
+0
+0
+31.227.518
+31.227.518
+100,00
+F133409
+R.B. R.F. Tasa por utilización de aguas subterránea y
+superficiales
+958.118.445
+106.223.445
+349.765.327
+이
+445.488.800
+795.254.127
+83,00
+F13341501 R.B. R.F. Dtros derechos de Tránsito
+52.005.366
+0
+0
+0
+52.005.366
+52.005.366
+100,00
+F13341503 R.B. R.F. Derechos de Tránsito en áreas Restringidas o de
+46.820.757
+0
+Alta Congestión
+0
+0
+46.820.757
+46.820.757
+100,00
+F13341504 R.B. R.F. Recursos Convenio Municipio CDAV
+404.083.737
+404.083.737
+0
+0
+0
+0
+0,00
+R.B. R.F. Expedición de Licencias de funcionamiento de
+F13341603 establecimientos educativos para el trabajo y el desarrollo
+237.703.376
+156.568.877
+13.257.130
+0
+0
+13.257.130
+5,58
+humano
+F13341604
+R.B. R.F. Incentivo al Aprovechamiento y Tratamiento de
+Residuos Sólidos
+2.992.874.636
+0
+2.272.874.636
+0
+720.000.000
+2.992.874.636
+100,00
+F13341606 R.B. R.F. ICLD LEY 99 - Destino Ambiental
+1.604.848.456
+709.301.878
+338.549.504
+0
+377.597.400
+716.146.904
+44,62
+F13341704
+R.B. R.F. CNSCC 30% Ley 2197/22
+F13341707 R.B. R.F. CNSCC 25% Ley 2197/22
+216.851.081
+13.707.081
+152.358.000
+22.033.000
+28.753.000
+203.144.000
+93,68
+78.110.747
+32.983.247
+31.515.000
+5.445.000
+8.167.500
+45.127.500
+57,77
+F13341901 R.B. R.F. Infracciones de tránsito ley 769-02
+8.526.852.301
+5.291.619.428
+475.467.000
+99.112.000
+1.265.562.500
+1.840.141.500
+21,58
+F13341904
+R.B.R.F.Multas y Sanciones Sanitarias Secretaría de Salud
+62.574
+0
+0
+0
+0
+0
+0,00
+F13342101 R.B. R.F Venta servicios Salud-Zoonosis
+2.084.994
+0
+2.084.994
+0
+0
+2.084.994
+100,00
+F13342102 R.B. R.F. Cursos de Conducción Escuela de Enseñanzas
+143.091.601
+143.091.601
+0
+0
+0
+0
+0,00
+F13342103
+R.B.R.F. Arrendamiento Escenarios Deportivos (Conv
+Municipio-Univalle)
+414.200.140
+0
+0
+0
+0
+0
+0,00
+F13342105
+R.B. R.F. Venta de bienes y servicios-Valorización
+92.814.820
+92.814.820
+0
+0
+0
+F13342201 R.B. R.F. Coljuegos 25%
+514.799.648
+126.556.973
+311.597.775
+3.795.000
+F13350103
+R.B. R.F. Participación del impuesto sobre vehículos
+318.501.993
+0
+0
+automotores
+72.849.900
+0
+318.501.993
+388.242.675
+318.501.993
+0
+0,00
+75,42
+100,00
+F13350105 R.B. R.F. Participación de la Contribución Parafiscal Cultural
+969.017.818
+883.622.515
+0
+0
+0
+0
+0,00
+F13350402 R.B. R.F. Cuentas Maestras Sector Salud
+480.355.332
+0
+480.355.332
+0
+0
+480.355.332
+100,00
+F13350405 R.B. R.F. Participación al Cigarrillo
+13.508.853
+0
+13.508.853
+0
+0
+13.508.853
+100,00
+14 de 16

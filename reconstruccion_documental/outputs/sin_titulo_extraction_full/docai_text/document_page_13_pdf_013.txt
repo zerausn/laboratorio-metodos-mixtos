@@ -1,0 +1,195 @@
+SANTIAGO DE CALI
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2026
+ADMINISTRACION CENTRAL
+CENTRO
+FONDO
+GESTOR
+NOMBRE FONDO
+4131 1.2.3.2.24,04
+CNSCC-30% Ley 2197/22
+POSICIÓN
+PRESUPUESTALA
+CONCERIO
+PRESUPUESTO
+CACINICIALA
+PRESUPUESTO
+MODIFICADO
+ESTO FRE
+RECAUDO TOTAL%
+1.1.02,03,001.20.02:01:01 Multas Código Nacional de Segunded y Convivencia
+4131 1.2.3.2.240S CNSCC Transferencia Policia Médides Correctivas 15% 1.1:02:03:001,20:02:01:01 Mulles Código Nacional de Seguridad y Convivencia 1,000
+1:000
+1000
+z 
+Cludadana Mullas Especiales Aglomeración Público
+Vigencia Actual
+1,000
+Lay 2197/22
+Cludadana Mullas Especiales Aglomeración Público
+Vigenda Actuai
+4131
+1.2.3.2.24.06
+CNSCC-Transferencia Policía Vigilancia 15% Ley
+1.1.02.03.001.20.02.01.01
+2197/22
+Multas Código Nacional de Seguridad y Convivencia
+Ciudadana-Multes Especiajes Agiomeración Público
+Vigencia Actua!
+1.000
+1.000
+4131
+1,2.3.2.24.07
+CNSCC 25% Ley 2197/22
+1.1.02.03.001.20.02.01.01
+Muitas Código Nacional de Seguridad y Convivencia
+Ciudadana Muitas Especiales Aglomeración Público
+Vigancia Actua!
+1.
+1.000
+1.000
+4131
+1.2.3.2.24.08
+CNSCC Transferencia Ministerio 15% Ley 2197/22
+1.1.02.03.001.20.02.01.01
+Muitas Código Nacionai de Seguridad y Convivencia
+Ciudadana - Multas Especiales Aglomeración Público
+Vigencia Actuai
+1.000
+1.000
+4131
+1.2.3.2.24.04
+CNSCC 30% Ley 2197/22
+1.1.02.03.001.20.02.01.02
+Multas Código Nacional de Seguridad y Convivencia
+Ciudadana - Multas Especiaies Aglomeración Público
+Vigencia Anterior
+1.0
+.000
+1.000
+4131
+1.2.3.2.24.05
+CNSCC Transferencia Policía Medidas Correctives 15% 1.1.02.03.001.20.02.01.02
+Ley 2197/22
+Muitas Código Nacional da Seguridad y Convivencia
+Ciudadana Multas Especieles Aglomeración Público
+1.0
+.000
+1.000
+Vigencia Anterior
+4131
+1.2.3.2.24.06
+CNSCC Transferencia Policia Vigilancia 15% Ley
+1.1.02.03.001.20.02.01.02
+2197/22
+Multas Código Nacional de Seguridad y Convivencia
+Ciudadana - Multas Especiales Agiomeración Público
+Vigencia Anterior
+1.000
+1.000
+4131
+1.2.3.2.24.07
+CNSCC 25% Ley 2197/22
+1.1.02.03.001.20.02.01.02
+Multas Código Nacional de Seguridad y Convivencia
+Ciudadana - Multas Especiales Agiomeración Público
+Vigencia Anterior
+1.000
+1.000
+4131
+1.2.3.2.24.08
+CNSCC Transferencia Ministerio 15% Ley 2197/22
+1.1.02.03.001.20.02.01.02
+Multas Código Nacional de Segurided y Convivencia
+Ciudedana - Multas Especiales Aglomeración Público
+1.000
+1.000
+Vigencia Anterior
+1.1,02,03,001.20.02.02
+Multas Código Nacional de Seguridad y Convivencia
+Cludadana-Muitas Especiales Infracción Urbanistica
+10.000
+10.000
+4131
+1.2.3.2.24.04
+CNSCC 30% Ley 2197/22
+1.1.02.03.001.20.02.02.01
+Muitas Código Nacional de Seguridad y Convivencia
+Ciudadana - Multas Especiales Infracción Urbanistica
+1.000
+1.000
+Vigencia Actua!
+4131
+1.2.3.2.24.05
+CNSCC Transferencia Policia Medidas Correctivas 15% 1.1.02.03.001.20.02.02.01
+Ley 2197/22
+Mullas Código Necional de Seguridad y Convivencia
+Ciudadana Multes Especiales Infracción Urbanistica
+1.000
+1.000
+Vigencia Actual
+4131
+1.2.3.2.24.06
+CNSCC Transferencia Policia Vigilancia 15% Ley
+1.1.02.03.001.20.02.02.01
+2197/22
+Multas Código Nacional de Seguridad y Convivencia
+Ciudadana - Multas Especiales Infracción Urbanistica
+Vigencia Actual
+1.000
+1.000
+4131
+1.2.3.2.24.07
+CNSCC 25% Ley 2197/22
+1.1.02.03.001.20.02.02.01
+Mullas Código Nacional de Seguridad y Convivencia
+Ciudadana - Multes Especiales infracción Urbanistica
+1.000
+1.000
+Vigernicia Actual
+4131
+1.2.3.2.24.08 CNSCC Transferencia Ministerio 15% Ley 2197/22
+1.1.02.03.001.20.02.02.01
+Multas Código Nacional de Seguridad y Convivencia
+Ciudadana - Muitas Especiales Infracción Urbanistica...
+1,000
+1.000
+Vigencia Actual
+4131
+1-2.3.2.24.04ONSCC 30% Ley 2197/22
+1.1.02.03.001.20.02.02.02
+Muites-Código-Nacionei da Seguridad y Convivencia
+Ciudadanía - Multas Especiales Infracción Urbanistica
+1.000
+1.000
+Vigencia Anterior
+4131
+1.2.3.2.24.05
+CNSCC Transferencia Policía Medidas Correctivas 15% 1.1.02.03.001.20.02.02.02
+Ley 2197/22
+Multas Código Nacional de Seguridad y Convivencia
+Ciudadana Multas Especiales Infracción Urbanistica
+1.000
+1.000
+Vigencia Anterior
+4131
+1.2.3.2.24.06
+CNSCC Transferencia Policia Vigilancia 15% Ley
+2197/22
+1.1.02.03.001.20.02.02.02
+Multas Código Necional de Seguridad y Convivencia
+Ciudadana - Mulias Especiales infracción Urbanistica
+1.000
+1.000
+Vigencia Anterior
+4131
+1:2:3:2:24:07CNSCC 25% Ley 2197/22
+1.1.02.03.001.20:02:02.02
+Multas Código Nacional de Seguridad y Convivencia
+Ciudedena - Mulies Especieles infracción Urbanistica
+1:000
+1:000
+Vigencia Anterior
+Página 11'de 32-

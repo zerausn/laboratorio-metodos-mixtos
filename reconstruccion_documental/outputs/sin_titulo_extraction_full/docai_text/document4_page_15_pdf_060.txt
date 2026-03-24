@@ -1,0 +1,209 @@
+Fondo
+Nombre
+PPTO
+MODIFICADO
+SALDO CDP
+SALDO RPC
+SALDO
+OBLIGACIONES
+PAGOS
+EJECUCION
+% DE EJECUCION
+13380102
+R.B. SGP-Propósito Generaí-Deporte y recreación 12/12
+556.889.081
+0
+556.889.081
+0
+0
+556.889.081
+100,00
+13380201
+R.B. 5GP-Propósito Generai-Cultura 11/12
+2.444.798.845
+0
+404.684.342
+0
+236.960.000
+641.644.342
+26,25
+13380301
+R.B. SGP-Propósito Generai-Libre inversión 11/12
+9.926.328.576
+453.443.000
+2.225.966.381
+43.197.000 7.165.337.059
+9.434.500.440
+95,05
+13380302 R.B. SGP-Propósito General-Libre inversión 12/12
+3.185.919.224
+0
+890.262.826
+0 2.265.409.362
+3.155.672.188
+99,05
+A12320902 Contribución valorizacion nuevo pian de obras
+2.125.683.820
+59.930.298
+1.167.588.187
+0
+898.165.334
+2.065.753.521
+97,18
+A12320904 Participación en ia Plusvalia
+2.876.157.900
+0
+0
+0
+2.876.157.900
+2.876.157.900
+100,00
+A12320905 Concurso Económico - Estratificación
+620.535.280
+20.790.000
+308.011.000
+24.070.000
+124.604.331
+456.685.331
+73,60
+A1331103
+R.B. Dividendos y utilidades por otras inversiones de capital
+1.761.425.062
+60.189.929
+128.674.697
+8.900.922
+1.543.291.855
+1.680.867.474
+95,43
+A133404
+R.B. Tasas retributivas
+651.567.544
+36.042.600
+255.096.900
+11.829.000
+348.197.000
+615.122.900
+94,41
+F133100
+R.B. R.F. Ingresos Corrientes de Libre Destinación
+15.912.656.555
+44.220.000
+8.143.903.712
+11.925.000
+6.925.522.208 15.081.350.920
+94,78
+F133100001 R.B. R.F. SGP - Agua potabie y saneamiento básico
+6.075.489.483
+0
+2.148.488.416
+0
+3.927.001.067
+6.075.489.483
+100,00
+F133110806 R.B. R.F. Fund for cities of services
+7.605.151
+0
+7.605.151
+0
+0
+7.605.151
+100,00
+R.B. R.F. Resolución 1585/21 2da. Versión Premio Nacional
+F133110807
+8.074.839
+0
+de Biblioteca "Daniel Samper Ortega" 2021
+0
+0
+0
+0
+0,00
+F133110901
+R.B. R.F. Recuperación de cartera
+préstamos -Fondo
+3.890.307
+0
+Solidario y de Oportunidades
+0
+0
+0
+0
+0,00
+F133110903 R.B.R.F. Fondo Solidario y de Oportunidades
+2.428.879.839
+0
+1.234.992.270
+0
+1.000.000.000
+2.234.992.270
+92,02
+F133111116 R.B. R.F Reintegros ICETEX - ICLD
+778.816.924
+6.966.394
+29.601.000
+2.131.050
+733.382.154
+765.114.204
+98,24
+F13320008 R.B. R.F. Aportes urbanísticos por mayor edificabilidad
+780.764.075
+0
+780.764.075
+0
+0
+780.764.075
+100,00
+F13320017
+R.B. R.F. Sobretasa Gasoi. Malia viai
+3.709.769.599
+741.530.599
+2.201.182.000
+123.136.000
+643.921.000
+2.968.239.000
+80,01
+F13320020 R.B. R.F. Telefonía Acdo 357/13
+27.414.736
+0
+0
+0
+27.414.736
+27.414.736
+100,00
+F13320026 R.B. R.F. C.M. Fondo GRED (Cuentas Maestras Fondo GRED)
+915.602.689
+23.128.000
+355.238.402
+110.371.182
+407.687.182
+873.296.766
+95,38
+F13320029 R.B.R.F. Sobretasa Gasolina S.I.T.M. MIO
+447.383.164
+0
+0
+0
+0
+0
+0,00
+F13330301
+R.B. R.F. Impuesto de Circulación y Tránsito Sobre Vehículos
+de Servicio Público - S.I.T.ΜΙΟ
+574.948.521
+0
+0
+0
+574.948.521
+574.948.521
+100,00
+F13330302
+R.B. R.F. Impuesto de Circulación y Tránsito Sobre Vehículos
+de Servicio Público - Tradicional
+104.166.065
+0
+0
+0
+54.166.065
+54.166.065
+52,00
+12 de 16

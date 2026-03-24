@@ -1,0 +1,223 @@
+Fondo
+PPTO
+Nombre
+SALDO CDP
+SALDO RPC
+MODIFICADO
+SALDO
+OBLIGACIONES
+PAGOS
+13332043
+R.B. Estampilla Prodesarrollo Urbano (10% bilinguismo
+Acuerdo 469/2019)
+11.920.755.752
+11.920.755.752
+0
+0
+0
+0
+EJECUCION % DE EJECUCION
+0,00
+13332044
+R.B. Estampilla Prodesarrollo Urbano (10% Equidad de
+Genero)
+9.969.458.705
+3.097.114.095
+3.621.742.936
+38.546.000
+1.069.634.359
+4.729.923.295
+47,44
+13332045
+R.B. Estampilla Prodesarrollo Urbano (10% Afro)
+7.545.566.294
+1.181.265.025
+1.651.714.117
+0
+0
+1.651.714.117
+21,89
+13332046
+R.B. Estampilla Prodesarrollo10% Víctimas de Conflicto
+Armado
+6.704.643.410
+359.783.190
+3.526.111.417
+45.025.000
+2.256.640.500
+5.827.776.917
+86,92
+13332048
+R.B. Estampilla Prodesarrollo Urbano (5% Adulto mayor)
+1.579.106.090
+78.613.250
+556.155.090
+21.609.000
+634.760.500
+1.212.524.590
+76,79
+13332049
+R.B. Estampilla Prodesarrollo Urbano (5% Discapacidad y
+enfermedades huerfanas)
+4.242.269.017
+1.635.265.865
+13332050
+R.B. Estampilla Prodesarrollo Urbano (5% Capital semilla)
+4.045.963.406
+1.005.100.250
+12.750.000
+0
+4.045.963.406
+1.189.574.302
+2.207.424.552
+52,03
+0
+0
+4.045.963.406
+13332059
+R.B. Estampilla para la justicia familiar
+697.166.605
+572.166.605
+0
+0
+0
+133401
+R.B. Contribución sobre contratos de obra pública
+10.969.353.390
+7.074.716.143
+137.934.002
+3.348.901.153
+74.363.000
+3.561.198.155
+133402
+R.B. Contribución Sector Eléctrico
+82.995.593
+82.995.593
+0
+0
+0
+13340302
+R.8. Contribución valorización nuevo plan de obras
+5.315.977.951
+719.923.671
+4.466.422.239
+0
+13340304
+R.B. Participación en la Plusvalía
+1.147.584.000
+0
+0
+1.147.584.000
+0
+4.466.422.239
+1.147.584.000
+133409
+R.B. Tasa por utilización de aguas subterránea y superficiales
+167.802.679
+167.802.679
+0
+0
+0
+13341501
+R.B. Otros derechos de Tránsito
+584.115.670
+13341504
+R.B. Recursos Convenio Municipio CDAV
+2.106.933.176
+400.000.000
+0
+0
+0
+584.115.670
+584.115.670
+0
+0
+0
+100,00
+0
+0,00
+32,46
+0
+0,00
+84,02
+100,00
+0
+0,00
+100,00
+0
+0,00
+13341603
+R.B. Expedición de Licencias de funcionamiento de
+establecimientos educativos para el trabajo y el desarrollo
+297.219.541
+297.219.541
+0
+0
+0
+0
+0,00
+humano
+13341604
+R.B. Incentivo al Aprovechamiento y Tratamiento de
+Residuos Sólidos
+9.398.065.623
+4.623.354
+1.410.259.992
+0
+7.983.182.277
+9.393.442.269
+99,95
+13341606
+R.B. ICLD LEY 99 - Destino Ambiental
+9.238.882.293
+2.121.411.664
+2.395.720.732
+170.005.687
+3.621.309.855
+6.187.036.274
+66,97
+13341607
+R.B. Tasa Compensación Arbórea
+194.456.089
+0
+194.456.089
+0
+0
+194.456.089
+100,00
+13341704
+R.B. CNSCC 30% Ley 2197/22
+1.389.743.109
+52.194.109
+1.057.728.000
+55.417.000
+224.404.000
+1.337.549.000
+96,24
+13341707 R.B. CNSCC 25% Ley 2197/22
+723.887.858
+75.462.358
+497.515.500
+50.071.000
+100.839.000
+648.425.500
+89,58
+13341801
+R.B. Sanciones por Violación de Normas OAGMA
+112.586.720
+100.492.002
+9.037.136
+0
+0
+9.037.136
+8,03
+13341901
+R.B. Infracciones de transito ley 769-02
+39.062.058.812
+25.685.270.972
+4.222.590.820
+626.593.000
+6.577.579.000
+11.426.762.820
+29,25
+10 de 16

@@ -1,0 +1,270 @@
+F
+4131
+4131
+4131
+13.1.1:07.10.CUR.040/1.7.Emcall SSF
+1.3.1.1.07.09
+DPS-ALAMEDA
+4131 1:3:1.1.08.03
+SANTIAGO DE CALI
+DEPARTAMENTO ADMINISTRATIVD DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO:DE SEGUIMIENTO, MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y EJECUCION DE INGRESOS SEPTIEMBRE 2025
+ADMINISTRACION CENTRAL
+CENTO
+GESTOR
+TONDONOMBRERONDO
+1.3.1-1.07.08. CUR 882/19 SSF Recursos Emcali Conpes 3858/18
+POSICIÓN
+PRESUPUESTAL
+1.2,08.06.002.01.01.01
+1.2.08.06.002:01:01.01
+1.2.08.06.002.01.02
+Resolución 2388/2022 Premio Nacional De Bibliotecas 1:2:08.06:002:01:03.
+Públicas "Daniel Samper Ortega" 2022
+CONCEPTO
+Convenio Use de Recursos
+Convenia Usa de Recursos
+Ministerio de Cultura
+PRESUPUESTO
+STINCIAL
+PRESUPUESTO
+MODIFICADO
+RECAUDO TOTALEJEC
+9.967.566.282
+87.228.676.242
+37.228.676.242
+Dapartamento Administrativo para la Prosprendad
+Sociel-DPS
+4131
+1.3.1.1.08.04
+Premio Nacional De Bibliotecas Públicas "Daníel
+Samper Ortega"
+1.2.08.06.002.01.03
+Ministerio da Cultura
+25.000.000
+1.2.08.06.002.02
+Otras unidades de gobierno Municipal
+4131
+1.3.1.1.07.11
+Transferencia Fondo Especial de Vivienda
+1.2.08.06.002.02.01
+Fondo Especiel de Vivienda
+1.2.09
+1.2.09.03
+Recuperación de cartera préstamos
+De personas naturales
+4131
+1.3.1.1.09.03
+Recuperación de Certera Programas de Viviende - Libre 1.2.09.03.001
+Recuperacion Cartera Programes de vivienda
+destinención
+4131
+1.3.1.1.13
+Reintegros y otros recursos no apropiados Libre
+1.2.09.03.001
+Recuperacion Cartera Programas de vivienda
+545.903.480
+18.013.298
+5.170.713:4955189.726.7932.639.056:146 50,9
+5:170.713.4955.198.726.7932.639.056.146250,9
+545.903.480
+380.226,678
+69,7
+18.013.298
+100,0
+Destinación
+4131
+1.3.1.1.09.01
+Recuperación de cartera Capital-préstamos-Fendo
+1.2.09.03.002
+Solidario y de Oportunidades
+Recuperación cartera Fondo Solidario y de
+Oportunidades
+4.624.810.015
+4.624.810.015
+2.240 816.170
+48,5
+4131
+1.3.1.1.11
+Reintegros y otros recursos no apropiados Libre
+Destinación
+1.2.09.05
+Recuperación cuotas partes pensionaies
+1.2.10
+Recursos del balance:
+1.2.10.02
+Recursos de Balance Vigencia Actual
+4131
+1.3.3.1.00
+R.B. ingrasos Comentes de Libre Destinación
+1.2.10.02
+Superávit fiscal
+4131
+1.3.3.10.00.01
+R.B. SGP-Ague poteble y saneamiento básico 11/12
+1.2.10.02
+Superávit fiscal
+4131
+1.3.3.11.01.02
+R.B. Disposición de ectivos-Fonpet
+1.2.10.02
+Superávit fiscal
+4131
+1.3.3.11.02.01
+R.B. Excedentes Finericieros EMCALI
+1.2.10.02
+Superávit fiscal
+4131
+1.3.3.11.06.01
+R.B PSA Pago Servicios Ambientales
+1.2.10.02
+Superávit fiscal
+4131
+1.3.3.11.08.06
+R.B. Fund for citias of services
+1.2.10.02
+Superávit fiscal
+699.324.798.733698.324.798.733
+100,0
+596.404.364.963696.404.364.B63 100,0
+137.655.668.696
+137.655.668.696
+100.0
+11.000.000.000
+11.000.000.000
+100,0
+222.438.525
+222.438.525
+100,0
+46.382.285
+46.382.285
+100,0
+7.119.389
+7.119.389
+100,0
+4131
+1.3.3.11.08.07
+R.B. Resolución 1585/21 2da. Versión Premio Nacionel 1.2.10.02
+Superávit fiscal
+de Biblioteca "Daniel Samper Ortega" 2021
+4131
+1.3.3.11.08.08
+R.B. Resolución 2388/2022 Premio Nacional De
+1.2.10.02
+Superávit fiscal
+15.000.000
+15.000.000
+Bibliotecas Públicas "Daniel Samper Ortega" 2022
+4131
+1.3.3.11.09.01
+R.8. Recuperación de cartera capital préstamos -
+1.2.10.02
+Superávit fiscal
+6.062.062.246
+6.062.062.246
+100.0
+Fondo Solidario y de Oportunidades
+4131
+1.3.3.11.09.02
+R.8. Recuperación da cartera Intereses préstamos - 1.2.10.02
+Superávit fiscal
+1.837.560.509
+1.837.560.509
+100,0
+Fondo Solidario y de Oportunidades
+4131
+1.3.3.11.10.01
+R.B. Retiros Foripat-Para el pago de obligaciones
+1.2.10.02
+Superávit fiscal
+53.591.605.986
+53.591.605.986
+100,0
+pensionalas corrientes
+4131
+1.3.3.11.10.02
+R.8. Retiros FONPET Educacion excedentes
+1.2.10.02
+Superávit fiscal
+4131
+1.3.3.11.11
+R.8. Reintegros y otros recursos no apropiados Libre 1.2.10.02
+destinación
+Superávit fiscal
+2.489.236.936
+2.489.236.936
+100.0
+4131
+1.3.3.11.11.01
+R.8. Reintegro aportes Selud, ARL SGP Educacion 1.2.10.02
+Superávit fiscal
+114.141.611
+4131
+1.3.3.11.11.03
+R.B. Reintegros S.G.P. Sector Educación-Presteción
+1.2.10.02
+Superávit fiscal
+3.170.667
+114.141.611
+3.170.667
+100,0
+100,0
+Servicios
+4131
+1.3.3.11.11.04
+R.B. Reintegros S.G.P. Sector Educación-Calidad
+1.2.10.02
+Superávit fiscal
+4131
+1.3.3.11.11.07
+R.B. Reintegros Estampilia Prodesamolio Urbano (5% 1.2.10.02
+Superávit fiscal
+capital semilla)
+4131
+1.3.3.11.11.08
+R.8. Reintagros Estempilia Prodeserrolio Urbano (10% 1.2.10.02
+Superávit fiscal
+Equidad de Genero)
+4131
+1.3.3.11.11.10
+R.8. Reintegros aportes saiud, ARL- infracciones de 1.2.10.02
+Superávit fiscal
+584.919.964
+584.919.964
+100,0
+transilo
+4131
+13.3.11.11.11
+R.B. Reintegros SGP Propósito General-Otros Sactores 1.2.1002
+Superávit fiscal
+182.362
+182.362
+100,0
+4131
+1.3.3.11:11:13
+R.B. Reintegros Sobretase Gasolina-Malla Vial
+1.2:10.02
+Superávit fiscai
+4131
+1.3.3.11.11.14
+R.B. Reintegro Estampilla Prodesarrollo Urbano (5%
+1.2.10.02
+Superávit fiscal
+27:743.039
+9,224.000
+27.743:039
+9.224.000
+100:0
+100,0
+Adulto mayor)
+4131
+1.3.3. 12.05.03
+R.B. R.F. C.M.O.Gastos Salud e inv.
+1.2.10.02
+Superávit fiscal
+499.958.590
+499.958.590
+100,0
+Página 25 de 32

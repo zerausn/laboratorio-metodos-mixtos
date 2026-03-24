@@ -1,0 +1,290 @@
+SANTIAGO DE CAD
+DEPARTAMENTO ADMINISTRATIVO DE HACIENDA
+SUBDIRECCION DE FINANZAS PÚBLICAS
+SUBPROCESO DE SEGUIMIENTO MANEJO Y CONTROL PRESUPUESTAL
+PRESUPUESTO Y-EJECUCION DE INGRESOS SEPTIEMBRE 2025
+ADMINISTRACION CENTRAL
+GESTOR
+4131 1,2,3,4.02 ICLD LEY 99-Dastino Ambientai
+CENTRO FONDONOMBRE FONDO
+POSICION
+CONCEPTO
+PRESUPUESTALT
+PRESUPUESTO
+INICIAL
+PRESUPUESTO
+MODIFICADORECAUDO TOTALEJEC
+1:1.02.01.005.72.03.01
+Derechos de Mantenimiento y Suparvision Vigencia
+5,500.000
+5,500,000
+Actual
+1:1:02:01:005:76 Contribución por el servicio de parqueadero o de 2.000.000
+2,000:000
+estacionamiento en via
+4152 1.2.2.0:00.27: Contriblucién por ei servicio de parquaadaro o da.
+estacionemiento en via
+11,02,01.005.76.01.01
+Contribución por.el.s
+rel servicio de parquaaderő Vigencia
+1.000.000
+1,000,000
+Actuel
+4152-
+1.2.2.0.00.27
+Contribución per ei servicio de parqueadero o da
+estacionamiento en via
+1.1.02.01:005.76.02.01 Contribución por el servicio.de, estacionamiento en via
+1.000.000
+1,000:000
+Vigencia Actuai
+1.1.02.02
+Tasas y Derechos Administrativos
+48.712.931:745
+48.712.931.745
+46.651,375.026
+95,8
+1.1.02.02.036
+Evaluación de licencias y trámites ambientales
+1.049,556,000
+1.049,656,000
+533.535.017
+50,8
+4133
+1.2.2.0.00.01
+Servicios de expedición de parmisos, conceptos
+amblentales
+1.1.02.02.036,01
+Evaluación de licencias y trámítas ambientales Vigencia
+534.556.000
+534.556.000
+300,763,366
+56,3
+Actuei." -
+4133
+1.2.2.0.00.04
+Concaptos técnicos eprovechamiento de las agues
+subterráneas y superficiales.
+1.1.02.02.036.01
+Eveiuación de licencias y trámitas ambientales Vigencia
+515.000.000
+515.000.000
+232.771.651
+45,2
+Actuai
+1.1.02.02.037
+Soguimiento a licencias y trámites ambientales
+75.000.000
+75,000,000
+4133
+1.2.2.0.00.06
+Sagulmiento plan de sanaamiento y manejo de
+1.1.02.02.037.01
+Seguimiento a licencias y trámites ambientales Vigencia
+75.000.000
+75,000,000
+vertimientos
+Actuai
+1.1.02,02,055
+Tasa por el uso del agua
+236.100.000
+236.100.000
+285,693,856
+121,0
+4133
+1.2.3.2.15
+Tasa per utilización de aguas subterránea y
+superficiales
+1.1.02.02.055.01
+Tasa por ei uso del agua Vigencia Actual
+236.100.000
+236.100.000
+285.693.856
+121,0
+14131
+1.2.1.0.00
+ingresos corrientes de Libre Destinación
+1.1.02.02.063
+Certificados catastrales
+122.270.718
+122.270.718
+92.945.269
+76,0
+4131
+1.2.3.4.02
+ICLD LEY 99- Destino Ambientai
+1.1.02.02.063
+Certificades catastrales
+1.235.058
+1.235.058
+938.841
+76,0
+1.1.02.02.087
+Tasas por el Derecho do Parquee Sobre las Vias
+Públicas
+1.000.000
+1,000,000
+4152
+1.2.3.2.21.02
+Cobros por Estacionamiento en Espacio Público o en
+1.1.02.02.087.01
+Lotes de Parqueo
+Tasas por el Derecho de Parqueo Sobre las Vias
+Públicas Vigencia Actual
+1.000.000
+1.000.000
+1.1.02.02.088
+Tasa Retributiva
+8,532,262,901
+8.532.262.901
+8.521.399.265
+99,9
+4133
+1.2.3.2.10
+Tasas retributivas
+1.1.02.02.088.01
+Tasa Retributiva Vigencia Actual
+8.532.262.901
+8.532.262.901
+8.521.399.265
+99,9
+1.1.02.02.089
+Tasa por aprovechamianto forestal
+500.000.000
+500.000.000
+183.164.184
+36,6
+4133
+1.2.3.2.22.06
+Tasa Compensación Arbórea
+1.1.02.02.089.01
+Tasa por aprovechamiento forestai Vigencia Actuai
+500.000.000
+500.000.000
+183.164.184
+36,6
+1.1.02.02.093
+Derechos do Tránsito en Áreas Restringidas o de
+Aita Congestión
+18.534.164.726
+18.534.164.726
+13.590.822.793
+73,3
+4152
+1.2.3.2.21.03
+Derechos de Tránsito en Áreas Restringidas o de Aita 1.1.02.02.093.01
+Congestión
+Dareches de Tránsito en Areas Restringidas o de Aita
+18.534.164.726
+18.534.164.726
+13.590.822.793
+73,3
+Congestión Vigencia Actual
+1.1.02.02.094
+Cobros por Estacionamiento en Espacio Público o
+en Lotes de Parqueo
+1:000,000
+1:000.000
+4152
+1.2.3.2.21.02
+Cobros por Estacionemianto en Espacio Público o en
+Letes da Parqueo
+1.1.02.02.094.01
+Cobros por Estacionamiento en Espacio Público o en
+1.000,000
+1.000.000
+Lotas de Parqueo Vigencias Actual
+1.1.02.02.095
+Plazas de Mercado
+258,716,433
+258.716.433
+209.628.000
+81,0
+1.1.02.02.095.03
+Plaza de Mercado Alameda
+258.716.433
+258.716.433
+209,628.000
+81,0
+4131
+1,2,1,0.00-
+4131
+1.2.3.4.02
+1CLD LEY 99 - Destino Ambiental
+4131
+1,2.1.0.00
+ingresos comentes de Libre Destinación
+ingresos comentes de Libre Destinación
+1.1.02.02.095.03.01.....
+Plaza-de Marcado, Alameda Vigancla Actuai..
+256.129.269
+256.129.269
+207.531.720
+81,0
+1.1.02.02.095.03.01
+Piaza de Mercado Aiamedá Vigencia Actuei
+2.587.164
+2.587.164
+2.096.280
+81,0
+1.1.02.02.095.01.01
+1.1.02.02.102
+Piaza de Mercado Ei Porvenir Vigencia Actual
+Derechos de Tránsito
+14.400,101,858
+14.400.101.858
+16.806,586,907
+116,7
+4152 1.2.3.2.21.01
+Otros derechos de Tránsito
+4152
+1.2.3.2.21.01
+Otros derechos de Tránsito
+4152
+1.2.3.2.21.01
+Otros derechos de Tránsito,
+4152
+1.2.3.2.21.04
+Recursos Convenio Municiplo CDAV
+1.1.02.02.102.06
+4152
+1.2.3.2.21.01
+Otros derechos de Tránsito
+1.1.02.02.102.07
+4131
+1.2.3.2.22.04
+incentivo al Aprovechemiento y Tratamianto de
+1.1.02.02.118
+Residue's Sólidos
+1.1,02.02, 102.01
+1.1.02.02.102.03
+Licencies da Conducción
+5.541.230.880
+5.541.230.880
+3,842.171:280
+69,3
+Olros Derechos de Tránsito
+6.434.452.753
+6.434.452.753
+9.010.381.603
+140,0
+1.1.02.02.102.04
+Servicios, de Patios de Transito
+Recursos Convenio Municipio CDAV
+Sarvicios de Gruás Tránsito
+incentivo al Aprovechamiento y Tratemlento de
+Residuos Sólidos
+2.422.418.225
+2.422.418.225
+.........1.592.472.675
+65,7
+1.000.000
+1,000,000
+2.361.561.349 236.156,1
+1.000.000
+1.000.000
+4.444.124.051
+4.444.124.051
+5,038,063.314
+113.4
+Página 7 de 32
