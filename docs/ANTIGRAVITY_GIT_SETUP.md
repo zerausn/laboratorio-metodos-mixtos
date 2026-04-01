@@ -2,17 +2,19 @@
 
 ## Raices de trabajo
 
-- `Note9` se trabaja desde `C:\Users\ZN-\Documents\Antigravity`
+- `Note9` se recomienda trabajar desde `C:\Users\ZN-\Documents\Antigravity\Openclaw note 9`
 - `laboratorio-metodos-mixtos` se trabaja desde `C:\Users\ZN-\Documents\Antigravity\Laboratorio metodos mixtos`
 
-## Regla operativa
+## Regla practica para Antigravity
 
 Cada proyecto debe abrirse en Antigravity o VS Code desde su propia raiz git.
 
-- Si abres `C:\Users\ZN-\Documents\Antigravity`, Git opera sobre `zerausn/Note9`
+- Si abres `C:\Users\ZN-\Documents\Antigravity\Openclaw note 9`, Git opera sobre `zerausn/Note9`
 - Si abres `C:\Users\ZN-\Documents\Antigravity\Laboratorio metodos mixtos`, Git opera sobre `zerausn/laboratorio-metodos-mixtos`
 
-No se debe trabajar el laboratorio desde la raiz de `Note9`, porque son repositorios independientes.
+La raiz `C:\Users\ZN-\Documents\Antigravity` sigue existiendo como otra copia de trabajo de `Note9`, pero la ruta recomendada y limpia para Antigravity es `Openclaw note 9`.
+
+No se debe trabajar el laboratorio desde ninguna copia de `Note9`, porque son repositorios independientes.
 
 ## Remotos
 
@@ -28,7 +30,10 @@ git pull --ff-only origin main
 git push --dry-run origin main
 ```
 
-Los dos funcionan tanto en `Note9` como en `laboratorio-metodos-mixtos`.
+Los dos funcionan en:
+
+- `C:\Users\ZN-\Documents\Antigravity\Openclaw note 9`
+- `C:\Users\ZN-\Documents\Antigravity\Laboratorio metodos mixtos`
 
 ## Git LFS
 
@@ -51,3 +56,7 @@ Puedes abrir directamente:
 o abrir la carpeta raiz del repo:
 
 - `C:\Users\ZN-\Documents\Antigravity\Laboratorio metodos mixtos`
+
+Para `Note9`, la carpeta recomendada es:
+
+- `C:\Users\ZN-\Documents\Antigravity\Openclaw note 9`

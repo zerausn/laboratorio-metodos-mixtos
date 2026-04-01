@@ -1,35 +1,53 @@
-# Contexto del Proyecto: Laboratorio Métodos Mixtos
+# Contexto del Proyecto: Laboratorio Metodos Mixtos
 
-Este documento resume el propósito, la evolución y las decisiones técnicas tomadas durante el desarrollo de este laboratorio para que futuras inteligencias artificiales o colaboradores puedan entender el "por qué" detrás del código.
+Este laboratorio no es un proyecto de OCR aislado. Es una base de trabajo para investigacion de metodos mixtos que combina analisis cualitativo, cuantitativo, espacial y documental con herramientas open-source.
 
-## Propósito
-El objetivo de este laboratorio es desarrollar una herramienta robusta para el análisis de documentos (principalmente PDFs) utilizando métodos mixtos (cuantitativos y cualitativos). Esto incluye extracción de texto, procesamiento de lenguaje natural (NLP), análisis espacial y estadísticas descriptivas.
+## Proposito
 
-## Arquitectura y Estructura
-- **`app.py`**: El punto de entrada de la aplicación.
-- **`backend/`**: Contiene la lógica modular:
-  - `document_parser.py`: Encargado de la extracción de texto.
-  - `nlp_module.py`: Procesa el texto (entidades, sentimientos, etc.).
-  - `spatial_module.py`: Realiza análisis geométrico o espacial.
-  - `stats_module.py`: Genera métricas y estadísticas.
-- **`tests/`**: Suite de pruebas unitarias para cada módulo.
+Desarrollar una plataforma local, trazable y extensible para:
 
-## Hitos y Decisiones Clave
+- analizar documentos institucionales
+- recuperar PDFs degradados
+- apoyar codificacion cualitativa
+- producir matrices y cruces para metodos mixtos
+- integrar analisis espacial y estadistico
 
-### 1. Robustez en la Extracción de PDF
-Originalmente, el sistema enfrentó problemas con caracteres especiales en español (tildes, ñ) y estructuras complejas.
-- **Decisión**: Se migró a `pdfminer.six` para una extracción más precisa y de bajo nivel, priorizando la integridad del texto sobre la velocidad simple de otras librerías.
+## Motivacion
 
-### 2. Flujo de Trabajo Basado en Pruebas
-Se implementó una estructura de tests desde el inicio para asegurar que cada módulo de análisis (NLP, Espacial, Stats) funcione de forma independiente antes de integrarse en la UI.
+La motivacion central es reducir dependencia de software de pago. El laboratorio se piensa como una ruta progresiva para reemplazar o complementar:
 
-### 3. Automatización de Entorno
-Se incluyeron archivos `.bat` para facilitar la instalación (`Instalacion_PC_Nueva.bat`) e inicio (`Iniciar_Lab.bat`) en máquinas Windows, asegurando que cualquier usuario pueda levantar el laboratorio sin conocimientos profundos de Python.
+- NVivo
+- Atlas.ti
+- ArcGIS
 
-## Decisiones de Git
-- El proyecto se migró a GitHub el 21 de marzo de 2026.
-- Se utiliza la rama `main` como rama principal.
-- Se configuró el usuario `zerausn` para los commits oficiales.
+La pila preferida es Python + R + QGIS + librerias libres.
 
-## Estado Actual
-El sistema es capaz de procesar textos, realizar análisis básicos y está listo para ser expandido con una interfaz gráfica o procesos de análisis más complejos.
+## Evolucion
+
+La evolucion del proyecto tuvo dos lineas:
+
+1. La linea principal que quedo en `zerausn/laboratorio-metodos-mixtos`.
+2. Una linea inicial desarrollada en otro computador y publicada en `zerausn/laboratorio-metodos-mixtos-asp`.
+
+La fusion actual toma lo mejor de ambas:
+
+- app y backend principal
+- subproyecto de reconstruccion documental
+- modulos OCR adicionales
+- documentacion de contexto
+- reportes de ejemplo
+
+## Alcance actual
+
+- Interfaz Streamlit operable localmente
+- Backend NLP, espacial y estadistico
+- OCR local con Tesseract y EasyOCR
+- Reconstruccion de PDFs y exportacion a Office
+- Ejemplos de reportes para trabajo fiscal e institucional
+
+## Criterios de diseno
+
+- prioridad a software libre
+- procesamiento local siempre que sea viable
+- documentacion suficiente para que otra IA o programador continue el trabajo
+- separacion entre codigo reusable y artefactos temporales de sesion

@@ -1,26 +1,57 @@
 # Historia de Tareas y Decisiones
 
-Este documento registra los pasos seguidos durante el desarrollo inicial del laboratorio.
+## Fase 1: Nacimiento del laboratorio
 
-## Fase 1: Extracción de Documentos (Conversación 212546d2)
-- **Problema**: `pymupdf` y otros métodos simples fallaban con caracteres especiales (ñ, tildes) y layouts complejos.
-- **Acción**: Investigación de librerías alternativas.
-- **Solución**: Implementación de `pdfminer.six`. Se verificó la correcta extracción en archivos de prueba.
-- **Resultado**: Módulo `backend/document_parser.py` funcional y robusto.
+El laboratorio nacio como un entorno local para analisis documental y metodos mixtos, con una app Streamlit y un backend modular para NLP, analisis espacial y estadistica.
 
-## Fase 2: Infraestructura y GitHub (Conversación actual)
-- **Problema**: Proyecto solo local, sin control de versiones ni herramientas de despliegue fáciles.
-- **Acciones**:
-  - Creación de scripts `.bat` para usuarios Windows.
-  - Configuración de `.gitignore` para omitir entornos virtuales.
-  - Instalación de `git` y `gh` mediante `winget`.
-  - Inicialización de repositorio Git local y remoto.
-- **Configuración Git**:
-  - Branch principal: `main`
-  - Usuario: `zerausn`
-  - Email: `zerausn@gmail.com`
+## Fase 2: Primera publicacion en GitHub
 
-## Próximos Pasos (Pendientes)
-- Integración de los módulos en una interfaz de usuario (Streamlit o similar).
-- Expansión de las capacidades de `stats_module.py`.
-- Documentación de uso para el usuario final.
+Se publico una linea inicial del trabajo en `zerausn/laboratorio-metodos-mixtos-asp`, en la rama `windows-andre`, incluyendo:
+
+- app Streamlit
+- backend base
+- modulos OCR adicionales
+- documentacion para IA
+- reportes de ejemplo
+
+## Fase 3: Consolidacion del repo principal
+
+En `zerausn/laboratorio-metodos-mixtos` se consolido el trabajo local mas reciente, incluyendo:
+
+- la app principal
+- los modulos base del backend
+- el subproyecto `reconstruccion_documental`
+- integracion con JSON de Document AI
+- reconstruccion limpia de PDF y Excel
+
+## Fase 4: Caso OCR de Cali 2025
+
+Se trabajo un caso fuerte de recuperacion documental sobre un PDF presupuestal degradado de 69 paginas, con:
+
+- OCR local
+- pipelines con y sin JSON
+- reconstruccion limpia pagina por pagina
+- exportaciones a PDF, Excel y Word
+
+## Fase 5: Fusion ASP -> repo principal
+
+Se reviso `zerausn/laboratorio-metodos-mixtos-asp` y se encontro que:
+
+- `app.py` y `requirements.txt` ya estaban fusionados
+- los 4 modulos base compartidos eran identicos
+- faltaban modulos OCR, contexto y reportes de ejemplo
+
+La fusion incorporo:
+
+- modulos backend OCR faltantes
+- `requirements_layers.txt`
+- `context_and_history.md`
+- `docs/ESTRATEGIA_DATOS.md`
+- `reports/` del laboratorio ASP
+
+Y dejo por fuera:
+
+- `brain/`
+- `browser_recordings/`
+- `conversations/`
+- datos temporales y artefactos de sesion

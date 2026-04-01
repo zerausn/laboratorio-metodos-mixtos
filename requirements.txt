@@ -7,6 +7,7 @@ spacy>=3.7.0
 nltk>=3.8.1
 rpy2>=3.5.14
 matplotlib>=3.8.0
+python-pptx>=0.6.23
 
 # Ecosystem for Qualitative Research
 # Equivalent to NVivo / Atlas.ti | Environmental Observatories Colombia
@@ -50,6 +51,12 @@ tabulate>=0.9.0
 # Automatic transcription (Whisper)
 openai-whisper
 ffmpeg-python>=0.2.0
+
+# OCR local and document reconstruction
+opencv-python>=4.10.0
+pytesseract>=0.3.13
+easyocr>=1.7.1
+reportlab>=4.0.0
 
 # Additional tools
 jupyter>=1.0.0

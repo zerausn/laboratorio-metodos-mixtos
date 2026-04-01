@@ -1,0 +1,29 @@
+# Librerías Python instaladas para el Pipeline de OCR por Capas (No tokens)
+
+# 1. PyMuPDF (fitz)
+# Uso: Extraer páginas del PDF original y convertirlas en imágenes de alta resolución (zoom 3x). Es más rápido y eficiente que pdf2image, y no requiere Poppler.
+PyMuPDF==1.27.2
+
+# 2. opencv-python (cv2)
+# Uso: Módulo principal para el procesamiento forense de imágenes. Mediante filtros de binarización adaptativa y operaciones morfológicas, separa la "capa" de texto de la "capa" de ruido de la fotocopiadora analizando el área de las manchas.
+opencv-python==4.13.0.92
+
+# 3. pytesseract
+# Uso: Wrapper de Python para el motor OCR de código abierto de Google (Tesseract). Se encarga de extraer el texto limpio localmente sin gastar tokens de la nube.
+pytesseract==0.3.13
+
+# 4. pandas
+# Uso: Estructuración de los datos del OCR en forma de tablas para exportarlos fácilmente a archivos CSV o Excel (.xlsx).
+pandas==2.3.3
+
+# 5. xlsxwriter
+# Uso: Motor de escritura interno utilizado por pandas para generar documentos Excel nativos de forma segura.
+xlsxwriter==3.2.9
+
+# 6. python-docx
+# Uso: Generación programática del archivo de Word (.docx). Toma el texto extraído del OCR y crea un documento con saltos de página por cada página del PDF analizada.
+python-docx==1.2.0
+
+# 7. reportlab
+# Uso: Generación de documentos PDF nativos. Creamos un archivo 'output_layers.pdf' puramente con el texto extraído del OCR, haciéndolo 100% consultable e indexable.
+reportlab==4.4.10
