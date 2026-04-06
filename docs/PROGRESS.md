@@ -2,11 +2,15 @@
 
 ## Fase 1: Nacimiento del laboratorio
 
-El laboratorio nacio como un entorno local para analisis documental y metodos mixtos, con una app Streamlit y un backend modular para NLP, analisis espacial y estadistica.
+El laboratorio nacio como un entorno local para analisis documental y metodos
+mixtos, con una app Streamlit y un backend modular para NLP, analisis espacial
+y estadistica.
 
 ## Fase 2: Primera publicacion en GitHub
 
-Se publico una linea inicial del trabajo en `zerausn/laboratorio-metodos-mixtos-asp`, en la rama `windows-andre`, incluyendo:
+Se publico una linea inicial del trabajo en
+`zerausn/laboratorio-metodos-mixtos-asp`, en la rama `windows-andre`,
+incluyendo:
 
 - app Streamlit
 - backend base
@@ -16,7 +20,8 @@ Se publico una linea inicial del trabajo en `zerausn/laboratorio-metodos-mixtos-
 
 ## Fase 3: Consolidacion del repo principal
 
-En `zerausn/laboratorio-metodos-mixtos` se consolido el trabajo local mas reciente, incluyendo:
+En `zerausn/laboratorio-metodos-mixtos` se consolido el trabajo local mas
+reciente, incluyendo:
 
 - la app principal
 - los modulos base del backend
@@ -26,7 +31,8 @@ En `zerausn/laboratorio-metodos-mixtos` se consolido el trabajo local mas recien
 
 ## Fase 4: Caso OCR de Cali 2025
 
-Se trabajo un caso fuerte de recuperacion documental sobre un PDF presupuestal degradado de 69 paginas, con:
+Se trabajo un caso fuerte de recuperacion documental sobre un PDF presupuestal
+degradado de 69 paginas, con:
 
 - OCR local
 - pipelines con y sin JSON
@@ -55,3 +61,11 @@ Y dejo por fuera:
 - `browser_recordings/`
 - `conversations/`
 - datos temporales y artefactos de sesion
+
+## Fase 6: Contexto de agentes y automatizacion segura
+
+- `AGENTS.md` y archivos de compatibilidad multiagente ya quedaron versionados.
+- `.antigravity/automation.json` agregado con validacion baseline segura.
+- Workflow `agent-validate.yml` agregado para PRs.
+- El repo queda preparado para publicacion por rama corta y PR, sin push
+  automatico directo a `main`.

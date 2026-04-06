@@ -1,0 +1,21 @@
+{
+  "project_name": "laboratorio-metodos-mixtos",
+  "base_branch": "main",
+  "branch_prefix": "codex/",
+  "git": {
+    "push_remote": "origin",
+    "base_remote": "origin"
+  },
+  "validation": {
+    "local": [
+      "if (Test-Path '.venv\\Scripts\\python.exe') { .\\.venv\\Scripts\\python.exe -m compileall app.py backend tests reconstruccion_documental } else { python -m compileall app.py backend tests reconstruccion_documental }"
+    ],
+    "ci": [
+      "python -m compileall app.py backend tests reconstruccion_documental"
+    ]
+  },
+  "pull_request": {
+    "enabled": true,
+    "draft": true
+  }
+}

@@ -39,7 +39,7 @@ class TestQualityScoring(unittest.TestCase):
         self.assertGreater(score, 0.4, f"Texto limpio debería tener score > 0.4, obtuvo {score}")
 
     def test_garbage_text_scores_low(self):
-        garbage = "§§§ ¤¤¤ @@@ ### %%% ^^^ &&& *** ||| \\\\\ ≈≈≈ ∞∞∞"
+        garbage = "@@@ ### %%% ^^^ &&& *** ||| \\\\ ??? ???"
         score = _score_text(garbage)
         self.assertLess(score, 0.3, f"Texto basura debería tener score < 0.3, obtuvo {score}")
 
