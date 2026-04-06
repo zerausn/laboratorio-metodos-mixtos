@@ -45,7 +45,9 @@ desktop.ini
 
 # AI Memory
 AI.local.md
+CLAUDE.local.md
 MEMORY.md
+.antigravity/local.json
 
 # Video process artifacts (ignored)
 scanned_videos.json
