@@ -3,6 +3,8 @@
 Este documento registra el contexto de las conversaciones con IAs que han trabajado en este proyecto,
 para que cualquier desarrollador o IA futura pueda entender la historia y continuar sin perder contexto.
 
+> Actualizacion 2026-04-06 (Antigravity + OpenAI Codex; Claude Code y Gemini cubiertos por compatibilidad): se anadio la capa `.antigravity/automation.json` al repo con validacion baseline por `compileall`, se agrego `agent-validate.yml` para PRs y se documento la decision de no forzar todavia una CI pesada con `pytest` hasta endurecer mejor el entorno portable.
+
 ---
 
 ## Repositorios involucrados
