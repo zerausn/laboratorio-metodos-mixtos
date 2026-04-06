@@ -42,3 +42,12 @@ desktop.ini
 *.pdf
 # (Opcional) Si no quieres subir los PDFs que se procesan
 !reconstruccion_documental/**/*.pdf
+
+# AI Memory
+AI.local.md
+MEMORY.md
+
+# Video process artifacts (ignored)
+scanned_videos.json
+uploader.log
+scanner.log
