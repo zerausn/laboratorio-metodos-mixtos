@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import tempfile
 import os
+import io
 import folium
 from streamlit_folium import st_folium
 import networkx as nx
@@ -34,6 +35,14 @@ try:
     stat_proc = StatsProcessor()
 except Exception as e:
     stat_proc = None
+
+try:
+    from backend.ocr_engine import OCREngine
+    from backend.export_module import DataExporter
+    ocr_engine = OCREngine()
+except Exception as e:
+    ocr_engine = None
+    st.warning(f"Motor OCR no disponible (instala dependencias OCR): {e}")
 
 # Configuración inicial de la página (estética del laboratorio)
 st.set_page_config(page_title="SocEnv Lab | Métodos Mixtos", page_icon="🔬", layout="wide")
@@ -85,7 +94,8 @@ menu = st.sidebar.radio(
         "📝 Procesamiento NLP (Automático)",
         "🧠 Codificación Avanzada (Manual/NVivo)",
         "🌍 Análisis Espacial (QGIS)",
-        "📊 Métodos Mixtos (R)"
+        "📊 Métodos Mixtos (R)",
+        "🔍 OCR Multi-Motor (Documentos Degradados)",
     ]
 )
 
@@ -363,6 +373,20 @@ elif menu == "🧠 Codificación Avanzada (Manual/NVivo)":
                 file_name='proyecto_cualitativo_export.csv',
                 mime='text/csv',
             )
+
+            # Exportar a Excel (codebook + citas + matriz)
+            from backend.export_module import DataExporter
+            excel_bytes = DataExporter.codebook_to_excel_bytes(
+                st.session_state.get("codebook", []),
+                df_quotes
+            )
+            if excel_bytes:
+                st.download_button(
+                    label="📥 Exportar Proyecto Cualitativo (Excel multi-hoja)",
+                    data=excel_bytes,
+                    file_name='proyecto_cualitativo_export.xlsx',
+                    mime='application/vnd.openxmlformats-officedocument.spreadsheetml.sheet',
+                )
         else:
             st.info("Aún no has codificado ningún fragmento.")
             
@@ -475,3 +499,174 @@ elif menu == "📊 Métodos Mixtos (R)":
     else:
         st.error("No se pudo iniciar el conector R. Verifica que R esté instalado correctamente en Windows.")
 
+
+# =====================================================================
+# SECCIÓN: OCR MULTI-MOTOR
+# =====================================================================
+elif menu == "🔍 OCR Multi-Motor (Documentos Degradados)":
+    st.title("🔍 Reconstrucción Documental OCR")
+    st.markdown("""
+    Procesa PDFs degradados o escaneados con **tres motores OCR en paralelo**, elige el mejor
+    resultado automáticamente y permite exportar a Word/Excel.
+
+    **Motores disponibles:**
+    | Motor | Descripción | Requiere |
+    |-------|-------------|----------|
+    | PyMuPDF nativo | Extraccion de texto incrustado (instantáneo) | `pymupdf` |
+    | Tesseract | OCR clásico, muy estable | `tesseract` + `pytesseract` |
+    | EasyOCR | Deep learning, mejor en degradados | `easyocr` + `torch` |
+    """)
+
+    # Diagnistico de motores
+    if ocr_engine:
+        with st.expander("⚙️ Estado de los motores OCR", expanded=False):
+            diagnostics = ocr_engine.run_diagnostics()
+            for line in diagnostics:
+                st.write(line)
+
+        # Upload de PDF
+        uploaded_pdf = st.file_uploader(
+            "Sube tu PDF (puede ser degradado, escaneado, o con ruido de fotocopia):",
+            type=["pdf"]
+        )
+
+        if uploaded_pdf:
+            col_a, col_b = st.columns(2)
+            with col_a:
+                total_hint = st.number_input("Total de páginas del PDF (aproximado)", min_value=1, value=10, step=1)
+            with col_b:
+                page_range_str = st.text_input(
+                    "Páginas a procesar (ej. 1,2,5 o 1-3):",
+                    value="1,2,3"
+                )
+
+            # Parsear rango de páginas
+            def _parse_pages(s):
+                pages = set()
+                for part in s.split(","):
+                    part = part.strip()
+                    if "-" in part:
+                        a, _, b = part.partition("-")
+                        try:
+                            pages.update(range(int(a.strip()), int(b.strip()) + 1))
+                        except ValueError:
+                            pass
+                    elif part.isdigit():
+                        pages.add(int(part))
+                return sorted(pages)
+
+            page_range = _parse_pages(page_range_str)
+            st.caption(f"Páginas seleccionadas: {page_range}")
+
+            if st.button("🔍 Procesar PDF", type="primary"):
+                with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as tmp_pdf:
+                    tmp_pdf.write(uploaded_pdf.getvalue())
+                    tmp_pdf_path = tmp_pdf.name
+
+                try:
+                    with st.spinner("Procesando páginas con los motores OCR disponibles..."):
+                        results = ocr_engine.process_pdf(tmp_pdf_path, page_range=page_range)
+                    st.session_state["ocr_results"] = results
+                    st.success(f"Se procesaron {len(results)} páginas.")
+                except Exception as exc:
+                    st.error(f"Error durante el OCR: {exc}")
+                finally:
+                    os.remove(tmp_pdf_path)
+
+        # Mostrar resultados
+        if "ocr_results" in st.session_state and st.session_state["ocr_results"]:
+            results = st.session_state["ocr_results"]
+
+            st.markdown("---")
+            st.subheader("📊 Resumen de calidad por página")
+
+            # Tabla resumen de scores
+            score_rows = []
+            for r in results:
+                row = {"Página": r["page"], "Mejor Motor": r["best_engine"],
+                       "Score": round(r["best_score"], 3), "Combinado": r.get("combined", False)}
+                row.update({f"score_{k}": round(v, 3) for k, v in r.get("score_summary", {}).items()})
+                score_rows.append(row)
+            st.dataframe(pd.DataFrame(score_rows), use_container_width=True)
+
+            # Advertencias de baja calidad
+            low_quality = [r for r in results if r["best_score"] < 0.15]
+            if low_quality:
+                st.warning(
+                    f"⚠️ {len(low_quality)} página(s) con calidad baja (score < 0.15): "
+                    f"{[r['page'] for r in low_quality]}. "
+                    "Puede que sean imágenes, páginas en blanco o documentos muy degradados."
+                )
+
+            # Ver texto por página
+            st.markdown("---")
+            st.subheader("📄 Texto extraído por página")
+            for r in results:
+                label = (f"Página {r['page']} — motor: {r['best_engine']} — "
+                         f"score: {r['best_score']:.3f}"
+                         + (" — [COMBINADO]") if r.get("combined") else "")
+                with st.expander(label):
+                    if r.get("warning"):
+                        st.warning(r["warning"])
+
+                    st.text_area("Texto extraído:", value=r.get("best_text", ""),
+                                 height=200, key=f"ocr_txt_{r['page']}")
+
+                    # Comparativa de motores
+                    st.markdown("**Comparativa de motores:**")
+                    for eng_name, eng_result in r.get("results_by_engine", {}).items():
+                        sc = eng_result.get("score", 0)
+                        avail = eng_result.get("available", False)
+                        err = eng_result.get("error")
+                        if not avail:
+                            st.write(f"  - `{eng_name}`: **no disponible** — {err or ''}")
+                        elif err:
+                            st.write(f"  - `{eng_name}`: **error** — {err}")
+                        else:
+                            preview = str(eng_result.get("text", ""))[:150].replace("\n", " ")
+                            st.write(f"  - `{eng_name}` (score {sc:.3f}): {preview}...")
+
+            # Exportaciones
+            st.markdown("---")
+            st.subheader("📥 Exportar resultados")
+            from backend.export_module import DataExporter
+
+            col_exp1, col_exp2, col_exp3 = st.columns(3)
+
+            with col_exp1:
+                excel_bytes = DataExporter.ocr_results_to_excel_bytes(results)
+                if excel_bytes:
+                    st.download_button(
+                        label="📊 Excel (Resumen + Scores)",
+                        data=excel_bytes,
+                        file_name="ocr_resultados.xlsx",
+                        mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    )
+
+            with col_exp2:
+                word_bytes = DataExporter.to_word_bytes(
+                    results, title=f"Resultados OCR — {uploaded_pdf.name if 'uploaded_pdf' in dir() else 'documento'}"
+                )
+                if word_bytes:
+                    st.download_button(
+                        label="📄 Word (Informe narrativo)",
+                        data=word_bytes,
+                        file_name="ocr_informe.docx",
+                        mime="application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    )
+
+            with col_exp3:
+                csv_bytes = DataExporter.to_csv_bytes(
+                    [{"pagina": r["page"], "motor": r["best_engine"],
+                      "score": r["best_score"], "texto": r["best_text"]} for r in results]
+                )
+                st.download_button(
+                    label="📄 CSV (Texto plano)",
+                    data=csv_bytes,
+                    file_name="ocr_texto.csv",
+                    mime="text/csv",
+                )
+
+    else:
+        st.error("El motor OCR no pudo inicializarse. Instala las dependencias con: `pip install pymupdf pytesseract easyocr`")
+        st.code("pip install pymupdf pytesseract easyocr pillow opencv-python")
